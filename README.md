@@ -1,8 +1,12 @@
 # WeAreHiring
 
-### Open positions
+Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
 
-We position ourselves as a Startups Factory. We build innovative product, give a hand to build companies and also do seed investment. Join our network if you are **startup veterans** and can wear multiple hats at the time. 
+We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
+
+We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative product, give a hand to build companies and also do seed investment. Join our network if you are **startup veterans** and can wear multiple hats at the time. 
+
+### Open positions
 
 #### Mobile
 
@@ -21,17 +25,12 @@ We position ourselves as a Startups Factory. We build innovative product, give a
 #### Biz
 
 - High responsible [Growth Hacker](/open-positions/GrowthHacker.md)
-- Customer Success Officer
-- Mentors, Tech Advisors and Product Development Strategist
+- [Mentors, Tech Advisors and Product Development Strategist](/open-positions/Mentor.md)
 - Want to join us as [_Interns_](/open-positions/Intern.md)? [Apply here](#).
 
 ## Our team
 
-We are a team of geeks, hustles and startup . We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help people solve their problems by our solutions.
 
-<img>
-
-We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miner, Crafter, Wizard and Solider.
 
 ## Our core values
 
@@ -45,7 +44,6 @@ We call ourselves dwarves, the small and misshapen creatures in Norse Mythology.
 <Blog>
 
 ## Hiring process
-
 
 ## Our stack and technology
 
@@ -77,7 +75,7 @@ We call ourselves dwarves, the small and misshapen creatures in Norse Mythology.
 
 #### Board games and card games
 
-We are fan of board game and card game. We organise 
+We are fan of board game and card game. We organise a meetup every week for friend
 
 #### Walking Meeting
 
