@@ -8,6 +8,8 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ### Open positions
 
+- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](#).
+
 #### Mobile
 
 - [Senior Android](/open-positions/Android.md)
@@ -26,7 +28,6 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 - High responsible [Growth Hacker](/open-positions/GrowthHacker.md)
 - [Mentors, Tech Advisors and Product Development Strategist](/open-positions/Mentor.md)
-- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](#).
 
 ## Our team
 
@@ -40,7 +41,7 @@ You should have the same DNA to join us
 - **Geeky style**: We can do anything, wear multiple hats, take multiple approachs from official to tricky way to achieve the goal.
 - **Teamwork**: **_Synchronisation_** and **_Collaboration_** are the most important key things. You can read this topic: [It's hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/). We apply agile process to keep our spirits stick together.
 - **Proactive**: You need to figure out yourself what you want to do and what you want to contribute aligned to the team goal as a dwarf in the tribe. We are too busy to tell you.
-- **Growth and sharing**: We believe that working hard and improving yourself everyday will make you paid back later. Read [this topic](https://www.quora.com/How-can-I-motivate-myself-to-work-hard) to keep yourself motivated.
+- **Growth and sharing**: You can learn another skill from other teammates. We are happy to share it to you. And we believe that working hard and improving yourself everyday will make you paid back later. Read [this topic](https://www.quora.com/How-can-I-motivate-myself-to-work-hard) to keep yourself motivated.
 
 ## We do agile
 
@@ -123,4 +124,4 @@ Reach out: han@dwarvesf.com
 
 ------
 
-Inspired and Copyright from HotelQuickly. Prepared by the founder with <3.
+Inspired and copyright from HotelQuickly. Prepared and customized by the our founder with <3.
