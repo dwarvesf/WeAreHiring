@@ -34,14 +34,17 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ## Our core values
 
-- Geeky style
-- Proactive: We always 
-- Growth and learning
-- Agile
+You should have the same DNA to join us
+
+- **Customer first**: We provide the service with high quality and no latency response time. Customers have to be happy.
+- **Geeky style**: We can do anything, wear multiple hats, take multiple approachs from official to tricky way to achieve the goal.
+- **Teamwork**: **_Synchronisation_** and **_Collaboration_** are the most important key things. You can read this topic: [It's hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/). We apply agile process to keep our spirits stick together.
+- **Proactive**: You need to figure out yourself what you want to do and what you want to contribute aligned to the team goal as a dwarf in the tribe. We are too busy to tell you.
+- **Growth and sharing**: We believe that working hard and improving yourself everyday will make you paid back later. Read [this topic](https://www.quora.com/How-can-I-motivate-myself-to-work-hard) to keep yourself motivated.
 
 ## We do agile
 
-<Blog>
+Because we know that teamwork is one of important factor to be successful. We reserve a separate post for it. Checkout this post to [know more about our teamwork philosophy and how we apply Agile to improve the productivity.](/additional-info/agile.md)
 
 ## Hiring process
 
@@ -75,7 +78,7 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ## Team Activities
 
-#### Board games and card games
+### Board games and card games
 
 We are fan of board games and card games. We organise meetup every weekend for our team members, friends and other startups to keep the balance between work and life, also expand our connections to the world.
 
@@ -86,15 +89,15 @@ Currently we are falling for those games
 - [Settlers of Catan](http://www.catan.com)
 - [Uno](https://en.wikipedia.org/wiki/Uno_(card_game))
 
-#### Trip
+### Trip
 
 We spend 3 to 5 days per quarter to travel around the country to refresh and boost up our productivity. We believe it is better than just stay in the room.
 
-- Lagi
+#### Lagi
 
 [![Lagi Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/lagi-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
-- Da Lat
+#### Da Lat
 
 [![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
 
@@ -120,4 +123,4 @@ Reach out: han@dwarvesf.com
 
 ------
 
-Inspired and Copyright from HotelQuickly. Prepared by Han with <3.
+Inspired and Copyright from HotelQuickly. Prepared by the founder with <3.
