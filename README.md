@@ -109,19 +109,20 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 
 We found Golang Community in the beginning of our journey on Jan 2015 and be a part of it till today. We use Golang as our main backend language. We organise meetups every month for Gophers in Vietnam.
 
-[![Golang Meetups](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/golang-meetup-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+[![Golang Meetups](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/golang-meetup.jpg)](/images/golang-meetup.jpg)
 
 #### Sales Training workshop
 -----
 
 As a technology partner with SalesInOne Pte., we also help them to organise monthly sales workshop and connect them to potential partners in Vietnam in order to penetrate the market. Those workshops bring lots of values to the community.
 
-[![Voices Of Sales](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/sales-workshop-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+[![Voices Of Sales](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/vos-workshop.jpg)](/images/vos-workshop.jpg)
 
 ## Questions?
 
-Reach out: han@dwarvesf.com
+Reach out: info@dwarvesf.com
+Address: 154/3 Ly Chinh Thang, district 3, HCMC 700000, Vietnam
 
 ------
 
-Inspired and copyright from HotelQuickly. Prepared and customized by the our founder with <3.
+Inspired and copyright from HotelQuickly. Prepared and customized by our founder with <3.
