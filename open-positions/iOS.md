@@ -6,7 +6,7 @@ Found in 2014, we are a team of geeks, hustles and startup veterans. We live aro
 
 We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
 
-We position ourselves as a Startups Factory. We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are startup veterans and can wear multiple hats at the time.
+We position ourselves as a Startups Factory. We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
 
 We are driven by values, not just the money. We aim to the perfection as our standard. You can find more information about us here: https://github.com/dwarvesf/WeAreHiring
 

@@ -4,11 +4,11 @@ Found in 2014, we are a team of geeks, hustles and startup veterans. We live aro
 
 We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
 
-We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans** and can wear multiple hats at the time. 
+We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
 
 ### Open positions
 
-- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](#).
+- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](/open-positions/Intern.md).
 
 #### Mobile
 
@@ -40,7 +40,7 @@ You should have the same DNA to join us
 - **Customer first**: We provide the service with high quality and no latency response time. Customers have to be happy.
 - **Geeky style**: We can do anything, wear multiple hats, take multiple approachs from official to tricky way to achieve the goal.
 - **Teamwork**: **_Synchronisation_** and **_Collaboration_** are the most important key things. You can read this topic: [It's hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/). We apply agile process to keep our spirits stick together.
-- **Proactive**: You need to figure out yourself what you want to do and what you want to contribute aligned to the team goal as a dwarf in the tribe. We are too busy to tell you.
+- **Proactive**: Pick your most productivity time to work. You need to figure out yourself what you want to do and what you want to contribute aligned to the team goal as a dwarf in the tribe. We are too busy to tell you.
 - **Growth and sharing**: You can learn another skill from other teammates. We are happy to share it to you. And we believe that working hard and improving yourself everyday will make you paid back later. Read [this topic](https://www.quora.com/How-can-I-motivate-myself-to-work-hard) to keep yourself motivated.
 
 ## We do agile
@@ -49,7 +49,7 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Hiring process
 
-
+- We do not talk bullshit
 
 ## Our stack and technology
 
@@ -96,11 +96,11 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 
 #### Lagi
 
-[![Lagi Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/lagi-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+[![Lagi Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/lagi.jpg)](/images/lagi.jpg)
 
 #### Da Lat
 
-[![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+[![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat.jpg)](/images/dalat.jpg)
 
 ### Community events
 
@@ -120,8 +120,8 @@ As a technology partner with SalesInOne Pte., we also help them to organise mont
 
 ## Questions?
 
-Reach out: info@dwarvesf.com
-Address: 154/3 Ly Chinh Thang, district 3, HCMC 700000, Vietnam
+- Reach out: info@dwarvesf.com
+- Address: 154/3 Ly Chinh Thang, district 3, HCMC 700000, Vietnam
 
 ------
 
