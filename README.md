@@ -8,7 +8,7 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ### Open positions
 
-- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](#).
+- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](/open-positions/Intern.md).
 
 #### Mobile
 
@@ -49,7 +49,7 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Hiring process
 
-
+- We do not talk bullshit
 
 ## Our stack and technology
 
@@ -96,11 +96,11 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 
 #### Lagi
 
-[![Lagi Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/lagi-thumbnail.png)](/images/lagi.jpg)
+[![Lagi Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/lagi.jpg)](/images/lagi.jpg)
 
 #### Da Lat
 
-[![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat-thumbnail.png)](/images/dalat.jpg)
+[![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat.jpg)](/images/dalat.jpg)
 
 ### Community events
 
