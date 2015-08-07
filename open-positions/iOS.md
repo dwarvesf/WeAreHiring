@@ -14,7 +14,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 - Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) with us
 - We do agile
-- Mac or Unix
+- Mac or Linux
 - OOP Design: from STUPID to SOLID
 - Convention and architecture
 - Want to make world class product. All the outcome must be world class.
@@ -29,11 +29,12 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 * Using storyboards or nibs with auto layout, but also creating views in code
 * Using core animations and core graphics
 * Using core data and web services with JSON
-* Handling multiple languages
+* Handling multiple languages (i18n)
 * Caching & pre-loading
 * Push notifications
 * Testing skills
-* iOS UI expert
+* Can implement world class UI
+* Show us **_how good you are_** on other stuffs
 
 ## How to be a dwarf?
 
