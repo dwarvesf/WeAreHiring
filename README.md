@@ -31,7 +31,7 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ## Our team
 
-[![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+[![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)]()
 
 ## Our core values
 
@@ -56,11 +56,11 @@ Because we know that teamwork is one of important factor to be successful. We re
 * you can apply if
    * you have the [same DNA](#our-core-values) as us
    * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) by 37signals
-   * you want to build a superb product
+   * you want to build a world class product and superb team.
 * we'd love to see who you are and what have you been working on
 * write more detailed info related to the position you're applying for
-* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, ...)
-* don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore / PlayStore)
+* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribble...)
+* don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
 * attach references, if you have any
 
 **Us** - we'll receive a notification and based on what you have we will either thank you *(ups)* or schedule a first call.
@@ -68,7 +68,7 @@ Because we know that teamwork is one of important factor to be successful. We re
 **You** - offline working on the assignment #1
 
 * it should not take you more than 3 hours *(no promises, it's based on your skills)*
-* we'll add you access to a GitHub repository that you will be able to fork
+* we'll give you access to a project or a GitHub repository that you will be able to fork
 * commit your solution and send us a pull request after you are done
 
 **Us** - we'll organize a 2nd Call
@@ -77,7 +77,7 @@ Because we know that teamwork is one of important factor to be successful. We re
 * this call will be full of pair programming - we're having some great assignments waiting for you
 * get ready for that, it will be fun :)
 
-**Us** - in the meantime, we'll prepare you an offer
+**Us** - after that, if you are qualified, we'll prepare you an offer. Welcome to the woodland.
 
 ## Our stack and technology
 
