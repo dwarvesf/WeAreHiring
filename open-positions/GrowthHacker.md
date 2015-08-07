@@ -13,17 +13,27 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 ## Prerequisite
 
 - Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) with us
-- We do agile
-- Mac or Linux
-- OOP Design: from STUPID to SOLID
-- Convention and architecture
 - Want to make world class product. All the outcome must be world class.
-- Watching trends and best practices in development.
+- Watching trends and best practices.
 - Reading blogs and compiling ideas how to improve your skills.
-- Know how to handle the entire software development life cycle, end to end.
 - Contributions make you get paid, not the experiences.
 
 ## Job and the challenges
 
+- Intuitive (without data) and Nostradamus-like (with data)
+- Focused and passion to grow a product fast (keep pace or set pace)
+- Closer: can bring together, get decisions, move fast (internally+externally)
+- Ambidexterity (design/tech/analytics/customer service)
+- Media agnostic (online, offline, paid, free, earned, owned, whatever)
+- Number/landscape orientation (yet not analysis paralysis)
+- Skewed towards marketing/sales/customer and not tech/sqlqueries
+- Can differentiate between linear growth, arithmetic progression, geometric progression, hockey sticks.
+- Misc: Poker players, those who make sports bets, like to have fun at work
+
 ## How to be a dwarf?
 
+We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. You've run several applications and our initial assignments during the [interview process](https://github.com/dwarvesf/WeAreHiring#hiring-process) will be a walk in a park for you ;-)
+
+Hopefully you'll have something that we can take a look at.
+
+Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.

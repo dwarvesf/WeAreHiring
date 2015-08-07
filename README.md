@@ -9,6 +9,7 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 ### Open positions
 
 - Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](/open-positions/Intern.md).
+- High responsible [Growth Hacker](/open-positions/GrowthHacker.md)
 
 #### Mobile
 
@@ -18,20 +19,11 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 #### Web & Backend
 
 - [Gopher with devops skillset](/open-positions/Golang.md)
-- [ReactJS Frontend Engineer](/open-positions/Frontend.md)
-
-#### Hardware
-
-- [Hardware Engineer](/open-positions/Hardware.md)
-
-#### Biz
-
-- High responsible [Growth Hacker](/open-positions/GrowthHacker.md)
-- [Mentors, Tech Advisors and Product Development Strategist](/open-positions/Mentor.md)
+- [Web Frontend Engineer](/open-positions/Frontend.md)
 
 ## Our team
 
-[![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)]()
+[![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)](/images/team-thumbnail.png)
 
 ## Our core values
 
@@ -55,8 +47,8 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 * you can apply if
    * you have the [same DNA](#our-core-values) as us
-   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) by 37signals
-   * you want to build a world class product and superb team.
+   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) & [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by 37signals
+   * you want to build a world class products and superb team.
 * we'd love to see who you are and what have you been working on
 * write more detailed info related to the position you're applying for
 * make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribble...)
@@ -81,29 +73,33 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Our stack and technology
 
+Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
+
 - Git with [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
 - Android / Java
 - iOS / Objective-C / Swift
-- ReactJS
+- ReactJS / Angular
 - Express.js
-- Go
+- Beego / Go
+- Elixir / Phoenix
 
 #### Database
 
+- MySQL
 - PostgreSQL
 - MongoDB
 
 #### DevOps
 
 - Ansible
-- nsq
-- Docker / Compose / Machine
-- Tutum / Shipable / Codeship
+- Docker Engine / Compose / Machine
 
 #### Hosting
 
 - Heroku
 - Digital Ocean
+- SoftLayer
+- Amazon AWS
 
 ## Team Activities
 
@@ -113,7 +109,7 @@ We are fan of board games and card games. We organise meetup every weekend for o
 
 Currently we are falling for those games
 
-- [Sanguosha](http://sanguosha.com) (Kingdoms War)
+- [Sanguosha](http://sanguosha.com) (Three Kingdoms War)
 - Ultimate Werewolf: Ultimate Edition
 - [Settlers of Catan](http://www.catan.com)
 - [Uno](https://en.wikipedia.org/wiki/Uno_(card_game))
@@ -148,7 +144,7 @@ As a technology partner with SalesInOne Pte., we also help them to organise mont
 
 ## Questions?
 
-- Reach out: info@dwarvesf.com
+- Reach out: hi@dwarvesf.com
 - Address: 154/3 Ly Chinh Thang, district 3, HCMC 700000, Vietnam
 
 ------
