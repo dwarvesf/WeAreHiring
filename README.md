@@ -31,7 +31,7 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ## Our team
 
-[![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)]()
+[![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)](/images/team-thumbnail.png)
 
 ## Our core values
 
