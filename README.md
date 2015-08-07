@@ -31,7 +31,7 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 ## Our team
 
-[![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat-thumbnail.png)](https://plus.google.com/photos/100392005626903871747/albums/6081135495125009985)
+[![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)]()
 
 ## Our core values
 
@@ -49,7 +49,35 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Hiring process
 
-- We do not talk bullshit
+**_TL;DR_**: you need to be a culture fit and a values fit
+
+**You** - apply for one of the position above by filling an application form.
+
+* you can apply if
+   * you have the [same DNA](#our-core-values) as us
+   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) by 37signals
+   * you want to build a world class product and superb team.
+* we'd love to see who you are and what have you been working on
+* write more detailed info related to the position you're applying for
+* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribble...)
+* don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+* attach references, if you have any
+
+**Us** - we'll receive a notification and based on what you have we will either thank you *(ups)* or schedule a first call.
+
+**You** - offline working on the assignment #1
+
+* it should not take you more than 3 hours *(no promises, it's based on your skills)*
+* we'll give you access to a project or a GitHub repository that you will be able to fork
+* commit your solution and send us a pull request after you are done
+
+**Us** - we'll organize a 2nd Call
+
+* being on a 2nd call with us means that we liked your pull request. Congrats!
+* this call will be full of pair programming - we're having some great assignments waiting for you
+* get ready for that, it will be fun :)
+
+**Us** - after that, if you are qualified, we'll prepare you an offer. Welcome to the woodland.
 
 ## Our stack and technology
 
@@ -125,4 +153,4 @@ As a technology partner with SalesInOne Pte., we also help them to organise mont
 
 ------
 
-Inspired and copyright from HotelQuickly. Prepared and customized by our founder with <3.
+Inspired and copyright from [HotelQuickly](https://github.com/HotelQuickly/WeAreHiring). Prepared and customized by our founder with <3.
