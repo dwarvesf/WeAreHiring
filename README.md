@@ -49,7 +49,22 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Hiring process
 
-- We do not talk bullshit
+**_TL;DR_**: you need to be a culture fit and a values fit
+
+**You** - apply for one of the position above by filling an application form.
+
+* you can apply if
+   * you have the [same DNA](#our-core-values) as us
+   * you want to have some fun at work. No boring stuff!
+   * you are able to join us remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) by 37signals
+   * you want to build a superb product
+* we'd love to see who you are and what have you been working on
+* attach brief motivation letter and your CV
+* write more detailed info related to the position you're applying for
+* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, ...)
+* don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore / PlayStore)
+* attach references, if you have any
+
 
 ## Our stack and technology
 
