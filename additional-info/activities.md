@@ -1,6 +1,6 @@
 # Team Activities
 
-We know that 'Life is not just about work', we usually spend time together to go around and enjoy the Work-Life balance.
+We know that **Life is not just about work**, we usually spend time together to go around and enjoy the Work-Life balance.
 
 ### Board games and card games
 
@@ -36,7 +36,6 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 
 #### Bo Cap Vang
 
-[![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-01.jpg)](/images/bocapvang-01.jpg)
-
 [![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-02.jpg)](/images/bocapvang-02.jpg)
 
+[![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-01.jpg)](/images/bocapvang-01.jpg)
