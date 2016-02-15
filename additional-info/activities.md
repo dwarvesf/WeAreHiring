@@ -30,8 +30,13 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 
 #### Thailand
 
-[![Thailand](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/thailand.jpg)](/images/thailand.jpg)
+[![Thailand 02](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/thailand-02.jpg)](/images/thailand-02.jpg)
+
+[![Thailand 01](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/thailand-01.jpg)](/images/thailand-01.jpg)
 
 #### Bo Cap Vang
 
-[![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang.jpg)](/images/bocapvang.jpg)
+[![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-01.jpg)](/images/bocapvang-01.jpg)
+
+[![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-02.jpg)](/images/bocapvang-02.jpg)
+
