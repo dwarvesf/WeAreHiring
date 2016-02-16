@@ -13,3 +13,13 @@ But honestly, we have a beautiful office, it's a lot of fun here, we've got huge
 We only require you to be online on Slack so that we can contact you if things go wrong and also commit the code regularly so that we see things are going well.
 
 Results are what matters here, not sitting in the office 9-5.
+
+[![Terrace](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/terrace.jpg)](/images/terrace.jpg)
+
+## AirBnB
+
+We use the other parts of the house to host AirBnb guests. It's a great opportunity for us to know more friends from around the world, do culture exchange and have more fun.
+
+[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.jpg)](/images/dinner.jpg)
+
+
