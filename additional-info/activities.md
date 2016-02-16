@@ -1,6 +1,6 @@
 # Team Activities
 
-We know that 'Life is not just about work', we usually spend time together to go around and enjoy the Work-Life balance.
+We know that **Life is not just about work**, we usually spend time together to go around and enjoy the Work-Life balance.
 
 ### Board games and card games
 
