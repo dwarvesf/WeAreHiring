@@ -15,10 +15,13 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 - [Senior Android](/open-positions/Android.md)
 - [Senior iOS](/open-positions/iOS.md)
+- [Junior Android]
+- [Junior iOS]
 
 #### Web & Backend
 
 - [Gopher with devops skillset](/open-positions/Golang.md)
+- [Migrator from another backend stack]
 - [Web Frontend Engineer](/open-positions/Frontend.md)
 
 ## Our team
