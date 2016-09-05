@@ -13,16 +13,13 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 #### Mobile
 
-- [Senior Android](/open-positions/Android.md)
-- [Senior iOS](/open-positions/iOS.md)
-- [Junior Android]
-- [Junior iOS]
+- [Android](/open-positions/Android.md)
+- [iOS](/open-positions/iOS.md)
 
 #### Web & Backend
 
-- [Gopher with devops skillset](/open-positions/Golang.md)
-- [Migrator from another backend stack]
-- [Web Frontend Engineer](/open-positions/Frontend.md)
+- [Gophers](/open-positions/Golang.md)
+- [Web Frontend](/open-positions/Frontend.md)
 
 ## Our team
 
@@ -79,10 +76,9 @@ Because we know that teamwork is one of important factor to be successful. We re
 Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
 
 - Git with [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
-- Android / Java
-- iOS / Objective-C / Swift
-- ReactJS / Angular
-- Express.js
+- Android / Java with Rx Programming
+- iOS / Objective-C / Swift with Rx Programming
+- ReactJS
 - Beego / Go
 - Elixir / Phoenix
 
@@ -95,7 +91,7 @@ Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
 #### DevOps
 
 - Ansible
-- Docker Engine / Compose / Machine
+- Docker-centric workflow with DC/OS (mesos, marathon)
 
 #### Hosting
 
@@ -106,11 +102,19 @@ Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
 
 ## Team Activities
 
+### Dinner together
+
+We got lots of friends from all over the world and we spend our time together: lunch, dinner, birthday party ...
+
+[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.jpg)](/images/dinner.jpg)
+
+[![BBQ Party](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bbq.jpg)](/images/bbq.jpg)
+
 ### Board games and card games
 
 We are fan of board games and card games. We organise meetup every weekend for our team members, friends and other startups to keep the balance between work and life, also expand our connections to the world.
 
-Currently we are falling for those games
+Currently we are falling in love with these games
 
 - [Sanguosha](http://sanguosha.com) (Three Kingdoms War)
 - Ultimate Werewolf: Ultimate Edition
@@ -128,6 +132,10 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 #### Da Lat
 
 [![Da Lat Trip](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dalat.jpg)](/images/dalat.jpg)
+
+#### Thailand
+
+[![Thailand](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/thailand.jpg)](/images/thailand.jpg)
 
 ### Community events
 
@@ -147,7 +155,7 @@ As a technology partner with SalesInOne Pte., we also help them to organise mont
 
 ## Questions?
 
-- Reach out: hi@dwarvesf.com
+- Reach out: team@dwarvesf.com
 - Address: 154/3 Ly Chinh Thang, district 3, HCMC 700000, Vietnam
 
 ------
