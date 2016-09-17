@@ -91,7 +91,7 @@ Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
 #### DevOps
 
 - Ansible
-- Docker-centric workflow with DC/OS (mesos, marathon)
+- Docker-centric workflow with DC/OS (mesosphere, mesos, marathon)
 
 #### Hosting
 
@@ -123,7 +123,7 @@ Currently we are falling in love with these games
 
 ### Trip
 
-We spend 3 to 5 days per quarter to travel around the country to refresh and boost up our productivity. We believe it is better than just stay in the room.
+We spend 3 to 5 days per quarter to travel around to refresh and boost up our productivity. We believe it is better than just stay in the room.
 
 #### Lagi
 
@@ -135,7 +135,7 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 
 #### Thailand
 
-[![Thailand](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/thailand.jpg)](/images/thailand.jpg)
+[![Thailand](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/thailand-01.jpg)](/images/thailand-01.jpg)
 
 ### Community events
 
