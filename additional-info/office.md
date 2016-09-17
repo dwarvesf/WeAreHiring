@@ -22,4 +22,3 @@ We use the other parts of the house to host AirBnb guests. It's a great opportun
 
 [![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.JPG)](/images/dinner.JPG)
 
-
