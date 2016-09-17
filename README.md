@@ -39,6 +39,8 @@ You should have the same DNA to join us
 
 Because we know that teamwork is one of important factor to be successful. We reserve a separate post for it. Checkout this post to [know more about our teamwork philosophy and how we apply Agile to improve the productivity.](/additional-info/agile.md)
 
+[![working](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/working.jpg)](/images/working.jpg)
+
 ## Hiring process
 
 **_TL;DR_**: you need to be a culture fit and a values fit
@@ -106,7 +108,7 @@ Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
 
 We got lots of friends from all over the world and we spend our time together: lunch, dinner, birthday party ...
 
-[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.JPG)](/images/dinner.JPG)
+[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.jpg)](/images/dinner.jpg)
 
 [![BBQ Party](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bbq.jpg)](/images/bbq.jpg)
 
