@@ -106,7 +106,7 @@ Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech)
 
 We got lots of friends from all over the world and we spend our time together: lunch, dinner, birthday party ...
 
-[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.jpg)](/images/dinner.jpg)
+[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.JPG)](/images/dinner.JPG)
 
 [![BBQ Party](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bbq.jpg)](/images/bbq.jpg)
 
