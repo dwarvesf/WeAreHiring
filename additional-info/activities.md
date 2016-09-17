@@ -16,7 +16,7 @@ Currently we are falling for those games
 
 [![Sanguosha](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/sgs.jpg)](/images/sgs.jpg)
 
-### Trip
+### Travel
 
 We spend 3 to 5 days per quarter to travel around the country to refresh and boost up our productivity. We believe it is better than just stay in the room.
 
@@ -39,3 +39,9 @@ We spend 3 to 5 days per quarter to travel around the country to refresh and boo
 [![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-02.jpg)](/images/bocapvang-02.jpg)
 
 [![Bo Cap Vang](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/bocapvang-01.jpg)](/images/bocapvang-01.jpg)
+
+### Team bonding
+
+We usually go out for some video games (DotA 2?) or have some drinks together. Beside that, organising event or cooking some special dishes is what we love to do.
+
+[![Cooking](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/food.jpg)](/images/food.jpg)

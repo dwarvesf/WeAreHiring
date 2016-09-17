@@ -16,10 +16,11 @@ Results are what matters here, not sitting in the office 9-5.
 
 [![Terrace](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/terrace.jpg)](/images/terrace.jpg)
 
+[![Terrace](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/working-02.jpg)](/images/working-02.jpg)
+
 ## AirBnB
 
 We use the other parts of the house to host AirBnb guests. It's a great opportunity for us to know more friends from around the world, do culture exchange and have more fun.
 
-[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.jpg)](/images/dinner.jpg)
-
+[![Dinner](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dinner.JPG)](/images/dinner.JPG)
 
