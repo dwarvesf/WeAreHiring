@@ -47,7 +47,7 @@ We build innovative apps for startups. You have to prove that you own the platfo
 
 Hopefully you'll have some published code (maybe on GitHub?) that we can take a look at.
 
-Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [**[Android] Want to be an awesome dwarf**](mailto:team@dwarvesf.com?subject=[Android] Want to be an awesome dwarf)
-
 Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
+
+Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [**[Android] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[Android] Be an awesome dwarf!)
 
