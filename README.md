@@ -81,7 +81,7 @@ Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech) or [tech.md](/addi
 - Android / Java with Rx Programming
 - iOS / Objective-C / Swift with Rx Programming
 - ReactJS
-- Beego / Go
+- Go / Beego / Any minimal frameworks
 - Elixir / Phoenix
 
 #### Database

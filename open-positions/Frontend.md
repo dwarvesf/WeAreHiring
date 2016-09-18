@@ -29,7 +29,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 - Your CSS have to be good enough to implement world class UI
 - Enough knowledge to realise that JS world right now is suck
 - Angular or React or Vue: you don't have to know all. You just need to be good at 1 and get thing done in the right way.
-- ES2015 user
+- Performance?
 
 ## How to be a dwarf?
 

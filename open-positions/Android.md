@@ -27,6 +27,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 ## Job and the challenges
 
 * Can implement world class UI
+* Write test for your code
 * Android Studio & Gradle
 * Webviews
 * Push notifications

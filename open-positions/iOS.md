@@ -33,7 +33,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 * Handling multiple languages (i18n)
 * Caching & pre-loading
 * Push notifications (APNS, Pubnub)
-* Testing skills
+* Testing skills: Write tests for your code
 * Can implement world class UI
 * Rx Programming
 * Show us **_how good you are_** on other stuffs
