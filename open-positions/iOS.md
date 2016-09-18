@@ -14,6 +14,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 - Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) which lead you to culture fit
 - We do agile
+- Real git user
 - Mac or Linux
 - OOP Design: from STUPID to SOLID
 - Convention and architecture
@@ -32,7 +33,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 * Handling multiple languages (i18n)
 * Caching & pre-loading
 * Push notifications (APNS, Pubnub)
-* Testing skills
+* Testing skills: Write tests for your code
 * Can implement world class UI
 * Rx Programming
 * Show us **_how good you are_** on other stuffs
@@ -44,3 +45,8 @@ We build innovative apps for startup. You have to prove that you own the platfor
 Hopefully you'll have some published code (maybe on GitHub?) that we can take a look at.
 
 Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
+
+Send us your _**short CV or any similar pieces**_ at team@dwarvesf.com with Subject: [**[iOS] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[iOS] Be an awesome dwarf!)
+
+#### Too hard for you?
+If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you!

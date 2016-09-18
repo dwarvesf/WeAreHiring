@@ -1,6 +1,6 @@
 # Intern
 
-We want to help you become the product person. We know that things take steps to learn and we will help you persuit the can-do-everything mindset. The problems solving skill is the key and lifetime skill that you need to learn.
+We want to help you become the product person. We know that things take steps to learn and we will help you persuit the **can-do-everything** mindset. The problems solving skill is the key and lifetime skill that you need to learn.
 
 ## About us
 
@@ -18,13 +18,14 @@ At the end of the day, it is about work-life balance. There are a lot of things 
 
 - Know your needs and your career path
 - Should have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values)
-- We do agile
-- Mac or Linux
-- Want to make world class products. All the outcomes must be world class.
+- Want to make world class products. All the outcomes must be world class. _Attitude can win all_
 - Lifetime contributor
+- We do agile. Beside that we may teach you something else (Lean? Kanban?)
+- Mac or Linux
 
 ## How to be a mining intern?
 
-We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit. 
+We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you can contribute something.
 
-Please fill in the information, prepare for the talk and show us what you can do.
+Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [**[Intern Miner] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[Intern Miner] Be an awesome dwarf!). Please fill in the information, prepare for the talk and show us what you can do.
+

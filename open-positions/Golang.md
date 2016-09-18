@@ -1,4 +1,4 @@
-# Senior DevOps 
+# Gopher
 
 ## About us
 
@@ -14,6 +14,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 - Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) with us
 - We do agile
+- Real git user
 - Mac or Linux
 - OOP Design: from STUPID to SOLID
 - Convention and architecture
@@ -25,14 +26,27 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 ## Job and the challenges
 
-- Development of backend automation tools in Go 
+- Persue a hard tech career path
+- Development of backend automation tools in Go
 - Experienced in full automation and configuration management using Ansible or Docker ecosystem
 - Experienced in monitoring tools, frameworks and processes - familiar with event coloration
 - Experienced with continuous integration tools.
-- Expert in scripting and programming experience in Go.
-- Expert Linux skills.
-- Microservice addicted with deep knowledge about 
+- Experienced in scripting and programming experience in Go.
+- Write test for your code
+- Linux skills.
+- Microservice addicted with deep knowledge about
 - Show us **_how good you are_** on any other stuffs
 
 ## How to be a dwarf?
+
+We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. You've built several applications and our initial assignments during the [interview process](https://github.com/dwarvesf/WeAreHiring#hiring-process) will be a walk in a park for you ;-)
+
+Hopefully you'll have some published code (maybe on GitHub?) that we can take a look at.
+
+Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
+
+Send us your _**short CV or any similar pieces**_ at team@dwarvesf.com with Subject: [**[Gopher] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[Gopher] Be an awesome dwarf!)
+
+#### Too hard for you?
+If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you!
 
