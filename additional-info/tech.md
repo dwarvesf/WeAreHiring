@@ -11,4 +11,6 @@ Having a team of strong engineering culture and product mindset, we use the cutt
     + We apply Gitflow and Kanban for product development.
     + We apply CI/CD workflow in [DC/OS](dcos.io) platform. (mesos and marathon) Everytime when the feature is reviewed and approved, it will be tested automatically using Gitlab CI. Then that success version will be pushed into our private Docker Registry. When time comes and the branch master is ready to deploy, Gitlab CI will help to trigger marathon to pull and install the new version.
 
+[![DC/OS](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/dcos-01.png)](/images/dcos-01.png)
+
 With those toolset, our development process is boosted up a lot and it's really interesting for developers. We gained some compliments from friends and customers.
