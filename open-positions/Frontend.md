@@ -39,4 +39,7 @@ Hopefully you'll have some published code (maybe on GitHub?) that we can take a 
 
 Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
 
-Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [**[Frontend] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[Frontend] Be an awesome dwarf!)
+Send us your _**short CV or any similar pieces**_ at team@dwarvesf.com with Subject: [**[Frontend] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[Frontend] Be an awesome dwarf!)
+
+#### Too hard for you?
+If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you!

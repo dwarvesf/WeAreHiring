@@ -33,7 +33,7 @@ You should have the same DNA to join us
 - **Geeky style**: We can do anything, wear multiple hats, take multiple approachs from official to tricky way to achieve the goal.
 - **Teamwork**: **_Synchronisation_** and **_Collaboration_** are the most important key things. You can read this topic: [It's hard to become a team member](http://tieubao.me/writing/2014/12/05/it-is-hard-to-become-a-team-member/). We apply agile process to keep our spirits stick together.
 - **Proactive**: Pick your most productivity time to work. You need to figure out yourself what you want to do and what you want to contribute aligned to the team goal as a dwarf in the tribe. We are too busy to tell you.
-- **Growth and sharing**: You can learn another skill from other teammates. We are happy to share it to you. And we believe that working hard and improving yourself everyday will make you paid back later. Read [this topic](https://www.quora.com/How-can-I-motivate-myself-to-work-hard) to keep yourself motivated.
+- **Growth and sharing**: You can learn another skill from other teammates. We are happy to share it with you. And we believe that working hard and improving yourself everyday will make you paid back later. Read [this topic](https://www.quora.com/How-can-I-motivate-myself-to-work-hard) to keep yourself motivated.
 
 ## We do agile
 
@@ -49,11 +49,11 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 * you can apply if
    * you have the [same DNA](#our-core-values) as us
-   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) & [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by 37signals
+   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) & [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by 37signals / Basecamp
    * you want to build a world class products and superb team.
 * we'd love to see who you are and what have you been working on
 * write more detailed info related to the position you're applying for
-* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribble...)
+* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
 * don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
 * attach references, if you have any
 

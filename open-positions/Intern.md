@@ -18,7 +18,7 @@ At the end of the day, it is about work-life balance. There are a lot of things 
 
 - Know your needs and your career path
 - Should have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values)
-- Want to make world class products. All the outcomes must be world class.
+- Want to make world class products. All the outcomes must be world class. _Attitude can win all_
 - Lifetime contributor
 - We do agile. Beside that we may teach you something else (Lean? Kanban?)
 - Mac or Linux
