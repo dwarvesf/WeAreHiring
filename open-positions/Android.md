@@ -14,6 +14,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 - Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) which lead you to culture fit
 - We do agile
+- Real git user
 - Mac or Linux
 - OOP Design: from STUPID to SOLID
 - Convention and architecture
@@ -42,8 +43,11 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 ## How to be a dwarf?
 
-We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. You've built several applications and our initial assignments during the [interview process](https://github.com/dwarvesf/WeAreHiring#hiring-process) will be a walk in a park for you ;-)
+We build innovative apps for startups. You have to prove that you own the platform or can/want to own the platform one day. You've built several applications and our initial assignments during the [interview process](https://github.com/dwarvesf/WeAreHiring#hiring-process) will be a walk in a park for you ;-)
 
 Hopefully you'll have some published code (maybe on GitHub?) that we can take a look at.
 
+Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [**[Android] Want to be an awesome dwarf**](mailto:team@dwarvesf.com?subject=[Android] Want to be an awesome dwarf)
+
 Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
+
