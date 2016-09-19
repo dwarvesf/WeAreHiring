@@ -1,11 +1,3 @@
-# We are dwarves
-
-Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
-
-We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
-
-We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
-
 # Open positions
 
 - Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](/open-positions/Intern.md).
@@ -20,6 +12,14 @@ We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01
 
 - [Gophers](/open-positions/Golang.md)
 - [Web Frontend](/open-positions/Frontend.md)
+
+# We are dwarves
+
+Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
+
+We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
+
+We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
 
 ## Our team
 
@@ -75,7 +75,7 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Our stack and technology
 
-Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech) or [tech.md](/additional-info/tech.md)
+Checkout the [portfolio](https://dwarvesf.com/portfolio#tech) or [tech.md](/additional-info/tech.md)
 
 - Git with [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
 - Android / Java with Rx Programming
