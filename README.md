@@ -6,7 +6,7 @@ We call ourselves dwarves, the small and misshapen creatures in Norse Mythology.
 
 We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
 
-### Open positions
+# Open positions
 
 - Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](/open-positions/Intern.md).
 - High responsible [Growth Hacker](/open-positions/GrowthHacker.md)
