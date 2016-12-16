@@ -75,7 +75,7 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Our stack and technology
 
-Checkout the [portfolio](http://portfolio.dwarvesf.com/#tech) or [tech.md](/additional-info/tech.md)
+Checkout the [portfolio](https://dwarvesf.com/portfolio#tech) or [tech.md](/additional-info/tech.md)
 
 - Git with [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
 - Android / Java with Rx Programming
