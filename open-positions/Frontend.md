@@ -26,9 +26,10 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 ## Job and the challenges
 
-- Your CSS have to be good enough to implement world class UI
-- Enough knowledge to realise that JS world right now is suck
-- Angular or React or Vue: you don't have to know all. You just need to be good at 1 and get thing done in the right way.
+- Your HTML/CSS have to be good enough to implement world class UI.
+- Knowledge of BEM, CSS modules, inline styles, .etc and why we need them is a sign that you are experienced in the field.
+- Enough knowledge to realise that Javascript world right now is suck.
+- Angular or React or Vue: you don't have to know all. You just need to be good at 1 and get things done in the right way.
 - Performance?
 
 ## How to be a dwarf?
