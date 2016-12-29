@@ -1,31 +1,28 @@
 # Open positions
 
-- Want to join us as [**_Interns_**](/open-positions/Intern.md)? [Apply here](/open-positions/Intern.md).
-- High responsible [Growth Hacker](/open-positions/GrowthHacker.md)
+- Want to join us as **Interns**? We have an internship program that you can [apply here](/open-positions/Intern.md).
 
-#### Mobile
+### Full-time Position
 
+- [Web](/open-positions/Frontend.md)
+- [Golang](/open-positions/Golang.md)
 - [Android](/open-positions/Android.md)
 - [iOS](/open-positions/iOS.md)
+- [QA](/open-positions/QA.md)
 
-#### Web & Backend
+# We are Dwarves
 
-- [Gophers](/open-positions/Golang.md)
-- [Web Frontend](/open-positions/Frontend.md)
+Found in 2014, Dwarves Foundation is an innovation service firm. We [stand for the craftsmanship](what-we-stand-for.md) in software development.
 
-# We are dwarves
+Dwarf is the small and misshapen creatures in Norse Mythology. Dwarves are wisdom, natural good at smithing, mining, and crafting. They are well known for being the best blacksmiths throughout the nine worlds. The dwarf is an example of a creature who has the ability that surpasses the known world, presaging the rise of a universe beyond this physical realm. Whatever their origin, the dwarf’s existence plays a role in expanding the imagination.
 
-Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
-
-We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
-
-We position ourselves as a [**Startups Factory**](http://venturebeat.com/2015/01/18/how-venture-builders-are-changing-the-startup-model/). We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
+Aspiring to create a positive breakthrough that can be able to rewrite the new world, we chose the name Dwarves Foundation as the commitment to the vision that we follow.
 
 ## Our team
 
 [![The team](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/team-thumbnail.png)](/images/team-thumbnail.png)
 
-## Our core values
+## Core values
 
 You should have the same DNA to join us
 
@@ -45,17 +42,44 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 **_TL;DR_**: you need to be a culture fit and a values fit
 
-**You** - apply for one of the position above by filling an application form.
+The right skill set is only one factor in finding the perfect candidate. As the fast-paced start up team (We grow from 3 to 15), we care more about culture fit. Frankly, how your present can have a major impact on team morale and overall execution?
 
-* you can apply if
-   * you have the [same DNA](#our-core-values) as us
-   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) & [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by 37signals / Basecamp
-   * you want to build a world class products and superb team.
-* we'd love to see who you are and what have you been working on
-* write more detailed info related to the position you're applying for
-* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
-* don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
-* attach references, if you have any
+We dont recruit employee, we find a teammate. Every team member knows what they want to do, and who they want to be.
+
+### Culture
+As the early day, Dwarves Foundation started with few members. We understand how important the team culture is if we want to attract talents. Some cultures that we are proud of forming:
+
+- Tech/non-tech talk: Each miner in our team is wearing many hats. We are not afraid of switching languages or stacks. To achieve that, a miner should have cross boundaries in every stack currently using. A backend soldier can easily read front end code, fix bugs without asking front end soldier to help. We host this talk every 2 weeks on Wednesday. Yes, certainly you can invite your friends to come! We also talk about non-tech topics, like finances or life purposes. We have [repository](https://github.com/dwarvesf/seminar) to store documents.
+
+[![Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtalk.jpg)](/images/techtalk.jpg)
+
+- Development process: Soldiers need proper process for their battle. Whenever a soldier joins a fight, he should easily using the process to catch up and efficiently get familiar with project. We defined [Gitlab process](https://github.com/dwarvesf/team/blob/master/gitlab.md) for helping new comers. Beside that, we have a tons of utility tools that boost productivities at highest as possible. We have [miner](https://github.com/dwarvesf/miner), a tiny-but-not-weak solider helping team members easily managing their dotfiles, standardize the environment setting for languages and projects.
+
+- Community contribution: We highly concern about Vietnam tech's community. Make this community stronger is one mission we want to achieve. We found [Golang Vietnam](https://www.facebook.com/golang.org.vn/) on 2014 and it now becomes one of the most affected tech group. We encourage our miners to dig more on open source projects and contribute as well. Some of them: [glod](https://github.com/dwarvesf/glod-cli), [working-on](https://github.com/dwarvesf/working-on). You can find us on some PRs of famous open source repositories, especially in Go language.
+
+[![Golang-vietnam](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/golang-vietnam.jpg)](/images/golang-vietnam.png)
+
+- Idividual innovation: Self-learning is a must. We let our miners have 20% of their working time for digging something for their own. We also have funds for buying books. Technical or non-tech books play the same important role.
+
+[![Books](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/books.jpg)](/images/books.png)
+
+So please have questions answered before you want to join our team:
+- Why you choose us?
+- What can you bring to us?
+- What are you expecting we can bring to you?
+
+We are expecting **You**:
+   * Have the [same DNA](#our-core-values) as us
+   * Want to build a world class products and superb team.
+   * Want to find boost yourself at the highest level.
+
+### Value fit
+We are expecting **Your application form**
+  * Who you are and what have you been working on
+  * More detailed info related to the position you're applying for
+  * Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
+  * Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+  * Attach references, if you have any
 
 **Us** - we'll receive a notification and based on what you have we will either thank you *(ups)* or schedule a first call.
 
@@ -75,32 +99,28 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 ## Our stack and technology
 
-Checkout the [portfolio](https://dwarvesf.com/portfolio#tech) or [tech.md](/additional-info/tech.md)
+Checkout the [portfolio](https://dwarves.foundation/tech/) or [tech.md](/additional-info/tech.md)
 
 - Git with [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
-- Android / Java with Rx Programming
-- iOS / Objective-C / Swift with Rx Programming
-- ReactJS
-- Go / Beego / Any minimal frameworks
-- Elixir / Phoenix
+- Android / Kotlin with Rx Programming
+- iOS / Swift with Rx Programming
+- ReactJS / VueJs
+- Go / Elixir / Clojure
 
-#### Database
+#### Architecture
 
-- MySQL
-- PostgreSQL
-- MongoDB
+- Microservice
+- Serverless
 
 #### DevOps
 
 - Ansible
-- Docker-centric workflow with DC/OS (mesosphere, mesos, marathon)
+- Terraform
+- Docker-centric workflow in
 
 #### Hosting
 
-- Heroku
-- Digital Ocean
-- SoftLayer
-- Amazon AWS
+
 
 ## Team Activities
 
@@ -121,7 +141,6 @@ Currently we are falling in love with these games
 - [Sanguosha](http://sanguosha.com) (Three Kingdoms War)
 - Ultimate Werewolf: Ultimate Edition
 - [Settlers of Catan](http://www.catan.com)
-- [Uno](https://en.wikipedia.org/wiki/Uno_(card_game))
 
 ### Trip
 
@@ -157,9 +176,4 @@ As a technology partner with SalesInOne Pte., we also help them to organise mont
 
 ## Questions?
 
-- Reach out: team@dwarvesf.com
-- Address: 154/3 Ly Chinh Thang, district 3, HCMC 700000, Vietnam
-
-------
-
-Inspired and copyright from [HotelQuickly](https://github.com/HotelQuickly/WeAreHiring). Prepared and customized by our founder with <3.
+- Reach out: [team@d.foundation](mailto:team@d.foundation)

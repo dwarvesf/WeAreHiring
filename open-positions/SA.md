@@ -1,4 +1,4 @@
-# Senior Frontend Developer
+# Gopher
 
 ## About us
 
@@ -12,7 +12,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 ## Prerequisite
 
-- Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) which lead you to culture fit
+- Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) with us
 - We do agile
 - Real git user
 - Mac or Linux
@@ -26,13 +26,11 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 
 ## Job and the challenges
 
-- Your HTML/CSS have to be good enough to create world class UI (Hint: we don't use `float`).
-- Knowledge of techniques like BEM, CSS modules, inline styles, .etc and why they exist is a good sign.
-- Implement mobile-first, responsive UI and a good sense of design.
-- Enough knowledge to realise that Javascript world is a mess right now.
-- Fluent in Javascript and the language's common pitfalls/patterns.
-- Angular or React or Vue: you don't have to know all of them, component-based architecture is what you must know to get things done in the right way.
-- Performance?
+- Understand implications of design choices (Trade-offs of CAP theorem)
+- Extensive knowledge, of, and experience of REST, service oriented and event-based architectures and system design
+- Experience working with Golang/Devops tools (GCP, Ansible, Terraform) 
+- Agile expertise and mindset
+- Significant contribution to an open-source project and or a well-known product is a plus
 
 ## How to be a dwarf?
 
@@ -42,7 +40,8 @@ Hopefully you'll have some published code (maybe on GitHub?) that we can take a 
 
 Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
 
-Send us your _**short CV or any similar pieces**_ at team@dwarvesf.com with Subject: [Frontend] Be an awesome dwarf!
+Send us your _**short CV or any similar pieces**_ at team@dwarvesf.com with Subject: [Gopher] Be an awesome dwarf!
 
 #### Too hard for you?
 If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you!
+

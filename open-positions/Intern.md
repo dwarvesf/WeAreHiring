@@ -27,5 +27,5 @@ At the end of the day, it is about work-life balance. There are a lot of things 
 
 We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you can contribute something.
 
-Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [**[Intern Miner] Be an awesome dwarf!**](mailto:team@dwarvesf.com?subject=[Intern Miner] Be an awesome dwarf!). Please fill in the information, prepare for the talk and show us what you can do.
+Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [Intern Miner] Be an awesome dwarf!. Please fill in the information, prepare for the talk and show us what you can do.
 
