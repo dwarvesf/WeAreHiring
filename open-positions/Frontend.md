@@ -27,7 +27,7 @@ We are driven by values, not just the money. We aim to the perfection as our sta
 ## Job and the challenges
 
 - Your HTML/CSS have to be good enough to implement world class UI (Hint: we don't use `float`).
-- Knowledge of BEM, CSS modules, inline styles, .etc and why we need them is a sign that you are experienced in the field.
+- Knowledge of techniques like BEM, CSS modules, inline styles, .etc and why they exist is a sign that you are experienced in the field.
 - Enough knowledge to realise that Javascript world is a mess right now.
 - Angular or React or Vue: you don't have to know all of them, component-based architecture is what you must know to get things done in the right way.
 - Performance?
