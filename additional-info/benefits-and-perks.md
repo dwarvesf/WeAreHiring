@@ -12,7 +12,7 @@ In the case of conferences, the company will pay 50% of all expenses for approve
 To get approval to attend a conference, submit a request to the Admin. In your request, provide as much detail as possible about the dates of the conference, your total expected out of office time, the costs of attending, the benefits expected to be gained by attending, any potential disruption to client work, etc.
 
 ### Commission
-The company will pay a commission on revenues it receives from each project which the employee procures. The commission will consist of 5% of the gross revenues for the project. This may be split amongst multiple sales-people. A project does not have to have a sales-person.
+The company will pay a commission on revenues it receives from each project which the employee procures. The commission will consist of 5% of the gross revenues for any sales. This may be split amongst multiple sales-people. A project does not have to have a sales-person.
 
 ### Coworking Space
 If working from home or a coffee shop doesn’t suit you, then trying a coworking space might do the trick. We support a $50/month stipend towards a desk in such a place in your city. Just make sure you’re using a true coworking space that’s meant solely for working, not a club or social space.
@@ -59,17 +59,6 @@ We do not have a specific start time. Likewise, there isn’t a time we expect e
 It's also important to note this privilege is on a case-by-case basis and you need the approval from the lead. It’s worth noting most of our employment contracts with staff do in fact have set contractual hours. This is so we can withdraw this privilege if necessary.
 
 For some people that prefer to have a fixed working schedule, we recommend to start at 8 am and end at 5 pm.
-
-### Profit Sharing [Proposal]
-In 2020, Dwarves Foundation begins offering profit sharing to employees if we gain significant growth that year. The system is based on two questions at the end of every year.
-1. Was this year our most profitable year ever?
-2. If yes, then how much better did we do than the previous best year? 20% of that profit will be split amongst employees.
-If you’ve been working here for 2-5 years, you get one cut of the profit share, and if you’ve been working here for 5+ years, you get two cuts of the share. So, the more people who work at Dwarves Foundation for 2+ years, the more pieces of pie there are to distribute.
-
-For example, if we made 200k in profit this year
-* 100k will be put to company capital
-* 60k as the dividend payment
-* 40k as profit sharing
 
 ### Paid Time Off
 Dwarves Foundation offers two weeks of paid vacation, a few extra personal days to use at your discretion, and the official national holidays every year. This is a guideline, so if you need a couple of extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking an extended absence, so they’re not left in the lurch.

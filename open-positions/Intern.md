@@ -1,31 +1,45 @@
-# Intern
+![](/images/internship.png)
 
-We want to help you become the product person. We know that things take steps to learn and we will help you persuit the **can-do-everything** mindset. The problems solving skill is the key and lifetime skill that you need to learn.
+# The Program
 
-## About us
+In 2018, we launched the first Summer Internship Program for students with or without Engineering background from top universities. The program was designed with the purpose to give an opportunity for candidates to experience the real world projects. No coffee runs here. We love watching talented people learn and explore their skills.
 
-Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
+We strive to create a generation of new tech enthusiasts who possess the [same DNA](/additional-info/what-we-value.md) with us, to generate a solid groundwork and go along with the company’s triumph.
 
-We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
+- Collect an outline vision with the team leader's mentorship for you career roadmap.
+- Live your value and foster your skills through the code of craftsmanship.
+- You get paid for your experience with an allowance worths $300/month.
+- Expand your network and boost your competencies.
 
-We position ourselves as a Startups Factory. We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
+![](/images/internship-program-01.png)
 
-We are driven by values, not just the money. We aim to the perfection as our standard. You can find more information about us here: https://github.com/dwarvesf/WeAreHiring
+# About Us
 
-## Prerequisite
+Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](/additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
-At the end of the day, it is about work-life balance. There are a lot of things about **work-life balance** and **meaning of life philosophy** that you can Google around. But life is too short for all of them. How about making cool stuffs to help other people while being fun?
+- 5 years in the market
+- 40 talented members
+- 10 common team size per deployments
+- 3 Vietnam Development Communities Influenced
 
-- Know your needs and your career path
-- Should have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values)
-- Want to make world class products. All the outcomes must be world class. _Attitude can win all_
-- Lifetime contributor
-- We do agile. Beside that we may teach you something else (Lean? Kanban?)
-- Mac or Linux
+# The Syllabus
+
+To make sure your time with us is well-spent, we offer you real projects with our adepts and the chance to work with global customers. Bring your best curiosity and initial to make your way in these open doors:
+
+- Apply basic DevOps: Containerized, Docker, Continuous Integration, Continuous Delivery
+- Speaking multiple languages at once: You will be taught to use Golang as the primary backend language; Agile and Scrum process to manage your work.
+- Use GIT for tracking file changes and version control system
+- We have Swift for Apple fans to build your iOS applications, and for those who choose to go with Android, we got you covered with Kotlin.
+- Be a Vim user or master another editor. Become a CLI user
+
+We want to help you become the product person. We know that things take steps to learn and we will help you persuit the **can-do-everything** mindset. The problems solving skill is the key and lifetime skill that you also need to learn.
+
+![](/images/internship-program-02.png)
 
 ## How to be a mining intern?
 
-We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you can contribute something.
+You can [apply for the program](https://internship.dwarves.foundation) on March or July. Or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
 
-Send us your _**short CV or any similar piece of infos**_ at team@dwarvesf.com with Subject: [Intern Miner] Be an awesome dwarf!. Please fill in the information, prepare for the talk and show us what you can do.
+> Subject: Mining Intern - Be an awesome dwarf
 
+Honestly, we don't really care about your level of formal education, math skill, or so on. We want to see that you are potential to do something.

@@ -41,6 +41,8 @@ We build software. The way we see it is a collaboration between multiple people 
 
 Also, based on that philosophy, we apply the Scrum framework, which we find out a good fit for us. There are no specific roles in the team at the beginning. There is only the team member who has autonomy and responsibility to meet the goals of the sprint. And there is the Scrum master who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn’t need a permanent coach. Check out [how-we-work](/additional-info/how-we-work.md) for more.
 
+![](/images/dwarves.png)
+
 ## How we hire
 
 Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit.
@@ -103,7 +105,7 @@ https://d.foundation/opensource
 
 ![](/images/oss.png)
 
-### Be speakers
+### Knowledge sharing
 
 We joined several conferences last few years to give some talks, including Vietnam Mobile Day, Vietnam Web Summit, BarCamp Saigon or just some popup tech events.
 
