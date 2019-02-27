@@ -1,48 +1,76 @@
-# Senior Frontend Developer
+# Frontend Developer
 
-## About us
+WE ARE LOOKING FOR A FRONTEND ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use
 
-Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
+## About Us
 
-We call ourselves dwarves, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We have Miners, Crafters, Wizards and Soliders.
+Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](/additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
-We position ourselves as a Startups Factory. We build innovative products, give a hand to build companies and also give seed investment. Join our network if you are **startup veterans**, can wear multiple hats at the time and want to build multiple world class products.
+- 5 years in the market
+- 40 talented members
+- 10 common team size per deployments
+- 3 Vietnam Development Communities Influenced
 
-We are driven by values, not just the money. We aim to the perfection as our standard. You can find more information about us here: https://github.com/dwarvesf/WeAreHiring
+## Requirements
 
-## Prerequisite
-
-- Have the [**same DNA**](https://github.com/dwarvesf/WeAreHiring/blob/master/README.md#our-core-values) which lead you to culture fit
-- We do agile
-- Real git user
-- Mac or Linux
-- OOP Design: from STUPID to SOLID
-- Convention and architecture
-- Want to make world class product. All the outcome must be world class.
-- Watching trends and best practices in development.
-- Reading blogs and compiling ideas how to improve your skills.
-- Know how to handle the entire software development life cycle, end to end.
-- Contributions make you get paid, not the experiences.
+- Same [DNA](/additional-info/what-we-value.md)
+- A Linux or Mac user
+- Passionate about coding and programming, innovation, and solving challenging problems
+- Strong knowledge in JavaScript fundamentals
+- Well versed in various browser technologies
+- Your HTML/CSS have to be good enough to create world-class UI (hint: we don't use float)
+- Knowledge of techniques like BEM, CSS modules, inline styles, .etc and why they exist is a good sign
+- Enough knowledge to realize that Javascript world is a mess right now
+- Fluent in Javascript and the language's common pitfalls/patterns
+- Angular or React or Vue: you don't have to know all of them, component-based architecture is what you must know to get things done in the right way
 
 ## Job and the challenges
 
-- Your HTML/CSS have to be good enough to create world class UI (Hint: we don't use `float`).
-- Knowledge of techniques like BEM, CSS modules, inline styles, .etc and why they exist is a good sign.
-- Implement mobile-first, responsive UI and a good sense of design.
-- Enough knowledge to realise that Javascript world is a mess right now.
-- Fluent in Javascript and the language's common pitfalls/patterns.
-- Angular or React or Vue: you don't have to know all of them, component-based architecture is what you must know to get things done in the right way.
-- Performance?
+- Implement mobile-first, responsive UI and a good sense of design
+- Collaborate with Backend Engineers to build features and ship experiments
+- Build efficient and reusable front-end systems and abstractions
+- Participate in design and code reviews
+- Collaborate with Experience Designers to iterate on the design and implementation of our product
+- Find and address performance issues
+- Identify and communicate front-end best practices
+
+## Benefits & Perks
+
+### Healthcare
+We provide comprehensive medical and life insurance for our fulltime members. We want to make sure that you don't have to worry about your life and contributing to things that matter.
+
+### Stay Fresh
+Work is a marathon, not a sprint. We work a sustainable pace of 40 hours a week, with the occasional emergency or once-every-few-years special push demanding more.
+
+### No Office Traps
+We don't offer things like Foosball tables, catered meals in the office, and other “perks” designed to keep you at work for all of your waking hours. We were hoping you could put in 8 quality hours then go live your life, rest, and recharge so you can come back fresh to do it again.
+
+### Employee Stock Option Plan
+If you don’t want to be just tenured employees, you can own the company. As part of the package, being the significant contributors will give you the right to buy a certain amount of company shares at a predetermined price. We will discuss on a case-by-case basis.
+
+### Flexible Working Hours
+We care about the quality of the work we produce rather than the number of hours worked. We do not have a specific start time. Likewise, there isn’t a time we expect everyone to leave the office. However we do have several meetings among the company, so you should get into the office or dial in before that time. We need to respect the team and our commitments so if we have a meeting booked for a certain time you are expected to be accommodating. 
+
+### Paid Time Off
+Dwarves Foundation offers two weeks of paid vacation, a few extra personal days to use at your discretion, and the official national holidays every year. This is a guideline, so if you need a couple of extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking an extended absence, so they’re not left in the lurch.
+
+And more at [Benefits & Perks](/additional-info/benefits-and-perks.md)
 
 ## How to be a dwarf?
 
-We build innovative apps for startup. You have to prove that you own the platform or can/want to own the platform one day. You've built several applications and our initial assignments during the [interview process](https://github.com/dwarvesf/WeAreHiring#hiring-process) will be a walk in a park for you ;-)
+You can [Apply here](https://dwarves.careers/job/golang-engineer--dwarves-foundation--saigon) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
 
-Hopefully you'll have some published code (maybe on GitHub?) that we can take a look at.
+> Subject: Frontend - Be an awesome dwarf
 
-Honestly, we don't really care about your level of formal education, math skill, and so on. We want to see that you know the shit.
+We are expecting **Your application form**
+  * Who you are and what have you been working on
+  * More detailed info related to the position you're applying for
+  * Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
+  * Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+  * Attach references, if you have any
 
-Send us your _**short CV or any similar pieces**_ at team@dwarvesf.com with Subject: [Frontend] Be an awesome dwarf!
+Honestly, we don't really care about your level of formal education, math skill, or so on. We want to see that you are able to do something.
 
 #### Too hard for you?
-If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you!
+
+If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you in the [Apprenticeship Program](/open-positions/Apprentice.md)
