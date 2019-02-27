@@ -1,6 +1,10 @@
 # Open positions
 
-- Want to join us as [**Interns**](/open-positions/Intern.md)? We have an internship program that were designed with the purpose to give an opportunity to experience the real world projects. No coffee runs. [Apply here](/open-positions/Intern.md)
+We are hiring. Be the person stands behind all the cool products. 
+
+Our mission is to Empower the next innovations. At Dwarves, we unleash the next technopreneur generation by nurturing your career path with our innovative and globalizing working environment.
+
+That's why we seek for dynamic, proactive, open-minded and passionate talents who are committed to making the best impact ever.
 
 ### Full-time Position
 
@@ -9,6 +13,12 @@
 - [Android](/open-positions/Android.md)
 - [iOS](/open-positions/iOS.md)
 - [QA](/open-positions/QA.md)
+
+### Sideway Program
+
+- Want to join us as [**Interns**](/open-positions/Intern.md)? We have an internship program that were designed with the purpose to give an opportunity to experience the real world projects. No coffee runs. [Apply here](/open-positions/Intern.md)
+
+- Don't have engineering background or want to remaster the craftsmanship. You can join the [Craft Apprenticeship Program](/open-positions/Apprentice.md)
 
 # We are Dwarves
 
