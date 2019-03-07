@@ -1,5 +1,7 @@
 Not everyone has a clear path to a job in tech industry. It can be particularly difficult for individuals with non-traditional work and educational backgrounds to find full-time roles. For every computer science graduate we hire, we know there are others who could also make a significant impact: people whose work experience is primarily outside of tech and are looking to pivot into the industry; people who have taken time off for caregiving and are coming back into the workforce; and people who don’t have a traditional developer or engineering background (perhaps they are self-taught or participated in a coding program).
 
+Apprenticeship is a way to learn about being a professional software developer. Specifically, it is a way to learn to be like the most skilled software developers you can find. It involves seeking out good teachers, and taking opportunities to learn by working alongside them. It is the first step on the road toward becoming a different kind of software professional—one who wants to be more than just competent.
+
 With this in mind, we’re proud to launch our new apprenticeship program.
 
 # The Program
