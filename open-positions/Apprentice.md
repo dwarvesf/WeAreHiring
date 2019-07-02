@@ -49,7 +49,7 @@ We also encourage you to pair with other apprentices as well as with other Dwarv
 
 # How to be a Craft Apprentice
 
-You can [apply for the program](https://apprentice.dwarves.foundation) on May or September. Or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
+You can [**apply for the program**](https://apprentice.dwarves.foundation) on May or September. Or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
 
 > Subject: Craft Apprentice - Be an awesome dwarf
 

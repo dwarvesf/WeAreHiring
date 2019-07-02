@@ -62,7 +62,7 @@ And more at [Benefits & Perks](/additional-info/benefits-and-perks.md)
 
 ## How to be a dwarf?
 
-You can [Apply here](https://dwarves.careers/job/golang-engineer--dwarves-foundation--saigon) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
+You can [**apply here**](https://dwarves.careers/jobs/software-engineer-front-end--dwarves-foundation--saigon/) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
 
 > Subject: Frontend - Be an awesome dwarf
 

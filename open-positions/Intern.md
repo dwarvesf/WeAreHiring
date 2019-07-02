@@ -38,7 +38,7 @@ We want to help you become the product person. We know that things take steps to
 
 ## How to be a mining intern?
 
-You can [apply for the program](https://internship.dwarves.foundation) on March or July. Or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
+You can [**apply for the program**](https://internship.dwarves.foundation) on March or July. Or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
 
 > Subject: Mining Intern - Be an awesome dwarf
 

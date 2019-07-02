@@ -58,7 +58,7 @@ And more at [Benefits & Perks](/additional-info/benefits-and-perks.md)
 
 ## How to be a dwarf?
 
-You can [Apply here](https://dwarves.careers/job/ios-swift-developer--dwarves-foundation--saigon/) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
+You can [**apply here**](https://dwarves.careers/jobs/software-engineer-ios--dwarves-foundation--saigon/) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
 
 > Subject: iOS - Be an awesome dwarf
 
