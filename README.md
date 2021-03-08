@@ -1,145 +1,219 @@
-# Open positions
+# WeAreHiring
 
-#### Engineering
+### Engineering
 
-- 3 x [Backend Engineer](./open-positions/Golang.md)
-- 3 x [Web Engineer, React.js](./open-positions/Frontend.md)
-- 1 x [Quality Assurance Engineer](./open-positions/QA.md)
+- Backend Engineer, Go/Elixir/Rust
+- Web Developer, React.js
+- App Developer, Apple Platform
+- QA Engineer, Automation
+- QA Engineer, Manual
+- Data Engineer
+- AI/ML Engineer
+- Engineering Manager
 
-#### Design
+### Design
+- UX Designer (Blockchain/Fintech)
+- UX Designer (Productivity/Dev Tool)
+- UI Designer
+- Lead Designer
 
-- 1 x Web/App Designer
-- 1 x UI Designer
+### [Apprenticeship Training Program](#Apprenticeship-Program)
+(1+ year exp. required)
 
-#### Business
+- Backend Engineer
+- Web Developer
 
-- Sales Partner
-- Client Partner
+## Table of Content
 
-## The Dwarves
+- [WeAreHiring](#wearehiring)
+    - [Engineering](#engineering)
+    - [Design](#design)
+    - [Apprenticeship Training Program](#apprenticeship-training-program)
+  - [Table of Content](#table-of-content)
+  - [Dwarves: Team of craftsmen](#dwarves-team-of-craftsmen)
+  - [We believe the future is built, not discovered](#we-believe-the-future-is-built-not-discovered)
+  - [We get things done a bit differently](#we-get-things-done-a-bit-differently)
+    - [Built with the purpose](#built-with-the-purpose)
+    - [Engineering-driven culture](#engineering-driven-culture)
+    - [Work where you feel best](#work-where-you-feel-best)
+    - [Win as a team](#win-as-a-team)
+    - [Giving back](#giving-back)
+      - [Community, Event and Meetup](#community-event-and-meetup)
+      - [Open Source Software](#open-source-software)
+      - [Social Responsibility Programs](#social-responsibility-programs)
+      - [Investing in future](#investing-in-future)
+  - [Our masterpiece](#our-masterpiece)
+    - [Products we ship](#products-we-ship)
+    - [Cutting-edge Tech Index](#cutting-edge-tech-index)
+    - [Dwarves handbook](#dwarves-handbook)
+    - [Apprenticeship Program](#apprenticeship-program)
+    - [Knowledge exchange activities](#knowledge-exchange-activities)
+  - [How to apply](#how-to-apply)
+    - [Application process](#application-process)
+  - [Keep in touch](#keep-in-touch)
 
-Dwarves is a software consulting firm registered in Delaware, USA. Since 2012, we have been on a mission to create a sustainable future, by distributing our technology practices and helping companies deliver their innovative software products.
+## Dwarves: Team of craftsmen
 
-- Businesses work with us to build their in-house products & software.
-- Tech startups collaborate with us to launch and scale.
-- Oversea clients partner with  us to extend their development capacity.
+We are on the mission to empower innovations. Our vision is to build Dwarves Foundation, one of the top software innovation firms that impact the modern world. We spare no effort in building a company where software engineering can shine, and we know it starts with the people. 
 
-![](./images/team.png)
+At Dwarves, we enable you with the trust, independence, tools, facilities, and training so you could perform at your best. 
 
-## We're seeking for the bright minds.
+With 50+ people in the team, we have been distributing our technology practices and helping companies building software since 2013.
 
-Hiring means we need help. Hiring means there is something we simply cannot accomplish without an additional to our team. That's why we like 'better' people. People who can tell us what to do, not the other way around. We like people who not only get the job done right now, but also keeps getting better and grow with us.
+- Businesses work with us to build their in-house software.
+- Tech startups collaborate with us to launch and scale their products.
+- Others partner with us to extend their development capacity and level up their tech team.
+ 
+![](https://i.imgur.com/wBJE1p4.png)
 
-You'll join our HCM office as part of our technology R&D Lab. This group brings together product minds and digital capabilities to build the software that we can all be proud of.
+## We believe the future is built, not discovered
 
-Our application process is as followed:
+Software is eating the world. Whatever the future holds, it is a good bet that software will remain an essential part. As computer software becomes more sophisticated, it will help people with more complex challenges.
 
-- Pre-assessment: We'll be evaluating the “mind”, English skill, personalities in non-interrupted 30 minutes online session.
-- Assignment: You'll desmonstrate your skills and thought process on tackling problems through a small assignemnt.
-- Interview: With a 60 minute call, we'll show you everything you need to know about us, while you'll show us in greater depth about your software expertise.
-- Culture: If we get here, it means we really like you already. This one last step helps make sure you will fit right in with us, and that we are the right team for you. 
+Dwarvish magic was fundamentally technological know-how. With software is continuing to change the world, we want to build a company where software engineering disciplines could shine; innovative & quality products are shipped and change the world for the better.
 
-## What we pursue
+We choose innovation to be one of our core values that undoubtedly form ideas to affect society. Innovation is not for geniuses working alone; it is an activity that requires a team effort. Being innovative is a part of approaching the new future.
 
-### We are an engineering driven company
+We believe the future is built, not discovered, and we work every day to create the future where we want to live.
 
-Since day 1, we have spared no effort in building a company where software engineering could shine. 
-- We see software as a craft that requires expertise and passion.
-- We don't compromise quality. We aim to raise standards with every piece we produce.
-- We invest in the brilliant minds behind the craft. For us it's never wasted effort to uplift our engineers and boost their career growth. 
+## We get things done a bit differently
 
-### We live in tech
+### Built with the purpose
 
-![](./images/tech-index.png)
+Everything we do comes with [the purpose behind](https://github.com/dwarvesf/handbook/blob/master/purpose.md), from the product to every decision made. We want to enable an environment where people can freely express themselves and bring on their unique values.
 
-It doesn't make sense if a tech company doesn't invest heavily in tech. We keep ourself in the movement through various activities:
+We don't check attendants around here, as well as we don't monitor your screen to check if you're working. If we decide to hire you, it is our duty to trust that you excel at what is expected of you. The end result is the only metric we take into account.
 
-#### Tech Radar
+### Engineering-driven culture
 
-Our framework to learn the newest and the best technology out there to enhance the output quality, speed up the development process, also to bring the best pieces of software to life.
+We build a company where software engineering could shine, innovative products are shipped, and change the world for the better. In every software, the engineering team is one of the most crucial factors to make it successful. Software is more of artisanship, and software engineers aren't a replaceable cog. Thus, engineering-driven culture is essential. 
 
-https://d.foundation/radar
+We see software as a craft that requires expertise and passion. As we aim to raise standards with every piece we produce, we thoroughly invest in the craft's brilliant minds. 
 
-![](./images/tech-radar.png)
+> We wrote more about it in [our manifesto](https://d.foundation/manifesto)
 
-#### Memo
+### Work where you feel best
 
-Learned by engineers. Experimented by engineers. Experienced by engineers.
-Written by Dwarves for product craftsmen.
+After six years, we evolved as a team that works and communicates from anywhere. Some of us choose to work from coffee shops, others feel better in their PJs and start a virtual meeting, while the rest spend their day at our Saigon office.
 
-https://d.foundation/memo
+We endorsed and adopted Remote culture from early 2019. Till now, it brings more benefits to the team and helps us to transform the way we collaborate. We don't manage chairs. People have more time for the family and their alone zone to get things done. They focus on quality conversation and output rather than random interrupting messages.
 
-![](./images/memo.png)
+Work anywhere you like; be it in the office or under a coconut tree on a beach, to ensure that you are around the clock and be there when your folks need you.
 
-### We build the resilient future
+### Win as a team
 
-Software is transforming our world. It's a good time to be alive for us, as we get work with innovative clients and produce exciting, never-seen-before projects.
+Becoming a dwarf means you are a part of us. You represent the team in any actions that you make. We share joy and pride together. And based on that, the benefits package is designed to benefit people who have the most contribution to our success as a team.
 
-Internally, we also build our own products. We build things we love as a way learn, while sharing them with thousands of people.
+We have a profit-sharing & employee stock option plan for those who want to stay and make a fortune with us. The other crucial aspects like insurance and healthcare are included. 
 
-![](./images/future.png)
+> Check out the full list at our [handbook/benefit](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md)
 
-### We have no hierarchy.
+### Giving back
 
-All voices are equal here — we hire people to have opinions and perspectives.
+#### Community, Event and Meetup
 
-If you have a great idea and the will to make it work, that’s what we’ll do, regardless of your role or seniority. If you see changes on how we could make this team even better, we'll roll up our sleeves and make it happen with you.
+The Dwarves actively take part in developer communities to bring makers and tech-enthusiasts together. Below is the list of communities that we participate in and are involved in their operations.
 
-Nothing is off limits — we’re constantly looking for improvements in our people, our processes, and our products.
+- [Golang Vietnam](https://golang.org.vn): Google Go language community in Vietnam
+- [WeBuild Community](http://webuild.community/): Viet programmer online community.
+- [Techie Story](https://techiestory.co): feature the untold story of tech people in the tech industry.
 
-![](./images/idea.png)
-### We are result-driven.
-We don't manage chairs, as well as we don't monitor your screen to know if you're working. If we decide hire you, it is our duty to trust that you excel at what is expected of you. The end results are the only metrics we take into account.
+#### Open Source Software
 
-### Remote culture
-Because we don't need to manage your chairs, you are encouraged to work from anywhere. Just make sure you can be around when your folks needed.
+We are strong believers in "sharing is caring." Most of our open-source projects contribute to bringing comfort and convenience at Work to teach people. 
 
-If you need a space to work, we have 2 office at:
-* HaDo Centrosa, HCMC
-* Dalat, Vietnam
+By being open, the open-source software will empower the development of technology and help businesses to deliver innovative ideas.
 
-### We care, and we give back.
+[Hidden](https://github.com/dwarvesf/hidden), [Blurred](https://github.com/dwarvesf/blurred), [Session Buddy](https://github.com/dwarvesf/session-buddy) are just a few that we have built and given access for free. Check out more at http://d.foundation/opensource.
 
-#### CSR
-Technology is changing life. At Dwarves we use our tech expertise to change life for the better, one social impact at a time.
+#### Social Responsibility Programs
 
-![](./images/csr.png)
+At every chance we get, we use our tech expertise to change lives for the better, one social impact at a time. 
 
-#### Community
-The Dwarves actively takes part in dev communities to bring makers and tech-enthusiasts together.
+- [Code for Vietnam](https://webuild.community/code-for-vietnam)
+- [Salt Cancer Initiatives](https://www.saltfightcancer.org)
+- [The Library Project](https://www.library-project.org)
 
-![](./images/community.png)
+In fewer words, if you consider yourself a passionate software engineer, a nonstop learner, a kind and thoughtful teammate, you probably are the one we're looking for.
 
-##### GolangVN
+#### Investing in future
 
-We use Golang as our main backend language of choice to rewrite the modern world and effortlessly scalable services. We help to organize meetups, conferences and other activities. We started Golang Vietnam Community in the beginning of our journey on Jan 2015 and be a part of it till today.
+In 2018, we started Dwarves Fund as a dedicated venture fund. Come with Product and Technology R&D capability; Dwarves commits to delivering a scalable and sustainable business.
 
-![](./images/golang-vn.png)
+We make angel-size investments into early-stage startups, makers, and hustlers building next-generation tools and digital products for netizens.
 
-##### Webuild Community
+## Our masterpiece
 
-A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
+### Products we ship
 
-![](./images/webuild.png)
-#### Opensource software
-We do a lot of opensource, too. We are strong believers of 'sharing is caring'. Most of our opensource projects contribute to bringing comfort and convenience at work to tech people.
+List of products that we are proud to be a part
 
-- [Hidden](https://github.com/dwarvesf/hidden)
-- [Blurred](https://github.com/dwarvesf/blurred)
-- [Session Buddy](https://github.com/dwarvesf/session-buddy)
+![](https://i.imgur.com/vvdWOOB.jpg)
 
-https://d.foundation/opensource
+### Cutting-edge Tech Index
 
-![](./images/oss.png)
+We pick up the technology that brings true impact and helps build software efficiently.
 
-## Sounds a good place for you?
+![](https://i.imgur.com/JjWbqj7.jpg)
 
-Working with means having and building a career, not just a job. Come build with us.
+### Dwarves handbook
 
-Send us an email at team@d.foundation, the email should provide:
-- detailed info (background, skills, experience, .etc) related to your wished position
-- links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal blog, Behance, Dribbble...)
-- portfolios of projects you've been working on (ideally with links for AppStore/PlayStore/websites/.etc)
-- references, if you have any
+[The handbook](https://github.com/dwarvesf/handbook/) is where we try to share what’s worth knowing about the Dwarves, the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about, what a benefits package looks like, and hopefully everything in-between. The handbook also offers us an opportunity to clarify who we are as a company. What do we stand for? How should we work?
 
-If you want to stay in touch, talk about technology, hang around with us, ... Come & join our discord at: https://discord.gg/wYsgxzyDMP 
+Also, [the playbook](https://github.com/dwarvesf/playbook), on the other hand, contains our practices in software development, guides for getting things done, programming well, programming in style, and collaborating to make them successful.
+
+### Apprenticeship Program
+
+Apprenticeship is a way to learn about being a **professional software developer**. Specifically, it is a way to learn to be like the most skilled software developers you can find. It involves seeking out good teachers, and taking opportunities to learn by working alongside them.
+
+Apprenticeship is a total six-month, **earn-and-learn** training program, designed for the individuals who
+
+- are looking for the zen way to ship quality software
+- or haven't figured out the clear path to a job in tech industry
+- or with non-traditional work and educational background to find full-time roles
+
+The program provides real-world experience
+
+- Work on real projects with a team, and partner with a mentor for help throughout the program
+- Develop professional skills and gain insight with feedback and performance reviews from peers, mentors, and managers
+- Gain additional learning opportunities and resources provided throughout the program
+
+Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
+
+![](https://i.imgur.com/YvOiMJR.png)
+
+### Knowledge exchange activities
+
+We do a variety of things at Dwarves to uplift our engineers and grow us to the next level.
+
+- Radio Talk: happen on Monday; this is where we casually discuss related events in the tech industry. A few episodes have been up.
+- [Memo](https://d.foundation/memo): Our knowledge hub, including our thoughts, experiments, lessons learned in well-written format.
+- [Tech Radar](https://d.foundation/radar): The framework we use to assess and adopt new technology into our growing stack. 
+
+---
+
+## How to apply
+
+Send us an email at [**team@d.foundation**](mailto:team@d.foundation), with the following info:
+
+- Detailed info related to your wished position (background, skills, experience, .etc)
+- Links to your public profiles (i.e., Linkedin, Twitter, GitHub, Behance, Dribbble, personal blog)
+- Portfolios of projects you've been working on (ideally with links for AppStore, Play Store, or websites)
+- References, if you have any
+
+### Application process
+
+You'll join our HCM office as part of our technology R&D Lab. This group brings together product minds and digital capabilities to build the software we can all be proud of.
+
+Our application process is simple. We only care about two things, your **tech experience** and if you are **like-minded**.
+
+- Technical interview: Within a 60-minute session, we show you everything you need to know about us while you show us in great depth about your experience.
+- Culture fit: If we get here, it means we like you already. This one last step helps make sure you fit in with us and that we are the right team for you.
+
+After that, there will be two follow-up checkpoints for every candidate.
+- The fully paid [probation review](https://github.com/dwarvesf/handbook/blob/master/who-does-what.md#expectation).
+- The sixth month [checkpoint](https://github.com/dwarvesf/handbook/blob/master/routine.md#the-second-period).
+
+## Keep in touch
+
+Don't see any position that fits you? No worries, let's still keep in touch. We will send you updates whenever we look to hire. Simple come hang out with us on [**our Discord server**](https://discord.gg/wYsgxzyDMP) where we talk about technology and life as developers.
