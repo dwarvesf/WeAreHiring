@@ -1,124 +1,145 @@
 # Open positions
 
-We are hiring. Be the person stands behind all the cool products. 
+#### Engineering
 
-Our mission is to Empower the next innovations. At Dwarves, we unleash the next technopreneur generation by nurturing your career path with our innovative and globalizing working environment.
+- 3 x [Backend Engineer](./open-positions/Golang.md)
+- 3 x [Web Engineer, React.js](./open-positions/Frontend.md)
+- 1 x [Quality Assurance Engineer](./open-positions/QA.md)
 
-That's why we seek for dynamic, proactive, open-minded and passionate talents who are committed to making the best impact ever.
+#### Design
 
-### Full-time Position
+- 1 x Web/App Designer
+- 1 x UI Designer
 
-- [Web](/open-positions/Frontend.md)
-- [Golang](/open-positions/Golang.md)
-- [Android](/open-positions/Android.md)
-- [iOS](/open-positions/iOS.md)
-- [QA](/open-positions/QA.md)
+#### Business
 
-### Sideway Program
+- Sales Partner
+- Client Partner
 
-- Want to join us as [**Interns**](/open-positions/Intern.md)? We have an internship program that were designed with the purpose to give an opportunity to experience the real world projects. No coffee runs. [Apply here](/open-positions/Intern.md)
+## The Dwarves
 
-- Don't have engineering background or want to remaster the craftsmanship. You can join the [Craft Apprenticeship Program](/open-positions/Apprentice.md)
+Dwarves is a software consulting firm registered in Delaware, USA. Since 2012, we have been on a mission to create a sustainable future, by distributing our technology practices and helping companies deliver their innovative software products.
 
-# We are Dwarves
+- Businesses work with us to build their in-house products & software.
+- Tech startups collaborate with us to launch and scale.
+- Oversea clients partner with  us to extend their development capacity.
 
-Innovation happens. There are many startups found and raise fund every day. They focus on making significant positive changes, impact millions of people, lead to breakthroughs and support the foundation of economic growth.
+![](./images/team.png)
 
-Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. At some points, growing a startup needs a strong and experienced team behind. The software team that can help to design the system, design the database, produce the well-crafted software, keep the system stable, avoid the technical debt and deliver values is one of the critical pieces to solve the puzzle.
+## We're seeking for the bright minds.
 
-**This is where Dwarves Foundation comes in.**
-Despite the fact that service firms scale linearly, their ultimate size is capped and small, they don’t have life-changing exits for their founders, we start Dwarves Foundation as we want to build things right. I’ve always felt that companies like Dwarves Foundation are more important to the economy than the mildly pejorative phrase used to describe them.
+Hiring means we need help. Hiring means there is something we simply cannot accomplish without an additional to our team. That's why we like 'better' people. People who can tell us what to do, not the other way around. We like people who not only get the job done right now, but also keeps getting better and grow with us.
 
-Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](/additional-info/what-we-stand-for.md) in software development.
+You'll join our HCM office as part of our technology R&D Lab. This group brings together product minds and digital capabilities to build the software that we can all be proud of.
 
-Dwarf is the small and misshapen creatures in Norse Mythology. Dwarves are wisdom, natural good at smithing, mining, and crafting. They are well known for being the best blacksmiths throughout the nine worlds. The dwarf is an example of a creature who has the ability that surpasses the known world, presaging the rise of a universe beyond this physical realm. Whatever their origin, the dwarf’s existence plays a role in expanding the imagination.
+Our application process is as followed:
 
-Aspiring to create a positive breakthrough that can be able to rewrite the new world, we chose the name Dwarves Foundation as the commitment to the vision that we follow. This is what we do here. It takes many forms, and we’re always working towards better software craftsmanship.
+- Pre-assessment: We'll be evaluating the “mind”, English skill, personalities in non-interrupted 30 minutes online session.
+- Assignment: You'll desmonstrate your skills and thought process on tackling problems through a small assignemnt.
+- Interview: With a 60 minute call, we'll show you everything you need to know about us, while you'll show us in greater depth about your software expertise.
+- Culture: If we get here, it means we really like you already. This one last step helps make sure you will fit right in with us, and that we are the right team for you. 
 
-![](/images/team.png)
+## What we pursue
 
-## Core values
+### We are an engineering driven company
 
-We expect like-minded people
+Since day 1, we have spared no effort in building a company where software engineering could shine. 
+- We see software as a craft that requires expertise and passion.
+- We don't compromise quality. We aim to raise standards with every piece we produce.
+- We invest in the brilliant minds behind the craft. For us it's never wasted effort to uplift our engineers and boost their career growth. 
 
-- **Craftsmanship**: We work toward perfection in every single piece that we produce. We are proud of the well-crafted software that we develop together.
-- **Teamwork**: Teamwork is all about trust and collaboration. Having someone in the team mean we can rely on this person.
-- **Sustainable**: We think long-term. We do not believe in rushing for project and working overtime. We believe in working sustainably and balanced so that we are a happy bunch of sane workers. Software requires good brains to create good codes and good processes.
+### We live in tech
 
-## We do Agile
+![](./images/tech-index.png)
 
-We build software. The way we see it is a collaboration between multiple people in the team with sufficient knowledge on the domain and clearly understand the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level.
+It doesn't make sense if a tech company doesn't invest heavily in tech. We keep ourself in the movement through various activities:
 
-Also, based on that philosophy, we apply the Scrum framework, which we find out a good fit for us. There are no specific roles in the team at the beginning. There is only the team member who has autonomy and responsibility to meet the goals of the sprint. And there is the Scrum master who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn’t need a permanent coach. Check out [how-we-work](/additional-info/how-we-work.md) for more.
+#### Tech Radar
 
-![](/images/dwarves.png)
+Our framework to learn the newest and the best technology out there to enhance the output quality, speed up the development process, also to bring the best pieces of software to life.
 
-## How we hire
+https://d.foundation/radar
 
-Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit.
+![](./images/tech-radar.png)
 
-In general you will be taking through 4 rounds:
-- Pre-assessment: We evaluate the logic, English, and the personalities in non-interrupted 30 minutes online test.
-- Assignment: Its objective is to gauge the candidate skills, give them an idea of how they approach tasks relevant to the job and provide us with some talking points.
-- Interview: In the 60-minute interview, the candidates would know more about Dwarves working style & philosophy, and impress us with their background and skills.
-- Culture: This is an occasion for the team to learn more about the candidates in a casual way. Being on this round means that we liked your work. After that, if you are qualified, welcome to the woodland.
+#### Memo
 
-We are expecting **Your application form**
-  * Who you are and what have you been working on
-  * More detailed info related to the position you're applying for
-  * Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
-  * Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
-  * Attach references, if you have any
+Learned by engineers. Experimented by engineers. Experienced by engineers.
+Written by Dwarves for product craftsmen.
 
-## Our stack and technology
+https://d.foundation/memo
 
-![](images/tech-index.png)
+![](./images/memo.png)
 
-We believe that using technology in appropriate way will help to boost up productivity and make our life better in many aspects. We persue the path of modern technology where we invest a lot of time in new techs and how to apply them to our products.
+### We build the resilient future
 
-Having a team of strong engineering culture and product mindset, we use the cutting edge technologies to maximize the product outcome. As a time of writing down, we have
+Software is transforming our world. It's a good time to be alive for us, as we get work with innovative clients and produce exciting, never-seen-before projects.
 
-- Go and Elixir for backend development. Where Go is the greatest for API development and Elixir still a potential candidate to replace Ruby on Rails. They're both concurrency language which implemented Actor Model and Reader-Writer Synchonized.
-- Native mobile development with Functional Reactive Programming in Android and iOS using RxJava and RxSwift. Cross platfrom technology is still something good for startup but when you want to dig deeper in term of device components or sensors, application performance improvement and so on.
-- All the codebase is well-tested. We want everything should be stable and good enough before release date.
-- Automation Process with Docker-centric workflow
-    + We apply Gitflow and Kanban for product development.
-    + We apply CI/CD workflow in [DC/OS](https://dcos.io) (mesos and marathon) or in Kubernetes.
-    
-    Everytime when the feature is reviewed and approved, it will be tested automatically using Gitlab CI. Then that success version will be pushed into our private Docker Registry. When time comes and the branch master is ready to deploy, Gitlab CI will help to trigger to pull and install the new version.
+Internally, we also build our own products. We build things we love as a way learn, while sharing them with thousands of people.
 
-With those toolset, our development process is boosted up a lot and it's getting interesting.
+![](./images/future.png)
 
-## Community Contribution
+### We have no hierarchy.
 
-### Golang Vietnam Community
+All voices are equal here — we hire people to have opinions and perspectives.
 
-We use Golang as our main backend language of choice to rewrite the modern world and effortlessly scalable services. We help to organize meetups, conferences and other activities. We started [Golang Vietnam Community](https://golang.org.vn) in the beginning of our journey on Jan 2015 and be a part of it till today. 
+If you have a great idea and the will to make it work, that’s what we’ll do, regardless of your role or seniority. If you see changes on how we could make this team even better, we'll roll up our sleeves and make it happen with you.
 
-The first meetup was held on 2015 March with 40 gophers, and it marked the beginning of the Vietnam chapter. Joining the Go User Groups, Golang Vietnam helps to improve the tech scene by providing lots of activities to gather the community in Vietnam.
+Nothing is off limits — we’re constantly looking for improvements in our people, our processes, and our products.
 
-![](/images/golang-meetup.jpg)
+![](./images/idea.png)
+### We are result-driven.
+We don't manage chairs, as well as we don't monitor your screen to know if you're working. If we decide hire you, it is our duty to trust that you excel at what is expected of you. The end results are the only metrics we take into account.
 
-### GopherCon Vietnam
+### Remote culture
+Because we don't need to manage your chairs, you are encouraged to work from anywhere. Just make sure you can be around when your folks needed.
 
-GopherCon is one of the largest Golang events in the world. Thousand of gophers gather every year to GopherCon to meet and celebrate at the conference together.
+If you need a space to work, we have 2 office at:
+* HaDo Centrosa, HCMC
+* Dalat, Vietnam
 
-As a part of the Golang community, we are pleased to be launching the first [GopherCon Vietnam](https://gophercon.vn) on December 2018, the most significant event in Vietnam dedicated exclusively to Go. A community of a passionate Gophers organizes GopherCon Vietnam on a volunteer basis. The event was expected to serve 200 – 250 gophers and last for two days from Dec 08 to Dec 09 with the conference on the first day and the workshop on the second day.
+### We care, and we give back.
 
-![](/images/gophercon-vietnam.jpg)
+#### CSR
+Technology is changing life. At Dwarves we use our tech expertise to change life for the better, one social impact at a time.
 
-### Open Source Software
+![](./images/csr.png)
 
-Bringing future to the world by promoting open source software. At Dwarves Foundation, we believe that OSS are good for everyone. By being open, they will empower the development of technology and help businesses to deliver innovative ideas.
+#### Community
+The Dwarves actively takes part in dev communities to bring makers and tech-enthusiasts together.
+
+![](./images/community.png)
+
+##### GolangVN
+
+We use Golang as our main backend language of choice to rewrite the modern world and effortlessly scalable services. We help to organize meetups, conferences and other activities. We started Golang Vietnam Community in the beginning of our journey on Jan 2015 and be a part of it till today.
+
+![](./images/golang-vn.png)
+
+##### Webuild Community
+
+A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
+
+![](./images/webuild.png)
+#### Opensource software
+We do a lot of opensource, too. We are strong believers of 'sharing is caring'. Most of our opensource projects contribute to bringing comfort and convenience at work to tech people.
+
+- [Hidden](https://github.com/dwarvesf/hidden)
+- [Blurred](https://github.com/dwarvesf/blurred)
+- [Session Buddy](https://github.com/dwarvesf/session-buddy)
 
 https://d.foundation/opensource
 
-![](/images/oss.png)
+![](./images/oss.png)
 
-### Knowledge sharing
+## Sounds a good place for you?
 
-We joined several conferences last few years to give some talks, including Vietnam Mobile Day, Vietnam Web Summit, BarCamp Saigon or just some popup tech events.
+Working with means having and building a career, not just a job. Come build with us.
 
-## Questions?
+Send us an email at team@d.foundation, the email should provide:
+- detailed info (background, skills, experience, .etc) related to your wished position
+- links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal blog, Behance, Dribbble...)
+- portfolios of projects you've been working on (ideally with links for AppStore/PlayStore/websites/.etc)
+- references, if you have any
 
-- Reach out: [team@d.foundation](mailto:team@d.foundation)
+If you want to stay in touch, talk about technology, hang around with us, ... Come & join our discord at: https://discord.gg/wYsgxzyDMP 
