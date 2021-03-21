@@ -1,11 +1,15 @@
 # WeAreHiring
 
+### Marketing
+
+- [Marketing Lead](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Growth.md)
+
 ### Engineering
 
 - Backend Engineer, Go/Elixir/Rust
-- Web Developer, React.js
-- App Developer, Apple Platform
-- QA Engineer, Automation
+- [Web Developer, React.js](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Frontend.md)
+- [App Developer, Apple Platform](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/iOS.md)
+- [QA Engineer, Automation](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/QA.md)
 - QA Engineer, Manual
 - Data Engineer
 - AI/ML Engineer
