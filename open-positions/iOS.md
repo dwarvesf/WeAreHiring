@@ -16,7 +16,7 @@ WE ARE LOOKING FOR AN iOS DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of d
 
 ## About Us
 
-Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](/additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
+Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
 * 5 years in the market
 * 40 talented members
@@ -25,7 +25,7 @@ Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for t
 
 ## Requirements
 
-* Same [DNA](/additional-info/what-we-value.md)
+* Same [DNA](../additional-info/what-we-value.md)
 * A Linux or Mac user
 * Familiar with Agile philosophy and Scrum framework
 * Strong knowledge in Swift fundamentals and its framework
@@ -70,7 +70,7 @@ We care about the quality of the work we produce rather than the number of hours
 
 Dwarves Foundation offers two weeks of paid vacation, a few extra personal days to use at your discretion, and the official national holidays every year. This is a guideline, so if you need a couple of extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking an extended absence, so they’re not left in the lurch.
 
-And more at [Benefits & Perks](/additional-info/benefits-and-perks.md)
+And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
 ![](/images/team.png)
 
@@ -93,4 +93,4 @@ Honestly, we don't really care about your level of formal education, math skill,
 
 #### Too hard for you?
 
-If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you in the [Apprenticeship Program](/open-positions/Apprentice.md)
+If you are the potential one, don't be hesitate to contact us. Let's see if anything that we could help to train you in the [Apprenticeship Program](../open-positions/Apprentice.md)

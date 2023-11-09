@@ -16,7 +16,7 @@ show_frontmatter: true
 
 In 2018, we launched the first Summer Internship Program for students with or without Engineering background from top universities. The program was designed with the purpose to give an opportunity for candidates to experience the real world projects. No coffee runs here. We love watching talented people learn and explore their skills.
 
-We strive to create a generation of new tech enthusiasts who possess the [same DNA](/additional-info/what-we-value.md) with us, to generate a solid groundwork and go along with the company’s triumph.
+We strive to create a generation of new tech enthusiasts who possess the [same DNA](../additional-info/what-we-value.md) with us, to generate a solid groundwork and go along with the company’s triumph.
 
 * Collect an outline vision with the team leader's mentorship for you career roadmap.
 * Live your value and foster your skills through the code of craftsmanship.
@@ -27,7 +27,7 @@ We strive to create a generation of new tech enthusiasts who possess the [same D
 
 # About Us
 
-Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](/additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
+Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
 * 5 years in the market
 * 40 talented members
