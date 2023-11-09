@@ -24,8 +24,8 @@ show_frontmatter: false
 - [[hiring/additional-info/what-we-value.md|What We Value]]
 - [[hiring/additional-info/what-we-stand-for.md|What We Stand For]]
 - [[hiring/additional-info/making-a-career.md|Making A Career]]
-- [[hiring/additional-info/how-we-hire.md|How We Hire]]
 - [[hiring/additional-info/how-we-work.md|How We Work]]
+- [[hiring/additional-info/how-we-hire.md|How We Hire]]
 - [[hiring/additional-info/benefits-and-perks.md|Benefits And Perks]]
 - [[hiring/_index.md|We Are Hiring]]
 
