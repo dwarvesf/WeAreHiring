@@ -24,8 +24,8 @@ show_frontmatter: false
 - [[hiring/additional-info/what-we-value.md|What We Value]]
 - [[hiring/additional-info/what-we-stand-for.md|What We Stand For]]
 - [[hiring/additional-info/making-a-career.md|Making A Career]]
-- [[hiring/additional-info/how-we-work.md|How We Work]]
 - [[hiring/additional-info/how-we-hire.md|How We Hire]]
+- [[hiring/additional-info/how-we-work.md|How We Work]]
 - [[hiring/additional-info/benefits-and-perks.md|Benefits And Perks]]
 - [[hiring/_index.md|We Are Hiring]]
 
@@ -211,7 +211,7 @@ The program provides real-world experience
 
 Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
 
-![349025309015e6c8b1924fbb73d24188_MD5.webp](assets/README/349025309015e6c8b1924fbb73d24188_MD5.webp)
+![[knowledge-areas.webp]]
 
 ### Knowledge exchange activities
 
