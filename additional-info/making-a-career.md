@@ -1,8 +1,23 @@
+---
+tags:
+  - dwarves
+  - hiring
+title: Making A Career
+date: 
+description: 
+authors: 
+menu: hiring
+toc: 
+notice: 
+type: hiring
+show_frontmatter: true
+---
 # Making a Career
 
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon, Google and other companies, it’s [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Dwarves Foundation, it’s just around three years as of late 2018. That’s something to be proud of, and something to ensure endures. When you work at Dwarves Foundation, it should be feasible to think about this as the place for making a life-long career.
 
 ## Mastery & Titles
+
 Advancing your career at Dwarves Foundation doesn’t mean giving up on your craft and moving into “management.” Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with just two layers of managerial cake: executives and team heads. And both the executives and heads still spend the majority of their time doing actual work themselves as well.
 
 We’ve mapped our trajectory of mastery to *six different levels*. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will, of course, be different. Here’s an example of the titles for programming:
@@ -23,6 +38,7 @@ Day to day, though, these titles aren’t much of a factor. However, they do giv
 You can see the specific titles and proficiencies expected for: [Programmers](/), [Designers](/), [Business](/).
 
 ## Salary & Promotion
+
 You get the paycheck on the 1st or the 15th of the month depend on your joined day.
 
 Everyone in the same role at the same level is paid the same at Dwarves Foundation. When someone gets a promotion, that goes from one level to the next, they’ll get a corresponding pay raise Mar 1st as well.

@@ -1,5 +1,21 @@
+---
+tags:
+  - dwarves
+  - hiring
+title: What We Stand For
+date: 
+description: 
+authors: 
+menu: hiring
+toc: 
+notice: 
+type: hiring
+show_frontmatter: true
+---
 # What we stand for
+
 ## Empower Innovation with Software Craftsmanship
+
 Innovation happens. There are many startups found and raise fund every day. They focus on making significant positive changes, impact millions of people, lead to breakthroughs and support the foundation of economic growth.
 
 Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. Tech startups need to move fast and break things. 
@@ -19,7 +35,7 @@ This is what we do here. It takes many forms, and we’re always working towards
 
 # The name: Dwarves
 
-![](images/yggdrasill.png)
+![](yggdrasill.png)
 
 It begins in Norse Mythology. After the executed of Ymir, the very first giant of the universe, by Odin has conceived a whole new universe. In the new world, Yggdrasill is a giant ash tree located at the center cradles the nine realms of the cosmos.
 
@@ -35,4 +51,4 @@ At our woodland, the Dwarves are encouraged to thoroughly assess and evaluate th
 
 We choose innovation to be one of our core values that form ideas to affect the general society undoubtedly. Innovation is not for geniuses working alone, it is an activity that requires the team effort. Being innovative is a part to approach the new era. What that rewards, what can I say, can genuinely lead to significantly remodel the cosmo.
 
-![](images/dwarves.jpg)
+![](dwarves.jpg)

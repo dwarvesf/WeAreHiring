@@ -1,49 +1,63 @@
+---
+tags: null
+title: README
+date: null
+description: null
+authors: null
+menu: hiring
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+---
 # WeAreHiring
 
 ### Marketing
 
-- [Marketing Lead](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Growth.md)
+* [Marketing Lead](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Growth.md)
 
 ### Engineering
 
-- Backend Engineer, Go/Elixir/Rust
-- [Web Developer, React.js](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Frontend.md)
-- [App Developer, Apple Platform](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/iOS.md)
-- [QA Engineer, Automation](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/QA.md)
-- QA Engineer, Manual
-- Data Engineer
-- AI/ML Engineer
-- Engineering Manager
+* Backend Engineer, Go/Elixir/Rust
+* [Web Developer, React.js](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Frontend.md)
+* [App Developer, Apple Platform](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/iOS.md)
+* [QA Engineer, Automation](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/QA.md)
+* QA Engineer, Manual
+* Data Engineer
+* AI/ML Engineer
+* Engineering Manager
 
 ### Design
-- UX Designer (Blockchain/Fintech)
-- UX Designer (Productivity/Dev Tool)
-- UI Designer
-- Lead Designer
+
+* UX Designer (Blockchain/Fintech)
+* UX Designer (Productivity/Dev Tool)
+* UI Designer
+* Lead Designer
 
 ### [Apprenticeship Training Program](#Apprenticeship-Program)
+
 (1+ year exp. required)
 
-- Backend Engineer
-- Web Developer
+* Backend Engineer
+* Web Developer
 
 ## Table of Content
 
-- [Dwarves: Team of craftsmen](#dwarves-team-of-craftsmen)
-- [We believe the future is built, not discovered](#we-believe-the-future-is-built-not-discovered)
-- [We get things done a bit differently](#we-get-things-done-a-bit-differently)
-  - [Built with the purpose](#built-with-the-purpose)
-  - [Engineering-driven culture](#engineering-driven-culture)
-  - [Work where you feel best](#work-where-you-feel-best)
-  - [Win as a team](#win-as-a-team)
-  - [Giving back](#giving-back)
-- [Our masterpiece](#our-masterpiece)
-  - [Products we ship](#products-we-ship)
-  - [Cutting-edge Tech Index](#cutting-edge-tech-index)
-  - [Dwarves handbook](#dwarves-handbook)
-  - [Apprenticeship Program](#apprenticeship-program)
-  - [Knowledge exchange activities](#knowledge-exchange-activities)
-- [How to apply](#how-to-apply)
+* [Dwarves: Team of craftsmen](#dwarves-team-of-craftsmen)
+* [We believe the future is built, not discovered](#we-believe-the-future-is-built-not-discovered)
+* [We get things done a bit differently](#we-get-things-done-a-bit-differently)
+  * [Built with the purpose](#built-with-the-purpose)
+  * [Engineering-driven culture](#engineering-driven-culture)
+  * [Work where you feel best](#work-where-you-feel-best)
+  * [Win as a team](#win-as-a-team)
+  * [Giving back](#giving-back)
+* [Our masterpiece](#our-masterpiece)
+  * [Products we ship](#products-we-ship)
+  * [Cutting-edge Tech Index](#cutting-edge-tech-index)
+  * [Dwarves handbook](#dwarves-handbook)
+  * [Apprenticeship Program](#apprenticeship-program)
+  * [Knowledge exchange activities](#knowledge-exchange-activities)
+* [How to apply](#how-to-apply)
 
 ## Dwarves: Team of craftsmen
 
@@ -53,11 +67,11 @@ At Dwarves, we enable you with the trust, independence, tools, facilities, and t
 
 With 50+ people in the team, we have been distributing our technology practices and helping companies building software since 2013.
 
-- Businesses work with us to build their in-house software.
-- Tech startups collaborate with us to launch and scale their products.
-- Others partner with us to extend their development capacity and level up their tech team.
- 
-![](https://i.imgur.com/wBJE1p4.png)
+* Businesses work with us to build their in-house software.
+* Tech startups collaborate with us to launch and scale their products.
+* Others partner with us to extend their development capacity and level up their tech team.
+
+![246a0effb7792e233680bcbccacfd732_MD5.webp](assets/README/246a0effb7792e233680bcbccacfd732_MD5.webp)
 
 ## We believe the future is built, not discovered
 
@@ -83,7 +97,8 @@ We build a company where software engineering could shine, innovative products a
 
 We see software as a craft that requires expertise and passion. As we aim to raise standards with every piece we produce, we thoroughly invest in the craft's brilliant minds. 
 
-> We wrote more about it in [our manifesto](https://d.foundation/manifesto)
+ > 
+ > We wrote more about it in [our manifesto](https://d.foundation/manifesto)
 
 ### Work where you feel best
 
@@ -99,7 +114,8 @@ Becoming a dwarf means you are a part of us. You represent the team in any actio
 
 We have a profit-sharing & employee stock option plan for those who want to stay and make a fortune with us. The other crucial aspects like insurance and healthcare are included. 
 
-> Check out the full list at our [handbook/benefit](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md)
+ > 
+ > Check out the full list at our [handbook/benefit](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md)
 
 ### Giving back
 
@@ -107,9 +123,9 @@ We have a profit-sharing & employee stock option plan for those who want to stay
 
 The Dwarves actively take part in developer communities to bring makers and tech-enthusiasts together. Below is the list of communities that we participate in and are involved in their operations.
 
-- [Golang Vietnam](https://golang.org.vn): Google Go language community in Vietnam
-- [WeBuild Community](http://webuild.community/): Viet programmer online community.
-- [Techie Story](https://techiestory.co): feature the untold story of tech people in the tech industry.
+* [Golang Vietnam](https://golang.org.vn): Google Go language community in Vietnam
+* [WeBuild Community](http://webuild.community/): Viet programmer online community.
+* [Techie Story](https://techiestory.co): feature the untold story of tech people in the tech industry.
 
 #### Open Source Software
 
@@ -123,9 +139,9 @@ By being open, the open-source software will empower the development of technolo
 
 At every chance we get, we use our tech expertise to change lives for the better, one social impact at a time. 
 
-- [Code for Vietnam](https://webuild.community/code-for-vietnam)
-- [Salt Cancer Initiatives](https://www.saltfightcancer.org)
-- [The Library Project](https://www.library-project.org)
+* [Code for Vietnam](https://webuild.community/code-for-vietnam)
+* [Salt Cancer Initiatives](https://www.saltfightcancer.org)
+* [The Library Project](https://www.library-project.org)
 
 In fewer words, if you consider yourself a passionate software engineer, a nonstop learner, a kind and thoughtful teammate, you probably are the one we're looking for.
 
@@ -141,13 +157,13 @@ We make angel-size investments into early-stage startups, makers, and hustlers b
 
 List of products that we are proud to be a part
 
-![](https://i.imgur.com/vvdWOOB.jpg)
+![566d96c8c3045b97e9cc0ceb27a05e58_MD5.webp](assets/README/566d96c8c3045b97e9cc0ceb27a05e58_MD5.webp)
 
 ### Cutting-edge Tech Index
 
 We pick up the technology that brings true impact and helps build software efficiently.
 
-![](https://i.imgur.com/JjWbqj7.jpg)
+![54eefa8557986f93e325d269c588bd1f_MD5.webp](assets/README/54eefa8557986f93e325d269c588bd1f_MD5.webp)
 
 ### Dwarves handbook
 
@@ -161,27 +177,27 @@ Apprenticeship is a way to learn about being a **professional software developer
 
 Apprenticeship is a total six-month, **earn-and-learn** training program, designed for the individuals who
 
-- are looking for the zen way to ship quality software
-- or haven't figured out the clear path to a job in tech industry
-- or with non-traditional work and educational background to find full-time roles
+* are looking for the zen way to ship quality software
+* or haven't figured out the clear path to a job in tech industry
+* or with non-traditional work and educational background to find full-time roles
 
 The program provides real-world experience
 
-- Work on real projects with a team, and partner with a mentor for help throughout the program
-- Develop professional skills and gain insight with feedback and performance reviews from peers, mentors, and managers
-- Gain additional learning opportunities and resources provided throughout the program
+* Work on real projects with a team, and partner with a mentor for help throughout the program
+* Develop professional skills and gain insight with feedback and performance reviews from peers, mentors, and managers
+* Gain additional learning opportunities and resources provided throughout the program
 
 Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
 
-![](https://i.imgur.com/YvOiMJR.png)
+![349025309015e6c8b1924fbb73d24188_MD5.webp](assets/README/349025309015e6c8b1924fbb73d24188_MD5.webp)
 
 ### Knowledge exchange activities
 
 We do a variety of things at Dwarves to uplift our engineers and grow us to the next level.
 
-- Radio Talk: happen on Monday; this is where we casually discuss related events in the tech industry. A few episodes have been up.
-- [Memo](https://d.foundation/memo): Our knowledge hub, including our thoughts, experiments, lessons learned in well-written format.
-- [Tech Radar](https://d.foundation/radar): The framework we use to assess and adopt new technology into our growing stack. 
+* Radio Talk: happen on Monday; this is where we casually discuss related events in the tech industry. A few episodes have been up.
+* [Memo](https://d.foundation/memo): Our knowledge hub, including our thoughts, experiments, lessons learned in well-written format.
+* [Tech Radar](https://d.foundation/radar): The framework we use to assess and adopt new technology into our growing stack. 
 
 ---
 
@@ -189,10 +205,10 @@ We do a variety of things at Dwarves to uplift our engineers and grow us to the 
 
 Send us an email at [**team@d.foundation**](mailto:team@d.foundation), with the following info:
 
-- Detailed info related to your wished position (background, skills, experience, .etc)
-- Links to your public profiles (i.e., Linkedin, Twitter, GitHub, Behance, Dribbble, personal blog)
-- Portfolios of projects you've been working on (ideally with links for AppStore, Play Store, or websites)
-- References, if you have any
+* Detailed info related to your wished position (background, skills, experience, .etc)
+* Links to your public profiles (i.e., Linkedin, Twitter, GitHub, Behance, Dribbble, personal blog)
+* Portfolios of projects you've been working on (ideally with links for AppStore, Play Store, or websites)
+* References, if you have any
 
 ### Application process
 
@@ -200,12 +216,13 @@ You'll join our HCM office as part of our technology R&D Lab. This group brings 
 
 Our application process is simple. We only care about two things, your **tech experience** and if you are **like-minded**.
 
-- Technical interview: Within a 60-minute session, we show you everything you need to know about us while you show us in great depth about your experience.
-- Culture fit: If we get here, it means we like you already. This one last step helps make sure you fit in with us and that we are the right team for you.
+* Technical interview: Within a 60-minute session, we show you everything you need to know about us while you show us in great depth about your experience.
+* Culture fit: If we get here, it means we like you already. This one last step helps make sure you fit in with us and that we are the right team for you.
 
 After that, there will be two follow-up checkpoints for every candidate.
-- The fully paid [probation review](https://github.com/dwarvesf/handbook/blob/master/who-does-what.md#expectation).
-- The sixth month [checkpoint](https://github.com/dwarvesf/handbook/blob/master/routine.md#the-second-period).
+
+* The fully paid [probation review](https://github.com/dwarvesf/handbook/blob/master/who-does-what.md#expectation).
+* The sixth month [checkpoint](https://github.com/dwarvesf/handbook/blob/master/routine.md#the-second-period).
 
 ## Keep in touch
 
