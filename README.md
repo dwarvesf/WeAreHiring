@@ -177,7 +177,7 @@ The program provides real-world experience
 
 Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
 
-![349025309015e6c8b1924fbb73d24188_MD5.webp](assets/README/349025309015e6c8b1924fbb73d24188_MD5.webp)
+![[knowledge-areas.webp]]
 
 ### Knowledge exchange activities
 
