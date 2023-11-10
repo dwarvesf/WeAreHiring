@@ -12,7 +12,6 @@ notice: null
 type: null
 show_frontmatter: false
 ---
-- [[hiring/_index.md|We Are Hiring]]
 - [[hiring/open-positions/iOS.md|IOS]]
 - [[hiring/open-positions/QA.md|QA]]
 - [[hiring/open-positions/Intern.md|Intern]]
@@ -28,6 +27,7 @@ show_frontmatter: false
 - [[hiring/additional-info/how-we-work.md|How We Work]]
 - [[hiring/additional-info/how-we-hire.md|How We Hire]]
 - [[hiring/additional-info/benefits-and-perks.md|Benefits And Perks]]
+- [[hiring/_index.md|We Are Hiring]]
 
 
 ---
