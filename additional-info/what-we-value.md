@@ -7,13 +7,10 @@ date:
 description: 
 authors: 
 menu: hiring
-toc: 
-notice: 
 type: hiring
 show_frontmatter: true
 ---
 # What we value
-
 Before anything else, values come first. The value is important to us. They are what we proud of. They help guide us when we are facing a difficult decision. They will be the things you like about what we do at Dwarves Foundation and how we do it.
 
 Our core values guide our strategies and individual actions so that we create a company whose character is as radical as our work. 
@@ -23,7 +20,6 @@ Our core values guide our strategies and individual actions so that we create a 
 * **Sustainable**: We think long-term. We do not believe in rushing for project and working overtime. We believe in working sustainably and balanced so that we are a happy bunch of sane workers. Software requires good brains to create good codes and good processes.
 
 # Culture Code
-
 There is no such specific guide for culture code. So many of these employee handbook projects turn out to be ideal-case prescriptions rather than real-world descriptions. They cover all the ways people should act, not the ways they actually do. That’s a sham. Let’s not write a handbook like that. **Let’s keep it honest.**
 
 We believe the culture is defined by whom we hire, what we promote and encourage. It is dynamic, and it should expand like our business. We welcome its change as long as we still stay on the ground. Just like we want people to contribute new skills and ideas, we want people to contribute to the new culture.

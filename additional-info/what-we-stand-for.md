@@ -7,15 +7,12 @@ date:
 description: 
 authors: 
 menu: hiring
-toc: 
-notice: 
 type: hiring
 show_frontmatter: true
 ---
 # What we stand for
 
 ## Empower Innovation with Software Craftsmanship
-
 Innovation happens. There are many startups found and raise fund every day. They focus on making significant positive changes, impact millions of people, lead to breakthroughs and support the foundation of economic growth.
 
 Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. Tech startups need to move fast and break things. 
@@ -34,7 +31,6 @@ Despite the fact that service firms scale linearly, their ultimate size is cappe
 This is what we do here. It takes many forms, and we’re always working towards better software craftsmanship.
 
 # The name: Dwarves
-
 ![](yggdrasill.png)
 
 It begins in Norse Mythology. After the executed of Ymir, the very first giant of the universe, by Odin has conceived a whole new universe. In the new world, Yggdrasill is a giant ash tree located at the center cradles the nine realms of the cosmos.
