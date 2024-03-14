@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-08-24
 ---
 
 ### *[English below ↓](/d4073d96d29e4d46a963e9e87e561bb5#b551812252b54a9293ab359c92080dde)*<span style='color:red'>**Life at Dwarves #6**</span>, là những chia sẻ của Hiếu Vũ về hành trình pick up và yêu thích Golang,  quá trình gắn bó từ dự án đến con người tại Dwarves. Những trải nghiệm đó để lại cho Hiếu nhiều bài học và lời khuyên cho các bạn trẻ muốn theo đuổi công việc lập trình viên.

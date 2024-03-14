@@ -11,6 +11,7 @@ type:
 show_frontmatter: true
 ---
 # WeAreHiring
+- [[hiring/_index.md|Careers]]
 
 
 ### Marketing

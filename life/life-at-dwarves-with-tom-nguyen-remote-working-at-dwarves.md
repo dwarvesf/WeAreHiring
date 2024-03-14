@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-03-17
 ---
 
 A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.

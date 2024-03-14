@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-04-20
 ---
 
 **Tuan Dao - Senior Frontend/ Blockchain Engineer**

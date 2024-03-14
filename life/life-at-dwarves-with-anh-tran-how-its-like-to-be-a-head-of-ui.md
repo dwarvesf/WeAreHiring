@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-02-25
 ---
 
 Anh, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.

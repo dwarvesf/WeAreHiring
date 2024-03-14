@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-04-22
 ---
 
 [DF APPRENTICESHIP 2022 - MEET THE MENTORS]
