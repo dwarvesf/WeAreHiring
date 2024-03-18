@@ -17,24 +17,27 @@ hiring: true
 ---
 
 ## We're looking for Marketing & Communications Specialists to join Dwarves and work remotely.
+
 The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills.
 
 This role will involve developing and implementing marketing strategies, creating compelling content, managing social media presence, and maintaining effective communication with both internal and external stakeholders.
 
-> 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 ## Dwarves is research-focused technology firm
+
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
 
 Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
 
 On our way moving to the next goals, we're looking for talented members to join in and help us to grow more sustainably in the coming years.
 
-|                     |                      |                   |
-| ------------------- | -------------------- | ----------------- |
-| [[Life at Dwarves]] | [[Culture Handbook]] | [[The Manifesto]] |
+- [[Life at Dwarves]]
+- [[Culture Handbook]]
+- [[The Manifesto]]
 
 ### What you'll get to do
+
 ---
 
 - Collaborate with cross-functional teams to develop and execute comprehensive marketing and communication strategies.
@@ -47,6 +50,7 @@ On our way moving to the next goals, we're looking for talented members to join 
 - Set up and monitor online projects with proper tracking & reporting.
 
 ### What it takes to succeed
+
 ---
 
 - Can-do attitude & problem-solving mindset. You’ll be responsible for your work and proactively propose solutions to a problem.
@@ -56,12 +60,13 @@ On our way moving to the next goals, we're looking for talented members to join 
 - Possess essential knowledge and practical skills in Digital Marketing such as Marketing Analytics, Social Media Marketing, and Email Marketing. Familiar with ads tools/ platforms such as Facebook Ads, LinkedIn Ads, and Google Ads.
 - Excellent organizational and project management skills.
 
-`Nice to have`
+Nice to have
 
 - Experience working with IT companies.
 - Basic knowledge of Figma/ Photoshop or any design tools.
 
 ### Benefits
+
 ---
 
 Our goal is to provide and empower teammates with what they need to get the job done.
@@ -75,6 +80,7 @@ Our goal is to provide and empower teammates with what they need to get the job 
 - ESOP: You can buy a certain amount of company shares at a predetermined price. It's a part of our compensation packages
 
 ### Our interview process
+
 1. **Review & Reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
 2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
 3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
@@ -82,8 +88,15 @@ Our goal is to provide and empower teammates with what they need to get the job 
 
 > 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
-|                                                              |                                                                                          |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| **Or know someone who would be a great fit? Let them know!** | **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.** |
-| Share via Email Facebook LinkedIn Twitter                    | [Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV                   |
-|                                                              | [Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers  |
+{{% row %}}
+{{% col %}}
+**Or know someone who would be a great fit? Let them know!**
+Share via Email Facebook LinkedIn Twitter
+{{% endcol %}}
+
+{{% col %}}
+**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**
+[Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV
+[Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers
+{{% endcol %}}
+{{% endrow %}}
