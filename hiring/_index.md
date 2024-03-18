@@ -16,7 +16,8 @@ When we put Foundation in our name, we mean it. We want to put in place a team o
 
 Join us. Let's create the next big things together. At Dwarves, you will be working with an experienced, talented team who loves technology and knows how to use technology to better life on a global level.
 
-#### Apply:
+## Apply:
+- [[careers/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
 
 
 ---
