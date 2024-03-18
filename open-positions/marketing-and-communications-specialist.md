@@ -88,15 +88,9 @@ Our goal is to provide and empower teammates with what they need to get the job 
 
 > 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
-{{% row %}}
-{{% col %}}
-**Or know someone who would be a great fit? Let them know!**
+**Or know someone who would be a great fit? Let them know!**\
 Share via Email Facebook LinkedIn Twitter
-{{% endcol %}}
 
-{{% col %}}
-**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**
-[Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV
+**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
+[Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers
-{{% endcol %}}
-{{% endrow %}}
