@@ -14,6 +14,7 @@ menu: careers
 type: hiring
 hide_frontmatter: false
 hiring: true
+featured: true
 ---
 
 ## We're looking for Marketing & Communications Specialists to join Dwarves and work remotely.
