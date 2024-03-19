@@ -1,9 +1,13 @@
 ---
 tags: 
+- lifeatdwarves
+- software
+- careerpath
 title: Life At Dwarves With An Tran The More You Challenge Yourself The More Exciting It Gets
 date: 2022-08-09
 description: null
-authors: null
+authors: 
+- innno_
 menu: memo
 type: null
 hide_frontmatter: false
@@ -32,15 +36,15 @@ Hệ thống của Nghệ Nhân phức tạp hơn so các project trước đây
 ### Quan điểm của anh về một Senior thực thụ?
 “Anh nghĩ mình sẽ học được rất nhiều thứ từ một Senior thực thụ. Từ cách quản lý task, giao tiếp trong team, cách giải quyết và đưa ra giải pháp cho vấn đề. Dấu hiệu rõ nhất để biết mình đang làm cùng Senior đó là sự thoải mái. Đó sẽ là người mình nghĩ đến đầu tiên nếu gặp khó khăn.“
 
-### Khía cạnh quan trọng mà developers nên học nếu họ muốn trở thành senior là gì? **</span>
+### Khía cạnh quan trọng mà developers nên học nếu họ muốn trở thành senior là gì? 
 “Anh nghĩ ở mỗi công ty, tiêu chí để cất nhắc một Senior là khác nhau. Ở Dwarves, Senior sẽ cần chú trọng hơn về việc team work & team communication, cũng như mindset xây dựng product & nhìn công việc ở bức tranh toàn cảnh. Với cá nhân anh, senior sẽ cần pick up kiến thức, xây dựng kinh nghiệm & tầm nhìn của bản thân trong việc làm sản phẩm.”
 
 ### Senior cũng có thể mắc sai lầm hoặc tạo ra những thứ không được công nhận. Anh đã bao giờ cố gắng để công việc của mình được đánh giá cao chưa?
 “Thật ra, mục đích khi cố gắng của anh không phải để được công nhận hay đánh giá cao. Nó dựa vào kết quả mình làm ra, sản phẩm đạt chất lượng và mang lại hiệu quả. Việc đánh giá là ở người khác. Anh thích làm product, nên mục tiêu sẽ là hoàn thành product. Khi đó kết quả product sẽ là thước đo xem output của anh có đủ tốt hay không. Chưa tốt thì nhận feedback và hoàn thiện nó tốt hơn chứ không phải làm tốt vì được công nhận của mọi người.”
+
 ![[59dfbb443e860eb8a3222b0f23901628_MD5.webp]]
 
 ### Dwarves là một môi trường có nhịp độ nhanh. Mọi thứ có thể lộn xộn đối với Senior khi họ có quá nhiều trách nhiệm. Anh quản lý công việc của mình và teammate như thế nào?
-
 “Anh nhận thấy việc làm leader cho một bạn mới ra trường sẽ ảnh hưởng rất nhiều đến career path của các bạn sau này. Làm việc với nhau đủ lâu, style làm việc của bạn cũng sẽ hao hao giống mình, thậm chí code style mang mindset của mình trong đó. Anh nghĩ đó là cách mình để lại tầm ảnh hưởng với vai trò là một người đi trước. 
 
 Nếu các bạn cần lời khuyên em muốn học cái này, hay khoá học bổ sung kiến thức, anh cũng đưa ra góc nhìn của mình. Bản thân mình đã trải nghiệm điều đó rồi thì cứ đưa góc nhìn và kinh nghiệm của mình. Anh sẽ không chia sẻ nếu mình chưa từng trải qua. Bí quyết thì không hẳn. Mình tạo lòng tin cho các bạn. Một khi đã tin tưởng, bạn sẽ nghe theo lời khuyên của mình.”
@@ -48,9 +52,7 @@ Nếu các bạn cần lời khuyên em muốn học cái này, hay khoá học 
 Tham gia Discord để gặp & chuyện trò với An và team Dwarves: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
 ---
-
-<span style='color:red'>**Life at Dwarves**</span> là chuỗi câu chuyện về con người, góc nhìn và cuộc sống tại Dwarves Foundation. 
+**Life at Dwarves** là chuỗi câu chuyện về con người, góc nhìn và cuộc sống tại Dwarves Foundation. 
 
 Cảm ơn vì đã luôn đồng hành cùng tụi mình,
 Dwarves Team ♡
-
