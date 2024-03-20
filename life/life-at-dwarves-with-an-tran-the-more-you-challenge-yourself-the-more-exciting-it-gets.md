@@ -3,7 +3,7 @@ tags:
 - lifeatdwarves
 - software
 - careerpath
-title: Life At Dwarves With An Tran The More You Challenge Yourself The More Exciting It Gets
+title: "The More You Challenge Yourself The More Exciting It Gets" - An Tran (Senior Software Engineer)
 date: 2022-08-09
 description: null
 authors: 

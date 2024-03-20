@@ -3,7 +3,7 @@ tags:
 - lifeatdwarves
 - software
 - design
-title: Life At Dwarves With Anh Tran How Its Like To Be A Head Of Ui
+title: Life At Dwarves With Anh Tran How Its Like To Be A Head Of UI
 date: 2022-02-25
 description: null
 authors: 
