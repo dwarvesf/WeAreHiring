@@ -13,8 +13,6 @@ menu: careers
 type: null
 hide_frontmatter: false
 ---
-
-### *[English below ↓](/d4073d96d29e4d46a963e9e87e561bb5#b551812252b54a9293ab359c92080dde) 
 **Life at Dwarves #6**, là những chia sẻ của Hiếu Vũ về hành trình pick up và yêu thích Golang,  quá trình gắn bó từ dự án đến con người tại Dwarves. Những trải nghiệm đó để lại cho Hiếu nhiều bài học và lời khuyên cho các bạn trẻ muốn theo đuổi công việc lập trình viên.
 
 Hiếu Vũ từng là thực tập sinh ở tập đoàn công nghệ KMS, và hiện tại là Backend Engineer tại Dwarves. Dự án Aharooms, ngoài việc giúp Hiếu nhận ra niềm yêu thích với Golang, cũng là dự án đầu tiên Hiếu làm cùng với Dwarves Team và trở thành full-time member không lâu sau đó.
@@ -62,7 +60,7 @@ Nếu chấp nhận offer đó, cuộc sống của mình sẽ không khác gì 
 Tham gia Discord để gặp & chuyện trò với Hiếu Vũ và team Dwarves: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
 ---
-**Life at Dwarves**là chuỗi câu chuyện về con người, góc nhìn và cuộc sống tại Dwarves Foundation. 
+**Life at Dwarves** là chuỗi câu chuyện về con người, góc nhìn và cuộc sống tại Dwarves Foundation. 
 
 Cảm ơn vì đã luôn đồng hành cùng tụi mình,
 
@@ -110,7 +108,6 @@ After three years working here, I grew from someone who would not dare to speak 
 Swing by our Discord to meet & chat with Hieu Vu and the rest of Dwarves team: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
 ---
-
 **Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.
 
 Thank you for always being with us,

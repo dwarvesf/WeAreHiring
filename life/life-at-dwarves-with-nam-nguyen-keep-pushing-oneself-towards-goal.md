@@ -13,8 +13,6 @@ menu: careers
 type: null
 hide_frontmatter: false
 ---
-
-*[English below ↓](/b1cbd328ff8d4545bc677ded54915465#ab8af5f964c544e2a7c343940f28bcee)*
 **Life at Dwarves #5** là câu chuyện về Nam Nguyễn và hành trình hơn 5 năm gắn bó với Dwarves. Sau khi hoàn thành Cao Đẳng, Nam làm ở một công ty offshore của Nhật Bản với vị trí Fullstack Engineer. Sau khi quyết định nghỉ việc tại công ty cũ để tập trung cho tấm bằng Đại học, Nam gia nhập Dwarves, và trở thành một trong những contributor lâu nhất tại tech firm này.
 
 Với Nam, “được trải nghiệm nhiều điều mới lạ” luôn là châm ngôn sống. Đúng như lối sống của Nam, anh luôn thử thách bản thân mình trong suốt thời gian tại Dwarves. 
@@ -61,7 +59,6 @@ Cảm ơn vì đã luôn đồng hành cùng tụi mình,
 Dwarves Team ♡
 
 ---
-
 ## ENGLISH VERSION
 📌 ***The process of transformation and progress will never be easy, but you need it for a better version.***
 

@@ -37,22 +37,26 @@ After every training session, there was both positive and constructive feedback 
 We build software. The primary purpose of the Software Design Group is to create high-quality software solutions. Software architects need to be hands-on, we input the discoveries and new research into practices. By creating an environment where everyone feels valued and respected, we can unlock the full potential of our engineers and drive innovation forward. 
 
 Here are some of our proofs:
-* **Demo**
-* Explicit locking in SQL DBMS: [https://bit.ly/3qoELO5](https://bit.ly/3qoELO5)
-* Overview of Hashicorp Vault: [https://bit.ly/3qoEEC9](https://bit.ly/3qoEEC9)
-* Postgres implement multi-version concurrency control: [https://bit.ly/3WG9SB5](https://bit.ly/3WG9SB5)
-* **Dwarves Brainery**
-* Some light and casual articles on our Brainery: [https://brain.d.foundation/](https://brain.d.foundation/)
-* **Radio Talk**
-* Software Modeling & Architecture: [https://youtu.be/6hNXFhz0qow](https://youtu.be/6hNXFhz0qow)
-* Introduction to Driven Domain Design: [https://www.youtube.com/watch?v=8ZiS-MFXN28](https://www.youtube.com/watch?v=8ZiS-MFXN28)
-* Database Sharding: [https://www.youtube.com/watch?v=QiUWIyigz4U](https://www.youtube.com/watch?v=QiUWIyigz4U)
-* State Machine Pattern: [https://www.youtube.com/watch?v=rtxSf1QP1wk](https://www.youtube.com/watch?v=rtxSf1QP1wk)
-* Database Partition: [https://www.youtube.com/watch?v=XoRUFn3UjII](https://www.youtube.com/watch?v=XoRUFn3UjII)
-* **Articles**
-* Design a system for a video streaming platform startup: [https://bit.ly/43yyoWR](https://bit.ly/43yyoWR)
-* zk-SNARKs: [https://bit.ly/43n7jXe](https://bit.ly/43n7jXe)
-* Database Designs for Multilingual Apps: [https://bit.ly/45HNvPw](https://bit.ly/45HNvPw)
+
+**Demo**
+- Explicit locking in SQL DBMS: [https://bit.ly/3qoELO5](https://bit.ly/3qoELO5)
+- Overview of Hashicorp Vault: [https://bit.ly/3qoEEC9](https://bit.ly/3qoEEC9)
+- Postgres implement multi-version concurrency control: [https://bit.ly/3WG9SB5](https://bit.ly/3WG9SB5)
+
+**Dwarves Brainery**
+- Some light and casual articles on our Brainery: [https://brain.d.foundation/](https://brain.d.foundation/)
+
+**Radio Talk**
+- Software Modeling & Architecture: [https://youtu.be/6hNXFhz0qow](https://youtu.be/6hNXFhz0qow)
+- Introduction to Driven Domain Design: [https://www.youtube.com/watch?v=8ZiS-MFXN28](https://www.youtube.com/watch?v=8ZiS-MFXN28)
+- Database Sharding: [https://www.youtube.com/watch?v=QiUWIyigz4U](https://www.youtube.com/watch?v=QiUWIyigz4U)
+- State Machine Pattern: [https://www.youtube.com/watch?v=rtxSf1QP1wk](https://www.youtube.com/watch?v=rtxSf1QP1wk)
+- Database Partition: [https://www.youtube.com/watch?v=XoRUFn3UjII](https://www.youtube.com/watch?v=XoRUFn3UjII)
+
+**Articles**
+- Design a system for a video streaming platform startup: [https://bit.ly/43yyoWR](https://bit.ly/43yyoWR)
+- zk-SNARKs: [https://bit.ly/43n7jXe](https://bit.ly/43n7jXe)
+- Database Designs for Multilingual Apps: [https://bit.ly/45HNvPw](https://bit.ly/45HNvPw)
 
 From every piece of collected knowledge, the group can design robust architectures, develop scalable code, and implement efficient algorithms to build developer-focused products that strengthen the software core. The result is the delivery of software products that meet or exceed client expectations, leading to customer satisfaction, increased revenue, and a competitive edge in the market.
 
