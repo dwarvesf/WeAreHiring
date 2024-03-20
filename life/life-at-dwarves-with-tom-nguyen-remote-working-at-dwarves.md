@@ -8,7 +8,7 @@ date: 2022-03-17
 description: null
 authors: 
 - duy
-menu: memo
+menu: careers
 type: null
 hide_frontmatter: false
 ---

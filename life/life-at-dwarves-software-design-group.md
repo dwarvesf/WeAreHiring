@@ -1,5 +1,5 @@
 ---
-tags: [] 
+tags:
 - lifeatdwarves
 - software
 - design

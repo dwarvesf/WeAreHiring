@@ -8,7 +8,7 @@ date: 2022-08-09
 description: null
 authors: 
 - innno_
-menu: memo
+menu: careers
 type: null
 hide_frontmatter: false
 ---
