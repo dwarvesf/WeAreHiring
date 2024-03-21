@@ -3,7 +3,7 @@ tags:
 - lifeatdwarves
 - software
 - careerpath
-title: "The More You Challenge Yourself The More Exciting It Gets" - An Tran (Senior Software Engineer)
+title: The more you challenge yourself, the more exciting it gets - An Tran
 date: 2022-08-09
 description: null
 authors: 
@@ -15,44 +15,36 @@ hide_frontmatter: false
 
 > “I believe that on the journey to becoming a Senior Software Engineer, the more you challenge yourself, the more interesting things become.”
 
-Life at Dwarves this time is a rather secretive character in Dwarves with a healthy life and gentle personality. Mr. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
+Life at Dwarves this time is a rather secretive character in Dwarves with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 
-Trước khi tham gia cùng team Dwarves, An từng đảm nhận vị trí Tech Lead ở một start-up và Frontend Lead remote cho công ty ở Mỹ. Sau khi cho mình 3 tháng nghỉ ngơi, An tham gia vào project Gravity của Dwarves, trở thành full-time engineer và lead builder của dự án.
+Before joining Dwarves, An held the position of Tech Lead at a start-up and remote Frontend Lead for a company in the US. After giving himself 3 months of rest, An joined Dwarves' Gravity project, becoming a full-time engineer and lead builder of the project.
 
-Với An, mọi thứ sẽ rất nhàm chán nếu chỉ xoay quanh Frontend. Nếu đã quá quen với một thứ cố định mà không mở rộng ra nhiều khía cạnh khác thì công việc sẽ không còn thú vị nữa. An từng làm qua nhiều vai trò, từ Android đến Web, từ Backend đến Frontend. Thế nên title Full-stack Engineer phần nào đó vẫn đúng với người Senior này. 
-
-> Vậy với An, làm Senior sẽ cần có gì?
+To An, things would become quite boring if they were only focused on Frontend. If you get too familiar with one fixed thing and don't expand into many other aspects, work will no longer be interesting. He has worked in many roles, from Android to Web, from Backend to Frontend. So the title Full-stack Engineer is somehow still true for this Senior. 
 
 ![[9e2ac4cd6681cdf0a45399021f20a4cd_MD5.webp]]
-![[e4a85a883ca48d5cf9094440167bd587_MD5.webp]]
 
-### Senior ở Dwarves sẽ khác biệt thế nào so với các công ty trước?
-“Mỗi dự án có khó khăn riêng và trách nhiệm riêng. Mình sẽ phải tìm cách thích nghi với dự án, tìm phương hướng giải quyết với các yêu cầu của khách hàng dù ở bất cứ môi trường nào.
+### What does it take for An to become a Senior?
+If others need advice, I also give my own perspective and personal experience. I aim to build trust with them, as that is how I leave an impact in my role as a guiding figure.
 
-Thời gian đầu khi xây dựng hệ thống cho Nghệ Nhân, nguồn lực của team rất ít. Yêu cầu của client sẽ phải trade off bằng tốc độ delivery với nguồn lực lúc đó. Đó hoàn toàn là một thử thách. Từ việc planning, phân bổ task cho anh em trong team, đảm bảo chất lượng công việc của team và chất lượng sản phẩm.
+### How does being a Senior at Dwarves differ from previous companies?
+“Each project comes with its own difficulties and responsibilities. I will have to find ways to adapt to the project and determine the approach to meet the client's requirements in any given environment.
 
-Hệ thống của Nghệ Nhân phức tạp hơn so các project trước đây. Mình phải cân bằng giữa việc update và theo kịp tốc độ của khách hàng khi feature được thêm vào liên tục. Mình cần đảm bảo rằng khách hàng hiểu được việc đẩy nhanh tốc độ build sản phẩm đôi lúc sẽ khó đi đôi với chất lượng. Làm việc ở Dwarves, đặc biệt là vai trò senior - sẽ có nhiều mức độ thử thách khó nhằn để mình học hỏi, và nâng cao khả năng.”
+During the initial phase of building Nghe Nhan system, our team had limited resources. The client's demands had to be balanced with the speed of delivery given the available resources. It was indeed a challenge. From planning and task allocation within the team to ensuring the quality of our work and the final product.
 
-### Quan điểm của anh về một Senior thực thụ?
-“Anh nghĩ mình sẽ học được rất nhiều thứ từ một Senior thực thụ. Từ cách quản lý task, giao tiếp trong team, cách giải quyết và đưa ra giải pháp cho vấn đề. Dấu hiệu rõ nhất để biết mình đang làm cùng Senior đó là sự thoải mái. Đó sẽ là người mình nghĩ đến đầu tiên nếu gặp khó khăn.“
+Nghe Nhan system is more complex than previous projects. I have to strike a balance between keeping up with the customer's pace as new features are continuously added. I need to ensure that the client understands that pushing for faster product development can sometimes be challenging in terms of maintaining quality. Working at Dwarves, especially in a senior role, presents various challenging scenarios for me to learn from and enhance my capabilities.”
 
-### Khía cạnh quan trọng mà developers nên học nếu họ muốn trở thành senior là gì? 
-“Anh nghĩ ở mỗi công ty, tiêu chí để cất nhắc một Senior là khác nhau. Ở Dwarves, Senior sẽ cần chú trọng hơn về việc team work & team communication, cũng như mindset xây dựng product & nhìn công việc ở bức tranh toàn cảnh. Với cá nhân anh, senior sẽ cần pick up kiến thức, xây dựng kinh nghiệm & tầm nhìn của bản thân trong việc làm sản phẩm.”
+### What is your opinion of a true Senior?
+“I believe that I can learn a great deal from a genuine Senior. From task management, team communication, to problem-solving and providing solutions, there is much to gain. The clearest indication of working with a true Senior is the sense of comfort. They would be the first person I think of when encountering difficulties.“
 
-### Senior cũng có thể mắc sai lầm hoặc tạo ra những thứ không được công nhận. Anh đã bao giờ cố gắng để công việc của mình được đánh giá cao chưa?
-“Thật ra, mục đích khi cố gắng của anh không phải để được công nhận hay đánh giá cao. Nó dựa vào kết quả mình làm ra, sản phẩm đạt chất lượng và mang lại hiệu quả. Việc đánh giá là ở người khác. Anh thích làm product, nên mục tiêu sẽ là hoàn thành product. Khi đó kết quả product sẽ là thước đo xem output của anh có đủ tốt hay không. Chưa tốt thì nhận feedback và hoàn thiện nó tốt hơn chứ không phải làm tốt vì được công nhận của mọi người.”
+### What are the important aspects that developers should learn if they want to become senior? 
+“I think the criteria for recognizing a Senior can vary in each company. At Dwarves, Senior individuals would need to emphasize teamwork and team communication, as well as adopt a mindset of building products and viewing work from a holistic perspective. Personally, I believe that a Senior should actively acquire knowledge, build experience, and develop their own vision in product development.”
 
-![[59dfbb443e860eb8a3222b0f23901628_MD5.webp]]
+### Seniors can also make mistakes or create things that go unrecognized. Have you ever tried to get your work appreciated?
+“To be honest, my intention when striving is not to seek recognition or high praise. It is based on the results I produce, delivering quality products that are effective. The evaluation is in the hands of others. I enjoy working on products, so my goal is to complete the product. In doing so, the outcome of the product becomes the measure of whether my output is good enough. If it falls short, I accept feedback and strive to improve it, not for the sake of recognition from others, but to make it better.”
 
-### Dwarves là một môi trường có nhịp độ nhanh. Mọi thứ có thể lộn xộn đối với Senior khi họ có quá nhiều trách nhiệm. Anh quản lý công việc của mình và teammate như thế nào?
-“Anh nhận thấy việc làm leader cho một bạn mới ra trường sẽ ảnh hưởng rất nhiều đến career path của các bạn sau này. Làm việc với nhau đủ lâu, style làm việc của bạn cũng sẽ hao hao giống mình, thậm chí code style mang mindset của mình trong đó. Anh nghĩ đó là cách mình để lại tầm ảnh hưởng với vai trò là một người đi trước. 
+![](assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets/96B7765A-86B3-43D2-8F4A-8EE09D21B695.JPG)
 
-Nếu các bạn cần lời khuyên em muốn học cái này, hay khoá học bổ sung kiến thức, anh cũng đưa ra góc nhìn của mình. Bản thân mình đã trải nghiệm điều đó rồi thì cứ đưa góc nhìn và kinh nghiệm của mình. Anh sẽ không chia sẻ nếu mình chưa từng trải qua. Bí quyết thì không hẳn. Mình tạo lòng tin cho các bạn. Một khi đã tin tưởng, bạn sẽ nghe theo lời khuyên của mình.”
+### Dwarves is a fast-paced environment where things can get chaotic for Seniors who have many responsibilities. How do you manage your own tasks and teammates?
+“I realize that leading someone who is fresh out of school can have a big impact on their career path. Working together for a long time, their working style may start to resemble mine, and even their code style may reflect my mindset. I believe that is how I leave an influence in my role as a trailblazer.
 
-Tham gia Discord để gặp & chuyện trò với An và team Dwarves: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
-
----
-**Life at Dwarves** là chuỗi câu chuyện về con người, góc nhìn và cuộc sống tại Dwarves Foundation. 
-
-Cảm ơn vì đã luôn đồng hành cùng tụi mình,
-Dwarves Team ♡
+If you need advice or want to learn something specific or take additional courses to enhance your knowledge, I can provide you with my perspective. I share my insights and experiences based on what I have personally gone through. I won't share if I haven't experienced it myself. There's no secret formula, but I aim to build trust with you. Once you trust me, you'll be more inclined to listen to my advice”
