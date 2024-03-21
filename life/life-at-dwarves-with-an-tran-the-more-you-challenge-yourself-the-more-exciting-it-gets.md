@@ -13,9 +13,9 @@ type: null
 hide_frontmatter: false
 ---
 
-> “Anh nghiệm ra rằng trong hành trình trở thành Senior Software Engineer, càng thử thách bản thân, mọi thứ sẽ càng thú vị.”
+> “I believe that on the journey to becoming a Senior Software Engineer, the more you challenge yourself, the more interesting things become.”
 
-Life at Dwarves lần này là một nhân vật khá kín tiếng ở Dwarves với đời sống lành mạnh và tính cách nhẹ nhàng. Anh An Trần, Senior Software Engineer với 7 năm kinh nghiệm làm nghề từ các start-up đến Project Lead tại Dwarves Foundation. 
+Life at Dwarves this time is a rather secretive character in Dwarves with a healthy life and gentle personality. Mr. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 
 Trước khi tham gia cùng team Dwarves, An từng đảm nhận vị trí Tech Lead ở một start-up và Frontend Lead remote cho công ty ở Mỹ. Sau khi cho mình 3 tháng nghỉ ngơi, An tham gia vào project Gravity của Dwarves, trở thành full-time engineer và lead builder của dự án.
 
