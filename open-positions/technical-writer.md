@@ -5,33 +5,36 @@ tags:
   - technical
   - writer
   - specialist
-title: Technical writer
+title: Techincal writer
 date: 2024-02-28
-description: 
+description: The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills. The role involves collaborating with cross-functional teams to create documentation that supports our products and services, including product / technical deep dives, technical guides, API documentation, and more.
 authors:
   - nikki
 menu: careers
 type: hiring
 hide_frontmatter: false
 hiring: true
+featured: true
 ---
 
-## We're looking for Technical Writer to join Dwarves and work remotely.
+## We're looking for Techical Writer to join Dwarves and work remotely.
 
 > **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
-## Dwarves is research-focused technology firm
-Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
+## Dwarves is a research-focused technology firm
 
-Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
+Since 2015, we have helped companies ship top-notch software, build tech teams, and invest in learning & distributing the latest tech knowledge and skills. On our way to expanding our R&D capability, we're looking for talented Technical Writers to join us. The job can be both full-time and part-time.
 
-On our way moving to the next goals, we're looking for talented members to join in and help us to grow more sustainably in the coming years.
+The role involves collaborating with cross-functional teams to create documentation that supports our products and services, including product / technical deep dives, technical guides, API documentation, and more.
 
 - [[Life at Dwarves]]
 - [[Culture Handbook]]
 - [[The Manifesto]]
 
-### What you'll get to do
+### What you need to have
+
+---
+
 - 2+ years of experience as a technical writer with a real-project portfolio
 - Bachelor’s degree in journalism, communications, or technical fields
 - Must be a macOS user
@@ -40,19 +43,26 @@ On our way moving to the next goals, we're looking for talented members to join 
 - Experience in writing, editing and layouting using Markdown, and editors such iA Writer, Obsidian, Roam
 - Superb written communication skills in both English and Vietnamese
 
-### What it takes to succeed
-- Consistently develop and maintain our team’s brand voice
-- Collaborate with management and engineers to create technical documentation, visuals and diagrams for various audiences, including end users, administrators, and developers, stakeholders, communities
-- Create tutorials, guides, and FAQs to help audiences understand our brand, and activities
-- Work with communication to fully develop brand campaigns and events
-- Stay current with industry trends and best practices in technical writing and communication.
-
 **Nice to have**
+
 - Basic design skills using Figma, Canvas, Sketch
 - Basic understanding of Git, Github
 - Basic video editing skills
 
+### What it takes to succeed
+
+---
+
+- Consistently develop and maintain our team’s brand voice
+- Collaborate with management and engineers to create technical documentation, visuals and diagrams for various audiences, including end users, administrators, and developers, stakeholders, communities
+- Create tutorials, guides, and FAQs to help audiences understand our brand, and activities
+- Work with communication to fully develop brand campaigns and events
+- Stay current with industry trends and best practices in technical writing and communication
+
 ### Benefits
+
+---
+
 Our goal is to provide and empower teammates with what they need to get the job done.
 
 - Flat-structure & 100% remote
@@ -76,4 +86,4 @@ Share via Email Facebook LinkedIn Twitter
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
 [Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV\
-[Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers
+[Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers
