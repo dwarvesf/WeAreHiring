@@ -1,8 +1,8 @@
 ---
 tags: 
-- lifeatdwarves
-- software
-- careerpath
+- life
+- career
+- senior
 title: The more you challenge yourself, the more exciting it gets - An Tran
 date: 2022-08-09
 description: null
@@ -15,7 +15,7 @@ hide_frontmatter: false
 
 > “I believe that on the journey to becoming a Senior Software Engineer, the more you challenge yourself, the more interesting things become.”
 
-Life at Dwarves this time is a rather secretive character in Dwarves with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
+**Life at Dwarves** this time is a rather secretive character in Dwarves with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 
 Before joining Dwarves, An held the position of Tech Lead at a start-up and remote Frontend Lead for a company in the US. After giving himself 3 months of rest, An joined Dwarves' Gravity project, becoming a full-time engineer and lead builder of the project.
 
@@ -24,7 +24,7 @@ To An, things would become quite boring if they were only focused on Frontend. I
 ![[9e2ac4cd6681cdf0a45399021f20a4cd_MD5.webp]]
 
 ### What does it take for An to become a Senior?
-If others need advice, I also give my own perspective and personal experience. I aim to build trust with them, as that is how I leave an impact in my role as a guiding figure.
+If others need advice, I also give my own perspective and personal experience. I build trust with them, as that is how I leave an impact in my role as a guiding figure.
 
 ### How does being a Senior at Dwarves differ from previous companies?
 “Each project comes with its own difficulties and responsibilities. I will have to find ways to adapt to the project and determine the approach to meet the client's requirements in any given environment.
