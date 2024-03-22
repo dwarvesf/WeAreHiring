@@ -18,6 +18,7 @@ Join us. Let's create the next big things together. At Dwarves, you will be work
 
 ## Apply:
 - [[careers/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
+- [[careers/open-positions/technical-writer.md|Technical Writer]]
 
 
 ---

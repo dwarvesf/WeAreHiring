@@ -5,11 +5,12 @@ tags:
   - technical
   - writer
   - specialist
-title: Techincal writer
-date: 2024-02-28
+title: Technical Writer
+date: 2024-03-21
 description: The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills. The role involves collaborating with cross-functional teams to create documentation that supports our products and services, including product / technical deep dives, technical guides, API documentation, and more.
 authors:
   - nikki
+  - innno_
 menu: careers
 type: hiring
 hide_frontmatter: false
@@ -17,7 +18,7 @@ hiring: true
 featured: true
 ---
 
-## We're looking for Techical Writer to join Dwarves and work remotely.
+## We're looking for Technical Writer to join Dwarves and work remotely.
 
 > **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
