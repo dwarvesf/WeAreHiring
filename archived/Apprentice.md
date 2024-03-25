@@ -25,7 +25,7 @@ The program provides a real-world experience where you will
 * Develop professional skills and gain insight with feedback and performance reviews from peers, mentors, and managers
 * Gain additional learning opportunities and resources provided throughout the program
 
-![hiring/open-positions/assets/Apprentice/8e5f7f8bb132590bfbf3105155047b6c_MD5.webp](assets/Apprentice/8e5f7f8bb132590bfbf3105155047b6c_MD5.webp)
+![](assets/apprentice_8e5f7f8bb132590bfbf3105155047b6c_md5.webp)
 
 ## What you will learn & explore
 During your six months program, you will sit down with our Dwarves and do group studies on the following topics:

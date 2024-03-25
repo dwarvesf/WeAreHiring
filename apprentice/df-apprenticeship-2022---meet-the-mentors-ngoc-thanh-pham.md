@@ -22,7 +22,7 @@ Dwarves Team is shifting our focus to blockchain technology. We offer study grou
 The ecosystem revolves around cryptocurrency, NFTs, games, trading platforms and everything in between.
 
 Blockchain projects at Dwarves stretch to different potential corners of web3, from trading platforms to blockchain games. All of this call for comprehension of cross-chain and swapping technique.
-![[6200459018d58aabbad34c4dea3d42c7_MD5.webp]]
+![](assets/df-apprenticeship-2022---meet-the-mentors-ngoc-thanh-pham_6200459018d58aabbad34c4dea3d42c7_md5.webp)
 
 To seamlessly craft an output with a deliverable quality, understanding the product requirements is a sine qua non.”
 
