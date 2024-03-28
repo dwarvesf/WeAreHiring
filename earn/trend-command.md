@@ -26,7 +26,7 @@ We can reference https://github.com/trending to make our list. Otherwise, we wil
 
 There are no particular design requirements for this command, but it should use an embed and look similar to the outputs of our other commands.
 
-![](assets/trend-command_d0b559649b02683978bb96cfc06b1569_md5.webp)
+![](careers/earn/assets/trend-command_d0b559649b02683978bb96cfc06b1569_md5.webp)
 
 ### Filters
 Not all repositories are relevant to everyone. We need to support some kind of filtering scheme on Discord to filter by, but not limited to:

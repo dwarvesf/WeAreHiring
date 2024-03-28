@@ -11,8 +11,8 @@ hide_frontmatter: false
 ---
 
 A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
-![](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_2774f85a6539584bd90c345344f142f8_md5.webp)
-![](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_23e7e12588d10f00b12bc32d7b510a50_md5.webp)
+![](careers/life/assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_2774f85a6539584bd90c345344f142f8_md5.webp)
+![](careers/life/assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_23e7e12588d10f00b12bc32d7b510a50_md5.webp)
 
 ### <span style='color:red'>Working remotely fits me well. It keeps me from distraction.</span>
 ---
@@ -24,7 +24,7 @@ Going to the office can make you focus on your work. But it's more enjoyable at 
 ### <span style='color:red'>If you need suport, just tell the team.</span>
 ---
 “I used to work for a Singapore firm that enabled me to work remotely from Vietnam. Ths working style has been a thing for me ever since. Working from home allows you to have time for yourself and still get things done. I can literally turn on the 4G and continue my work anywhere. And Dwarves Foundation gives teammates huge support for this. If you need equipment, just simply create a ticket. Whether it's a microphone, a webcam or an ergonomic chair, the team is willing to supply it if it backs you up.
-![](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_4c39af0ca3f74b8a4f41d92a6eecadd8_md5.webp)
+![](careers/life/assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_4c39af0ca3f74b8a4f41d92a6eecadd8_md5.webp)
 
 ### <span style='color:red'>Remote working can significantly benefit when you use it wisely.</span>
 ---
