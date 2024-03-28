@@ -13,7 +13,7 @@ hide_frontmatter: false
 ### *[English below ↓](/d4073d96d29e4d46a963e9e87e561bb5#b551812252b54a9293ab359c92080dde)*<span style='color:red'>**Life at Dwarves #6**</span>, là những chia sẻ của Hiếu Vũ về hành trình pick up và yêu thích Golang,  quá trình gắn bó từ dự án đến con người tại Dwarves. Những trải nghiệm đó để lại cho Hiếu nhiều bài học và lời khuyên cho các bạn trẻ muốn theo đuổi công việc lập trình viên.
 
 Hiếu Vũ từng là thực tập sinh ở tập đoàn công nghệ KMS, và hiện tại là Backend Engineer tại Dwarves. Dự án Aharooms, ngoài việc giúp Hiếu nhận ra niềm yêu thích với Golang, cũng là dự án đầu tiên Hiếu làm cùng với Dwarves Team và trở thành full-time member không lâu sau đó.
-![](careers/life/assets/life-at-dwarves-with-hieu-vu_a9601721f5d8394ce510d39c585b40a9_md5.webp)
+![](assets/life-at-dwarves-with-hieu-vu_a9601721f5d8394ce510d39c585b40a9_md5.webp)
 
 ### <span style='color:red'>Python, Java hay NodeJS? Golang!</span>
 ---
@@ -54,7 +54,7 @@ Mình rơi vào giai đoạn khủng hoảng lúc nào không hay, và mình ph�
 Nếu chấp nhận offer đó, cuộc sống của mình sẽ không khác gì vòng lặp 9-to-5 - mọi thứ được định sẵn và mình chỉ xoay quanh công việc. Và đó là điều mình không thích. 
 
 Được nói chuyện và học hỏi từ mọi người là điều mình yêu thích hơn. Và những buổi Radio Talk cho mình được cả hai thứ đó. Có lẽ điều lớn nhất giữ mình ở lại chính là con người ở Dwarves.
-![](careers/life/assets/life-at-dwarves-with-hieu-vu_c0286ef2d21aad2ddb8aa2f2ee9e2592_md5.webp)
+![](assets/life-at-dwarves-with-hieu-vu_c0286ef2d21aad2ddb8aa2f2ee9e2592_md5.webp)
 
 Ở công ty 3 năm, mình cảm nhận rõ rệt về sự thay đổi của bản thân: Từ một người không mạnh dạn nói chuyện với nhiều người, bây giờ mình tự tin truyền đạt kinh nghiệm & những điều mình biết cho các bạn đi sau. Đó cũng là phần khó nhất khi trở thành supporter cho các bạn intern: Học cách hiểu mong muốn và nhu cầu của con người và làm sao để giúp đỡ một cách hiệu quả nhất.”
 
@@ -108,7 +108,7 @@ Earlier this year, a client offered me a full-time employment package. A bigger 
 If I take that offer, my life will become a 9-to-5 circle. Everything is settled to get up and work, and it bores me out. Those Radio Talks and sharing offer me two values I'm seeking: 
 
 To interact with people and to learn from them. Folks at Dwarves are more knowledgeable as a result of those sessions. So perhaps, teammates and culture are what connect and keep me staying. 
-![](careers/life/assets/life-at-dwarves-with-hieu-vu_27fe0d8a27cb8fd173cf17003989cd7e_md5.webp)
+![](assets/life-at-dwarves-with-hieu-vu_27fe0d8a27cb8fd173cf17003989cd7e_md5.webp)
 
 After three years working here, I grew from someone who would not dare to speak to anyone to a person who can now confidently convey his experience and knowledge to interns. That's also the most challenging aspect of being an intern supporter: Learning to understand people's wants and needs and how to provide the most efficient support."
 

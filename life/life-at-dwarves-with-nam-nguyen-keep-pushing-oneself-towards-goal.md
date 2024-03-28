@@ -14,7 +14,7 @@ hide_frontmatter: false
 <span style='color:red'>**Life at Dwarves #5**</span> là câu chuyện về Nam Nguyễn và hành trình hơn 5 năm gắn bó với Dwarves. Sau khi hoàn thành Cao Đẳng, Nam làm ở một công ty offshore của Nhật Bản với vị trí Fullstack Engineer. Sau khi quyết định nghỉ việc tại công ty cũ để tập trung cho tấm bằng Đại học, Nam gia nhập Dwarves, và trở thành một trong những contributor lâu nhất tại tech firm này.
 
 Với Nam, “được trải nghiệm nhiều điều mới lạ” luôn là châm ngôn sống. Đúng như lối sống của Nam, anh luôn thử thách bản thân mình trong suốt thời gian tại Dwarves. 
-![](careers/life/assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_d6b7f9003146b59e78897e98860ae7fb_md5.webp)
+![](assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_d6b7f9003146b59e78897e98860ae7fb_md5.webp)
 
 Từ Frontend cho đến QC và giờ đây là Backend cùng với DevOps, Nam chưa bao giờ cho bản thân mình ngừng học hỏi.
 
@@ -35,8 +35,8 @@ Sau khoảng 4 tháng part-time, anh chính thức chuyển sang vị trí Front
 Remote policy của Dwarves tạo điều kiện cho tụi anh được di chuyển khắp nơi. 2019 là lúc anh quyết định cho phép mình trải nghiệm nhiều điều mới, ở những vùng đất mới. Anh ở nhà lâu khiến vùng thoải mái bị thu hẹp lại, nên anh muốn push mình ra khỏi ranh giới đấy. 
 
 Nên anh quyết định tham gia GopherCon 2018, 2019. Ngoài việc làm event chung với anh em, anh muốn đứng sau hậu trường quan sát và học hỏi xem một sự kiện chỉn chu hoạt động từ A-Z như thế nào. Làm việc ở vai trò người tổ chức, mình phải chủ động liên hệ nơi làm merchandise, giao tiếp và sắp xếp lịch trình hoạt động của guest speaker. Nhờ vậy mà anh mới biết giao tiếp và các kỹ năng mềm của mình còn thiếu sót và bớt ngại ngùng khi mở rộng các mối quan hệ xung quanh. 
-![](careers/life/assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_db58e2c0129b57ea91027e8ccc549312_md5.webp)
-![](careers/life/assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_18818c254d28a247aa45f57bfcffb86c_md5.webp)
+![](assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_db58e2c0129b57ea91027e8ccc549312_md5.webp)
+![](assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_18818c254d28a247aa45f57bfcffb86c_md5.webp)
 
 Hồi đấy anh còn là một trong những thành viên trẻ nhất trong team. Một phần động lực của anh lúc đó chính là các thành viên của Dwarves - Mọi người rất giỏi kỹ năng mềm. Tham gia tổ chức sự kiện cho cộng đồng là cách anh rèn luyện & chủ động học hỏi để hoàn thiện mình.”
 
@@ -51,7 +51,7 @@ Dwarves giờ phát triển và có nhiều thành viên hơn. Thành ra các b�
 
 Tham gia Discord để gặp & chuyện trò với Nam và team Dwarves: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
-![](careers/life/assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_3ba7431a0e85c8bdb1b663f5d0cc922f_md5.webp)
+![](assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_3ba7431a0e85c8bdb1b663f5d0cc922f_md5.webp)
 
 ---
 
@@ -93,7 +93,7 @@ Dwarves is scaling up and getting bigger every day. So as a long-time contributo
 
 Swing by our Discord to meet & chat with Nam and the rest of Dwarves team: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
-![](careers/life/assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_7a80737e168731ddb08a001e5a9d4062_md5.webp)
+![](assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_7a80737e168731ddb08a001e5a9d4062_md5.webp)
 
 ---
 

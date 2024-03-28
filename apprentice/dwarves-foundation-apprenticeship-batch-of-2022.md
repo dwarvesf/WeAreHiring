@@ -11,7 +11,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_78a3d92a37a80df03892be456361742e_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_78a3d92a37a80df03892be456361742e_md5.webp)
 
 It’s our second attempt rolling out this program. But the motivation stays the same: <span style='color:red'>Accelerating someone’s current software development skillset</span>.
 
@@ -68,7 +68,7 @@ After every training session, we  required the apprentices to share their feedba
 * <span style='color:red'>Guiding Method</span>: Instead of the traditional mentor-mentee method, we’d prefer a peer-to-peer collaboration. Apprentices are trusted with their work and free to raise their ideas. 
 * <span style='color:red'>Teamwork Mindset</span>: Regardless of roles and seniorities, we provide the absolute support for those who need it.
 
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_9726985cf7f5aabace53ea202291bdc3_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_9726985cf7f5aabace53ea202291bdc3_md5.webp)
 
 # The next roster
 ---
@@ -82,31 +82,31 @@ The data market is full of potential, but the number of good data engineers and 
 With this summary, we’re delighted to welcome a new batch of well-trained Apprentices - who are now ready to participate in bigger projects, in various domains, with an eagerness to challenges themselves further.
 
 None We have a lot to learn ourselves, and we hope to improve them at our next year program. Until then, let’s meet the <span style='color:red'>**Dwarves Apprentices, batch of 2022**</span> ↓
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_e8c0afe85eea656357812dc687d5668d_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_e8c0afe85eea656357812dc687d5668d_md5.webp)
 
 ### [Khang Le](https://www.linkedin.com/in/khanglna/)
 [Backend](https://www.linkedin.com/feed/update/urn:li:activity:6974932139792367616/) 
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_ed3e89a78837a3760bfee0c5ec4b4ecd_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_ed3e89a78837a3760bfee0c5ec4b4ecd_md5.webp)
 
 ### [Hoang Ho](https://www.linkedin.com/in/hoangho0106/)
 Fullstack 
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_cfb99f36061038652a298a06cc7132c8_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_cfb99f36061038652a298a06cc7132c8_md5.webp)
 
 ### [Nghia Nguyen](https://www.linkedin.com/in/nguyen-hieu-nghia-8603301b5/)
 Backend
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_4d66f56c5c2cb79aac6997569d9467ee_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_4d66f56c5c2cb79aac6997569d9467ee_md5.webp)
 
 ### [Khoi Nguyen](https://www.linkedin.com/in/khoi-nguyen-a31a6a1b6/)
 Backend 
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_b3c67009fa8b96015ff2841c43a51094_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_b3c67009fa8b96015ff2841c43a51094_md5.webp)
 
 ### [My Anh](http://linkedin.com/in/anne-n-bb440116a)
 [Data, Backend](https://memo.d.foundation/From-Data-to-Backend-an-apprentice-sharing-49525aa152684a73adfbf627c52f4254)
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_e5f4ac7530ad0b779e9cca71072587ab_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_e5f4ac7530ad0b779e9cca71072587ab_md5.webp)
 
 ### [Huu Nguyen](https://www.linkedin.com/in/nhn/)
 Backend
-![](careers/apprentice/assets/dwarves-foundation-apprenticeship-batch-of-2022_c85c0642662081dd22c2d1d0f90175c6_md5.webp)
+![](assets/dwarves-foundation-apprenticeship-batch-of-2022_c85c0642662081dd22c2d1d0f90175c6_md5.webp)
 
 ### [Nam Bui](https://www.linkedin.com/in/nam-bui-36060521a/)
 Designer

@@ -19,8 +19,8 @@ Với An, mọi thứ sẽ rất nhàm chán nếu chỉ xoay quanh Frontend. N�
 
 > Vậy với An, làm Senior sẽ cần có gì?
 
-![](careers/life/assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_9e2ac4cd6681cdf0a45399021f20a4cd_md5.webp)
-![](careers/life/assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_e4a85a883ca48d5cf9094440167bd587_md5.webp)
+![](assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_9e2ac4cd6681cdf0a45399021f20a4cd_md5.webp)
+![](assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_e4a85a883ca48d5cf9094440167bd587_md5.webp)
 
 ### Senior ở Dwarves sẽ khác biệt thế nào so với các công ty trước?
 “Mỗi dự án có khó khăn riêng và trách nhiệm riêng. Mình sẽ phải tìm cách thích nghi với dự án, tìm phương hướng giải quyết với các yêu cầu của khách hàng dù ở bất cứ môi trường nào.
@@ -37,7 +37,7 @@ Hệ thống của Nghệ Nhân phức tạp hơn so các project trước đây
 
 ### Senior cũng có thể mắc sai lầm hoặc tạo ra những thứ không được công nhận. Anh đã bao giờ cố gắng để công việc của mình được đánh giá cao chưa?
 “Thật ra, mục đích khi cố gắng của anh không phải để được công nhận hay đánh giá cao. Nó dựa vào kết quả mình làm ra, sản phẩm đạt chất lượng và mang lại hiệu quả. Việc đánh giá là ở người khác. Anh thích làm product, nên mục tiêu sẽ là hoàn thành product. Khi đó kết quả product sẽ là thước đo xem output của anh có đủ tốt hay không. Chưa tốt thì nhận feedback và hoàn thiện nó tốt hơn chứ không phải làm tốt vì được công nhận của mọi người.”
-![](careers/life/assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_59dfbb443e860eb8a3222b0f23901628_md5.webp)
+![](assets/life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_59dfbb443e860eb8a3222b0f23901628_md5.webp)
 
 ### Dwarves là một môi trường có nhịp độ nhanh. Mọi thứ có thể lộn xộn đối với Senior khi họ có quá nhiều trách nhiệm. Anh quản lý công việc của mình và teammate như thế nào?
 

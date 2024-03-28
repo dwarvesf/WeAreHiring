@@ -53,7 +53,7 @@ With 50+ people in the team, we have been distributing our technology practices 
 * Tech startups collaborate with us to launch and scale their products.
 * Others partner with us to extend their development capacity and level up their tech team.
 
-![](careers/assets/readme_246a0effb7792e233680bcbccacfd732_md5.webp)
+![](assets/readme_246a0effb7792e233680bcbccacfd732_md5.webp)
 
 ## We believe the future is built, not discovered
 Software is eating the world. Whatever the future holds, it is a good bet that software will remain an essential part. As computer software becomes more sophisticated, it will help people with more complex challenges.
@@ -126,12 +126,12 @@ We make angel-size investments into early-stage startups, makers, and hustlers b
 ### Products we ship
 List of products that we are proud to be a part
 
-![](careers/assets/readme_566d96c8c3045b97e9cc0ceb27a05e58_md5.webp)
+![](assets/readme_566d96c8c3045b97e9cc0ceb27a05e58_md5.webp)
 
 ### Cutting-edge Tech Index
 We pick up the technology that brings true impact and helps build software efficiently.
 
-![](careers/assets/readme_54eefa8557986f93e325d269c588bd1f_md5.webp)
+![](assets/readme_54eefa8557986f93e325d269c588bd1f_md5.webp)
 
 ### Dwarves handbook
 [The handbook](https://github.com/dwarvesf/handbook/) is where we try to share what’s worth knowing about the Dwarves, the company, our culture, our process, and our history. It’s a guide to understanding what people are talking about, what a benefits package looks like, and hopefully everything in-between. The handbook also offers us an opportunity to clarify who we are as a company. What do we stand for? How should we work?
@@ -155,7 +155,7 @@ The program provides real-world experience
 
 Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
 
-![](careers/assets/readme_knowledge-areas.webp)
+![](assets/readme_knowledge-areas.webp)
 
 ### Knowledge exchange activities
 We do a variety of things at Dwarves to uplift our engineers and grow us to the next level.

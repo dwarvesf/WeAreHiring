@@ -13,7 +13,7 @@ hide_frontmatter: false
 
 **Tuan Dao - Senior Frontend/ Blockchain Engineer**
 
-![](careers/apprentice/assets/df-apprenticeship-2022---meet-the-mentors-tuan-dao_4be54ce3d8d423df9ba6725bae6056ce_md5.webp)
+![](assets/df-apprenticeship-2022---meet-the-mentors-tuan-dao_4be54ce3d8d423df9ba6725bae6056ce_md5.webp)
 
 Tuan has 4+ years of experience under his belt, 2 out of those 4+ was spent at Dwarves Foundation. Tuan’s years of experience don’t quite do him justice though, for he’s skilled and knowledge beyond the year, and has took part in projects of various sizes and domains.
 

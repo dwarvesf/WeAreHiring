@@ -11,8 +11,8 @@ hide_frontmatter: false
 ---
 
 Been with us for nearly 5 years, Thanh has been taking care of the juniors and ensuring their progress goes alongside the company’s direction. He is also the co-host of Dwarves Radio Talk - our weekly tech training every Monday.
-![](careers/life/assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_99d1d4af639e7bf4f1c447790068f1c8_md5.webp)
-![](careers/life/assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_b23fdddad0fb430f796516fd844f55c3_md5.webp)
+![](assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_99d1d4af639e7bf4f1c447790068f1c8_md5.webp)
+![](assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_b23fdddad0fb430f796516fd844f55c3_md5.webp)
 
 ### <span style='color:red'>My job is to ensure a healthy environment for everyone to thrive.</span>
 ---
@@ -44,4 +44,4 @@ I have conflicts to resolve too, either in the workload of the people. I once me
 I rarely have to worry about the team being lazy. It's like a code of conduct here - People know how to use their time and get things done.
 
 My future goal is to become a CTO, maybe in around 5-6 years - or sooner if I'm lucky. That requires working and understanding people, a lot. So I'm upgrading myself for the next big thing with what I'm doing now.”
-![](careers/life/assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_da2dc41bc6f10b6067410a68f1c232b2_md5.webp)
+![](assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_da2dc41bc6f10b6067410a68f1c232b2_md5.webp)

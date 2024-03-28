@@ -11,8 +11,8 @@ hide_frontmatter: false
 ---
 
 Anh, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.
-![](careers/life/assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_2a8ea12a2d98238fe84f9c80dc882a7a_md5.webp)
-![](careers/life/assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_525aae93901af5138fef6d6c5b68245f_md5.webp)
+![](assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_2a8ea12a2d98238fe84f9c80dc882a7a_md5.webp)
+![](assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_525aae93901af5138fef6d6c5b68245f_md5.webp)
 
 ### <span style='color:red'>A person can take care of both UX and UI design if the project is small. As a product designer, you're expected to know both.</span>
 ---
@@ -35,4 +35,4 @@ It's a great experience working here. The journey includes high notes and little
 There are times that people have their subjective opinions and are ready to protect them. I used to be the only designer on the team. That makes the communication issue between me with the rest of the developer team much harder. Our work scope is different, and so are our perspectives. We ended up arguing over everything. 
 
 So the team began to hold seminars, mostly to remove the roadblock once a for all. I got the chance to explain my work as a designer and understand things from a developer's point of view. It helped us to walk in each other's shoes. That move revamped our collaboration real fast. We know what others need and prepare to back them up.”
-![](careers/life/assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_4211cc90d9e6cb654d86bdd9d25a5ac5_md5.webp)
+![](assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_4211cc90d9e6cb654d86bdd9d25a5ac5_md5.webp)
