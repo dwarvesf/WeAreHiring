@@ -36,7 +36,7 @@ Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for t
 * Maintain and monitor the systems to make sure there is no disruption in our services
 * Continuously discuss, debate with other team members to propose optimal solutions for different problems
 
-![](/images/process.png)
+![](assets/golang_process.png)
 
 ## Benefits & Perks
 ### Healthcare
@@ -59,7 +59,7 @@ Dwarves Foundation offers two weeks of paid vacation, a few extra personal days 
 
 And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
-![](/images/team.png)
+![](assets/golang_team.png)
 
 ## How to be a dwarf?
 You can [**apply here**](https://dwarves.careers/jobs/software-engineer-golang--dwarves-foundation--saigon/) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 

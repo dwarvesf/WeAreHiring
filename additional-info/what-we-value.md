@@ -24,7 +24,7 @@ There is no such specific guide for culture code. So many of these employee hand
 
 We believe the culture is defined by whom we hire, what we promote and encourage. It is dynamic, and it should expand like our business. We welcome its change as long as we still stay on the ground. Just like we want people to contribute new skills and ideas, we want people to contribute to the new culture.
 
-![](/images/culture.png)
+![](assets/what-we-value_culture-1.png)
 
 A few things that we observed over the last few years:
 
