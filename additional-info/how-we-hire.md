@@ -36,7 +36,7 @@ There are also two other programs that we hold bi-yearly in Spring and Summer.
 
 Those programs were designed with the purpose to give an opportunity for candidates to experience the real world projects. No coffee runs. We love watching talented people learn and explore their skills.
 
-![](assets/how-we-hire_internship-1.png)
+![](assets/how-we-hire_internship-1.webp)
 
 ### Referral
 We usually hire and to keep the quality bar the Dwarves are encouraged to recommend friends that you think they match with the team. We think your suggestions should be helpful as you have to know the person. 

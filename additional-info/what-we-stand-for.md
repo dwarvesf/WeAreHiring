@@ -31,7 +31,7 @@ Despite the fact that service firms scale linearly, their ultimate size is cappe
 This is what we do here. It takes many forms, and we’re always working towards better software craftsmanship.
 
 # The name: Dwarves
-![](assets/what-we-stand-for_yggdrasill-1.png)
+![](assets/what-we-stand-for_yggdrasill-1.webp)
 
 It begins in Norse Mythology. After the executed of Ymir, the very first giant of the universe, by Odin has conceived a whole new universe. In the new world, Yggdrasill is a giant ash tree located at the center cradles the nine realms of the cosmos.
 
@@ -47,4 +47,4 @@ At our woodland, the Dwarves are encouraged to thoroughly assess and evaluate th
 
 We choose innovation to be one of our core values that form ideas to affect the general society undoubtedly. Innovation is not for geniuses working alone, it is an activity that requires the team effort. Being innovative is a part to approach the new era. What that rewards, what can I say, can genuinely lead to significantly remodel the cosmo.
 
-![](assets/what-we-stand-for_dwarves-1.jpg)
+![](assets/what-we-stand-for_dwarves-1.webp)
