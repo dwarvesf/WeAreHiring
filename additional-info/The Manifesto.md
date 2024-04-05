@@ -9,10 +9,9 @@ authors:
   - nikki
   - duy
   - han
-menu:
+menu: 
 type: hiring
 hide_frontmatter: false
-hiring: false
 ---
 
 ## Aim for Quality

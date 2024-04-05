@@ -8,10 +8,9 @@ description: We build this company like we build a product. There are roadmaps f
 authors:
   - mia
   - nikki
-menu:
-type:
+menu: 
+type: 
 hide_frontmatter: false
-hiring: false
 ---
 
 > We're like-minded teammates who pursue ambitious goals with tech culture and codes of conduct.
