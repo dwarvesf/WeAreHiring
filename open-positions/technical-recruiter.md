@@ -31,7 +31,7 @@ On our way moving to the next goals, we're looking for talented members to join 
 | ------------------- | -------------------- | ----------------- |
 | [[Life at Dwarves]] | [[Culture Handbook]] | [[The Manifesto]] |
 
-### **Requirement**
+### Requirement
 ---
 
 - 4 year+ proven recruiting experience at a technology firm
@@ -41,7 +41,7 @@ On our way moving to the next goals, we're looking for talented members to join 
 - Ability to discuss technical projects related to software development, distributive database technologies and programming languages
 - Proven experience in developing and administering various policies such as salary, health and safety and promotions.
 
-### **Responsibility**
+### Responsibility
 ---
 
 - Develop recruiting and sourcing strategy for subset of universities and schools including pre-identification of candidates, pre-screening resumes, pre-screen calls with candidates to recommend for additional interview rounds, operational plans, diversity plans, and branding activities (including attending on-campus and in-house events) to attract top talent

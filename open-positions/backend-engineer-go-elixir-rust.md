@@ -14,7 +14,7 @@ hide_frontmatter: true
 hiring: false
 ---
 
-## **Requirements**
+## Requirements
 ---
 
 - A Linux or Mac user
@@ -26,7 +26,7 @@ hiring: false
 - Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
 - Experience in writing good unit test
 
-## **Responsibility**
+## Responsibility
 ---
 
 - Define and shape the fundamentals of engineering at Dwarves Foundation

@@ -31,7 +31,7 @@ hiring: false
 - Experience in constructing secure systems
 - Problem-solving attitude and a team player spirit
 
-### **Preferred skills and qualifications**
+### Preferred skills and qualifications
 - Bachelor of science degree (or equivalent) in computer science, engineering, or relevant field
 - Experience in civil engineering or customer experience
 - Experience in developing/engineering applications for a large company

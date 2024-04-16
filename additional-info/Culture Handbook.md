@@ -40,7 +40,7 @@ Spend a bit extra effort. Little things count. How you approach. How you solve o
 
 Software gets updated to bring a better experience. That should applies in everything else. Every time you look back on your work, there should be something to improve.
 
-## **Think long-term**
+## Think long-term
 Making any kind of actions, we think about the long-term effects. Every decision we make today can lead to an impact in the future. The technology we endorse, the solution we choose to solve the problem; The founder we backed, the startup we invest into; The people we work with, the way we handle the customers. It also includes how we talk about ourselves, the attitude toward peers.
 
 ## Pay it forward
