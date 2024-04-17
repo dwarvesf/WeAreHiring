@@ -2,19 +2,21 @@
 tags: 
 - lifeatdwarves
 - software
-- data
-title: Life At Dwarves With Tom Nguyen Remote Working At Dwarves
+- career
+title: Life At Dwarves With Tom Nguyen 
 date: 2022-03-17
-description: null
+description: A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
 authors: 
 - duy
 menu: careers
 type: null
 hide_frontmatter: false
 ---
+
 A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
-![](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_2774f85a6539584bd90c345344f142f8_md5.webp)
-![](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_23e7e12588d10f00b12bc32d7b510a50_md5.webp)
+
+>
+> "The office creates a good vibe for work, but it also blocks us from having real work. Working from home allows you to have time for yourself and still get things done."
 
 ### Working remotely fits me well. It keeps me from distraction.
 "I'm always at home, so WFH is awesome. My previous workplace required people to be at the office and hang out for drinks afterward, and it was a bit overwhelmed in my pov. Working remotely fits me well, and I get work done without being distracted.
@@ -23,6 +25,7 @@ Going to the office can make you focus on your work. But it's more enjoyable at 
 
 ### If you need suport, just tell the team.
 “I used to work for a Singapore firm that enabled me to work remotely from Vietnam. Ths working style has been a thing for me ever since. Working from home allows you to have time for yourself and still get things done. I can literally turn on the 4G and continue my work anywhere. And Dwarves Foundation gives teammates huge support for this. If you need equipment, just simply create a ticket. Whether it's a microphone, a webcam or an ergonomic chair, the team is willing to supply it if it backs you up.
+
 ![](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_4c39af0ca3f74b8a4f41d92a6eecadd8_md5.webp)
 
 ### Remote working can significantly benefit when you use it wisely.
@@ -30,8 +33,7 @@ Going to the office can make you focus on your work. But it's more enjoyable at 
 
 In short, working from home only minimize our chances of verbal communication. It doesn't, and can't affect our work if you make it right. For me, it's the greatest work style ever. "
 
+![tom](assets/life-at-dwarves-tom.png)
+
 ---
 **Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.
-
-Thank you for always being with us,
-Dwarves Team ♡

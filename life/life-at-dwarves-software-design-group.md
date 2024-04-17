@@ -2,10 +2,10 @@
 tags:
 - lifeatdwarves
 - software
-- design
+- career
 title: Life At Dwarves Software Design Group
 date: 2023-06-01
-description: null
+description: At the end of 2021, starting with engineering practices, the core idea behind creating a software design group is to enable engineers to develop the skills required to become software architects.
 authors: 
 - innno_
 menu: careers
@@ -14,7 +14,9 @@ hide_frontmatter: false
 ---
 
 ### The idea: A path to better software
-*“Everything in software architecture is a trade-off, and the why is more important than how." Neal Ford is a Director and software architect at ThoughtWorks*
+
+>
+>*“Everything in software architecture is a trade-off, and the why is more important than how." Neal Ford is a Director and software architect at ThoughtWorks.*
 
 At Dwarves, we believe that growth is our universal language, and we always strive to improve ourselves, individual-wise and team-wise. 
 
@@ -62,7 +64,5 @@ From every piece of collected knowledge, the group can design robust architectur
 
 So far, collaborating between the software design team has led to creative solutions we may not have achieved by working separately. Always keep learning and coding. 
 
+---
 **Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.
-
-Thank you for always being with us,
-Dwarves Team ♡
