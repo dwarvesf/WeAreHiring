@@ -1,16 +1,17 @@
 ---
 tags:
-  - dwarves
+  - team
+  - operations
   - hiring
 title: What We Stand For
 date: 
 description: 
 authors: 
+- han
 menu: hiring
 type: hiring
 show_frontmatter: true
 ---
-# What we stand for
 
 ## Empower Innovation with Software Craftsmanship
 Innovation happens. There are many startups found and raise fund every day. They focus on making significant positive changes, impact millions of people, lead to breakthroughs and support the foundation of economic growth.
@@ -22,15 +23,20 @@ At some points, growing a startup needs a strong and experienced team behind. Th
 Another motivation for Dwarves Foundation was the lack of respect that service firms receive. Most software companies out there focus on digital transformation and consultancy. The nature of the business with a tight deadline and budget force them to do tricks. They hit and run. The codebase and software they produced are full of crap, and it damages our pride. 
 
 **This is where Dwarves Foundation comes in.**
+
 Despite the fact that service firms scale linearly, their ultimate size is capped and small, they don’t have life-changing exits for their founders, we start Dwarves Foundation as we want to build things right. I’ve always felt that companies like Dwarves Foundation are more important to the economy than the mildly pejorative phrase used to describe them.
 
-**Dwarves Foundation is an innovation service firm**. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
+**Dwarves Foundation is an innovation service firm**.
 
-**We stand for the craftsmanship in software development**. More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients. 
+ We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
+
+**We stand for the craftsmanship in software development**. 
+
+More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients. 
 
 This is what we do here. It takes many forms, and we’re always working towards better software craftsmanship.
 
-# The name: Dwarves
+## The name: Dwarves
 ![](assets/what-we-stand-for_yggdrasill-1.webp)
 
 It begins in Norse Mythology. After the executed of Ymir, the very first giant of the universe, by Odin has conceived a whole new universe. In the new world, Yggdrasill is a giant ash tree located at the center cradles the nine realms of the cosmos.

@@ -1,7 +1,8 @@
 ---
 tags:
-  - dwarves
+  - operations
   - hiring
+  - team
 title: How We Work
 date: 
 description: 
@@ -10,9 +11,8 @@ menu: hiring
 type: hiring
 show_frontmatter: true
 ---
-# How we work
 
-## We do Agile
+### We do Agile
 We build software. The way we see it is a collaboration between multiple people in the team with sufficient knowledge on the domain and clearly understand the project vision that they can quickly adapt to the changes in the market. We adopt the Agile philosophy at this level.
 
 Also, based on that philosophy, we apply the Scrum framework, which we find out a good fit for us. There are no specific roles in the team at the beginning. There is only the team member who has autonomy and responsibility to meet the goals of the sprint. And there is the Scrum master who is the team member turning into a coach. He works to remove any impediments that are obstructing the team from achieving its sprint goals. The role was supposed to be temporary. A mature team doesn’t need a permanent coach.
@@ -64,13 +64,9 @@ Han and An is the team evaluating pitches for inclusion in the next cycle. Befor
 ### Raising an Issue
 From time to time people may have problems or concerns about their colleagues, customers, company leadership, work environment and so forth. We want everyone in the team to be empowered to raise an issue and have it dealt with swiftly and fairly.
 
-* Have a conversation with the person involved
+* Have a conversation with the person involved: The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
 
-The first thing you can do, if you feel comfortable and able, raises the issue directly with the person concerned. This direct and informal approach is encouraged, and we expect your colleagues who are approached responsibly to respond similarly. This approach may be particularly appropriate in dealing with matters of speech and expression, where individuals may not be aware that their behavior is causing distress.
-
-* Ask a colleague to intervene on your behalf
-
-You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
+* Ask a colleague to intervene on your behalf: You may ask a colleague or leader to intervene informally on your behalf. In some situations, you may not feel able to approach the person or people involved directly and so going via a third party to raise your concern for you informally is another option available to you.
 In particular, if you have a grievance with a leader and feel unable to raise it directly, you should raise this issue either with another leader or with a colleague who can raise it with a leader for you.
 
 If they can’t help to resolve, you can talk to Han.
@@ -80,11 +76,8 @@ Managing at Dwarves Foundation is a part-time occupation, next to being involved
 
 That means setting your direction when one isn’t given. Determining what needs to be done, and doing it, without waiting for someone to tell you to. A manager of one will spend their time well when left to their own devices. There’s always more work to be done, always more initiatives to kick off, always more improvement to be had.
 
-## A typical working day
-* 9 am Monday, there is an Operation meeting between the head of all the team. They check up the status and list out what they need to do this week.
-
-Basecamp sends out the Digest email about recent activities.
-Basecamp start questioning “What will you be working on this week?”
+### A typical working day
+* 9 am Monday, there is an Operation meeting between the head of all the team. They check up the status and list out what they need to do this week. Basecamp sends out the Digest email about recent activities. Basecamp start questioning “What will you be working on this week?”
 
 * 10 am Monday, there are several Sprint Planning meetings to get people on the ground if it is the first Monday of the sprint. People start working.
 * 12 pm, lunchtime and take a short break to 1 pm.
@@ -93,7 +86,7 @@ Basecamp start questioning “What will you be working on this week?”
 * 5 pm, Basecamp start questioning “What did you work on today?”
 * 6 pm, the Dwarves leave the office.
 
-## Remote
+### Remote
 With the deep understanding that Work-Life balance is the real deal. We decided to pick this style of remote working as a primary way to work for the whole company. And everyone can choose to follow it or not. It’s optional but highly recommended.
 
 We believe that a happy person can deliver 10x quality output compared to others. You cannot stay in the room all the time and can be creative at the same time. People should have the right to use the time of their own and to work anywhere as long as it does not violate the company values.
@@ -107,7 +100,7 @@ We encourage the team to work remotely. We want our Dwarves to wake up at 7 am o
 
 It's also important to note this privilege is on a case-by-case basis and you need the approval from the lead.
 
-## We head toward craftsmanship
+### We head toward craftsmanship
 Software Craftsmanship is all about putting responsibility, professionalism, pragmatism and pride back into software development.
 
 Craftsmanship is not enough to guarantee the success of a project but the lack of it can be the main cause of its failure. 

@@ -1,7 +1,8 @@
 ---
 tags:
   - hiring
-  - life
+  - lifeatdwarves
+  - team
 title: Life at Dwarves
 date: 2023-12-05
 description: We build this company like we build a product. There are roadmaps for growth; there are phases; there are iterations. There might also be bugs, places where the company crashes because of bad organizational design, or cultural oversights.
@@ -26,7 +27,7 @@ That means we advocate for changes. Changes always start with making our people 
 | **[Work Gear Supplies](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#work-supplies-expense)**<br>Team fund to back you up for work-related expenses, such as work gears or subscriptions. | **[Travel Support](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#flight-tickets-to-dwarves-hubs)**<br>Annual travel package to Dwarves Hubs across the country.        |
 | **Learning Sponsorship**<br>Monthly pool for internal & external input in the team’s knowledge hub.                                                                                                                | **[Healthcare Package](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#annual-healthcare)**<br>Annual Bao Minh Insurance for overall & specialized healthcare check ups. |
 
-> and other exclusive company support, as in [Dwarves Benefits & Perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md).
+> And other exclusive company support, as in [Dwarves Benefits & Perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md).
 
 ## Foster a learning culture
 We take learning as the north-star metric. At Dwarves, we value you not only for the projects that you do for the company but also for how you strive to grow yourself. Learning at Dwarves takes place in all formats.

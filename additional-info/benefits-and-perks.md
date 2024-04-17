@@ -1,16 +1,18 @@
 ---
 tags:
-  - dwarves
+  - operations
   - hiring
+  - team
 title: Benefits And Perks
 date: 
 description: 
 authors: 
+- duy
 menu: hiring
 type: hiring
 show_frontmatter: true
 ---
-# Benefits & Perks
+
 Since the majority of Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don’t make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.
 
 ### Continuing Education Allowance
