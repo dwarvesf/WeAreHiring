@@ -15,8 +15,6 @@ hide_frontmatter: false
 ---
 
 ## Aim for Quality
----
-
 Quality exists in every piece of work. We thrive to deliver the best because we can.
 
 |                                                                                                                                                                                                                           |                                                                                                                                                                                                                                        |
@@ -26,8 +24,6 @@ Quality exists in every piece of work. We thrive to deliver the best because we 
 | **Create Solution That Lasts**<br><br>Software moves fast. New tech exists everyday. What you use today might deprecate tomorrow. But before any adoption, make sure it brings actual values over the existing solutions. | **Applications Needs Solid Foundations**<br><br>Good software relies on a solid foundation. A product doesn't stop when it's launched, it starts when it launches. Either it's the maintenance or extensions, the foundation is vital. |
 
 ## Engineering-Driven
----
-
 We build a place where software engineering changes the world for the better.
 
 |                                                                                                                                                                                      |                                                                                                                                                                                                           |                                                                                                                                                                                                  |
@@ -35,8 +31,6 @@ We build a place where software engineering changes the world for the better.
 | **Systematic Discipline**<br><br>We build software that lasts. It comes with systematic approaches, gained experience, engineering discipline, and the cost to make it maintainable. | **We're Not Commodities**<br><br>Software is an artisanship. And engineering team is the vital factor to make it successful. Engineers bring value through solutions. That makes them aren't replaceable. | **The Best Idea Wins**<br><br>We hire people for diversified perspectives. We’re constantly improve what we work. All voices are equal. If your idea makes the most sense, that’s what we’ll do. |
 
 ## Agile Minifesto
----
-
 We've keep uncovering better ways to develop software. We came to our version of Agile Minifesto.
 
 **Running Lean**
@@ -60,7 +54,6 @@ Productivity is filling your schedule & getting as much done as you can. It's bu
 Evaluate your work constantly. Start again if you have to. Starting from scratch lets innovation comes organically inspired by previous experiences. Evaluate your work constantly.
 
 ## Agile at Dwarves
----
 
 |                                                                                                              |                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |

@@ -1,16 +1,17 @@
 ---
 tags:
-  - dwarves
+  - operations
   - hiring
+  - team
 title: How We Hire
 date: 
-description: 
+description: Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit. 
 authors: 
 menu: hiring
 type: hiring
 show_frontmatter: true
 ---
-# How we hire
+
 Hiring means we need help. We only hire people who tell us what to do, not the other way around. We always look for long-term teammates that why we want to ensure the new hire is a value fit and culture fit. 
 
 ### Rounds

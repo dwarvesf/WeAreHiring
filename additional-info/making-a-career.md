@@ -1,6 +1,7 @@
 ---
 tags:
-  - dwarves
+  - team
+  - performance
   - hiring
 title: Making A Career
 date: 
@@ -10,7 +11,7 @@ menu: hiring
 type: hiring
 show_frontmatter: true
 ---
-# Making a Career
+
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon, Google and other companies, it’s [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Dwarves Foundation, it’s just around three years as of late 2018. That’s something to be proud of, and something to ensure endures. When you work at Dwarves Foundation, it should be feasible to think about this as the place for making a life-long career.
 
 ## Mastery & Titles
@@ -50,4 +51,4 @@ We perform bi-yearly reviews in July and January. Everyone who has been with the
 * Everyone writes up a 1-2 page summary and sends it to the head of their team.
 * The head of your team reviews your summary and prepares their thoughts.  He schedules a one-hour meeting to discuss.
 
-The head of your team will reach out to you when it’s time for you to write up your review. Of course, you can (and should) ask for feedback as often as you’d like it. The Performance Indicator is usually the summary of *Responsible, Teamwork and Mastery*
+The head of your team will reach out to you when it’s time for you to write up your review. Of course, you can (and should) ask for feedback as often as you’d like it. The Performance Indicator is usually the summary of *Responsible, Teamwork and Mastery.*
