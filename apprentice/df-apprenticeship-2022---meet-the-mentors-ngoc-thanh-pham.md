@@ -3,12 +3,12 @@ tags:
   - apprenticeship
   - internship
   - team
-title: Df Apprenticeship 2022 Meet The Mentors Ngoc Thanh Pham
+title: Dwarves Apprenticeship 2022 Meet The Mentors Ngoc Thanh Pham
 date: 2022-04-22
 description: Thanh is one of the vital elements of this team; and we know he’ll be more than happy to have you onboard.
 authors: 
 - duy
-menu: memo
+menu: careers
 type: null
 hide_frontmatter: false
 ---
@@ -16,9 +16,7 @@ hide_frontmatter: false
 Dwarves Team is shifting our focus to blockchain technology. We offer study groups and blockchain-based projects for peeps to grow and catch up with this rising trend. Thanh is one of the vital elements of this team; and we know he’ll be more than happy to have you onboard.
 
 ### What raises your interest for Dwarves?
-“My path at Dwarves began with the zeal to develop web3 and blockchain products. It's the rising star of modern software. 
-
-The ecosystem revolves around cryptocurrency, NFTs, games, trading platforms and everything in between.
+“My path at Dwarves began with the zeal to develop web3 and blockchain products. It's the rising star of modern software. The ecosystem revolves around cryptocurrency, NFTs, games, trading platforms and everything in between.
 
 Blockchain projects at Dwarves stretch to different potential corners of web3, from trading platforms to blockchain games. All of this call for comprehension of cross-chain and swapping technique.
 
@@ -34,7 +32,7 @@ The foundation of blockchain derives from the backend technique. But as time goe
 ### Say, an engineer is ready to get started with blockchain. What key factor he should note?
 “What caught my interest in the current youngsters is their proficiency in picking up new things. Some only need a few months to enroll and start their career with blockchain. This also brings a downside. They dive in too fast, get things done and somehow forget the critical factor of making a decent product: The long-term value.
 
-Blockchain requires a level of accuracy and meticulousness. That comes with a logical mindset and testing approach to deliver a product that brings value. This concept must be grasped before you design, test and validate any model.
+Blockchain requires a level of accuracy and meticulousness. That comes with a logical mindset and testing approach to deliver a product that brings value. This concept must be grasped before you design, test and validate any model.”
 
 ### What makes a product reach its definition of success?
 “For a product to succeed, it must first solve a user's need. No matter what you're building, a utility, a platform or an application, that product should empower the company revenue and align with the business goal. It's a target an engineer seeks to meet when he gets hands-on developing anything.”

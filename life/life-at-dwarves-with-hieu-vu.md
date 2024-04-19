@@ -19,7 +19,7 @@ hide_frontmatter: false
 Hieu Vu is currently a Backend Engineer, who was formerly an intern at KMS Technology Corporation. Through Aharooms project, his interest for Golang began. After 3 years, it’s not just the programming language that he was fond of, but also the human and culture at Dwarves that led to his decision: To go further with Dwarves for its human and the exclusive learning culture.
 
 ### Python, Java or NodeJS? Golang!
-“Back in 2017, Japanese companies were highly rated. People strived to go for it. Of course, I wasn't an exception. I tried my luck by applying for a Japanese tech firm. They required an entrance test using the Golang language, which I had no idea about. They gave us a 1-week deadline to learn and complete the exercise. I failed, obviously. But I had no regret. That test, by all means, sparked my lucky charm with Golang." 
+“Back in 2017, Japanese companies were highly rated. People strived to go for it. Of course, I wasn't an exception. I tried my luck by applying for a Japanese tech firm. They required an entrance test using the Golang language, which I had no idea about. They gave us a 1-week deadline to learn and complete the exercise. I failed, obviously. But I had no regret. That test, by all means, sparked my lucky charm with Golang.
 
 I started working on the Aharooms project before eventually moving on to Dwarves. I was able to learn more about NodeJS, but it was Aharooms that gave me the chance to learn and practice Golang. The excitement escalated, and I knew this should be my go-to language. 
 
@@ -29,14 +29,14 @@ From what I concept, Golang's future development is very promising, as more and 
 
 It was indeed a bit confusing when you first approached a new language. The willingness to learn, and the time spent to find a solution matter a lot. Don't force yourself if you have explored and practiced with a programming language and don't enjoy working with it. Find the language you love, and seek projects in which you can participate all you've learned.”
 
-### It’s normal to be ‘inexperienced’.
+### It’s normal to be ‘inexperienced’
 "Even though I am an instructor for interns, I often see and refer to myself as a supporter. Most interns have quite a bit of prior experience, and I need to hone my skills to become a better mentor. 
 
 Another issue I discovered is that recently, fresh graduates are afraid to apply to large corporations due to their lack of experience. But it's normal to be inexperienced! The important thing is the knowledge you acquired during school. 
 
 Use that as your confidence to gain your first job." Stay hungry, and stay foolish. At the same time, ask yourself what type of person you want to be in the future. Whether being an "indie hacker" or a self-employed, you should constantly improve your skills and industry expertise, as well as network to expand relationships.”
 
-### It's the people and its culture that keep me at Dwarves.
+### It's the people and its culture that keep me at Dwarves
 "During my internship at KMS in 2017, only two people were on the team: The leader and I. As everything was already built, our daily job was to maintain the application. After a month, the leader thought I could do it alone, so he left the team to join another. I soon realized that I preferred working in a team to build a product from scratch rather than working alone. 
 
 By 2019, I had met and worked on the same project with my Dwarves teammates, and everyone had become an inspiration to me in my work; each with an outstanding personality. I always learned something worthwhile from everyone to help improve myself. When I interact with Hieu Phan, his pleasant humor makes me feel close, easy to talk to, and unafraid to share the general grasp. Thanh Pham, despite his being harsh and strict, is often concerned with the teammate's career direction. His biggest strength is to offer advice to every teammate and junior. Bao, on the other hand, is the type of person who sees the bigger picture. And Minh is best known for his work project management skill and dedication. 
