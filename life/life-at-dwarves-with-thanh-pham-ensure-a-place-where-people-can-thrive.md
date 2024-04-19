@@ -25,17 +25,17 @@ Newbies can find it struggling to catch up. It happens for everyone - though the
 
 It was quite an experience to mentor. Young member needs guidance and advice to orient their path, while seniors need goals to pursue.”
 
-### Career path is built based on teammate’s expectation.
+### Career path is built based on teammate’s expectation
 “Backed by Team Lead and Engineer Lead, we have 2 tracks for a career path. IC (Individual Contributor) and MT (Management Track). IC is built for teammates who find it challenging to fit in and wish to develop themselves individually. Meanwhile, MT is created for those who want to grow, socialize and work more with people.
 
 At first, I didn't really enjoy sitting in a manager's seat. My focus was on developing the technical skills only. But in the long run, the Team should have someone to pay attention to, connect every teammate and navigate them based on one direction. So I fit in that slot, expanding the knowledge and encouraging everyone to interact and work well with each other. Time goes by, and here I am - in charging as an Engineer Manager.”
 
-### The key for a stable product quality: Connecting the key roles.
+### The key for a stable product quality: Connecting the key roles
 “There are four key roles to deliver a good project outcome: Product Manager - who provides the answer for the "What"; Engineering Lead - who understands the "How"; Developer - who manages the deadline and connects all the joint of the codebase, and Engineer Manager - who allocates the right ones for the job. The solid collaboration of these fours forms a stable product quality.
 
 I have conflicts to resolve too, either in the workload of the people. I once met a fresher who wanted to experience with startups. At that time, the company's demand was something different. One thing led to another, and he left. It's one of the problems you bump into once you're sitting at this place - It's to find the balance point between people's expectations and the company's direction.”
 
-### Omw to becoming CTO.
+### Omw to becoming CTO
 “What makes this team stand out is their hustle. 
 
 I rarely have to worry about the team being lazy. It's like a code of conduct here - People know how to use their time and get things done.

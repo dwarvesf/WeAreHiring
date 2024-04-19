@@ -7,7 +7,7 @@ date: 2022-09-23
 description: "It’s our second attempt rolling out this program. But the motivation stays the same: Accelerating someone’s current software development skillset."
 authors: 
 - duy
-menu: memo
+menu: careers
 type: null
 hide_frontmatter: false
 ---

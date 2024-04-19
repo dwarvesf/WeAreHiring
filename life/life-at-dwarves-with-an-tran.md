@@ -24,7 +24,7 @@ To An, things would become quite boring if they were only focused on Frontend. I
 ![](assets/life-at-dwarves-with-an-tran_the-more-you-challenge-yourself-the-more-exciting-it-gets-an-tran_life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_9e2ac4cd6681cdf0a45399021f20a4cd_md5.webp)
 
 ### What does it take for An to become a Senior?
-If others need advice, I also give my own perspective and personal experience. I build trust with them, as that is how I leave an impact in my role as a guiding figure.
+“If others need advice, I also give my own perspective and personal experience. I build trust with them, as that is how I leave an impact in my role as a guiding figure.”
 
 ### How does being a Senior at Dwarves differ from previous companies?
 “Each project comes with its own difficulties and responsibilities. I will have to find ways to adapt to the project and determine the approach to meet the client's requirements in any given environment.
@@ -42,3 +42,6 @@ Nghe Nhan system is more complex than previous projects. I have to strike a bala
 “I realize that leading someone who is fresh out of school can have a big impact on their career path. Working together for a long time, their working style may start to resemble mine, and even their code style may reflect my mindset. I believe that is how I leave an influence in my role as a trailblazer.
 
 If you need advice or want to learn something specific or take additional courses to enhance your knowledge, I can provide you with my perspective. I share my insights and experiences based on what I have personally gone through. I won't share if I haven't experienced it myself. There's no secret formula, but I aim to build trust with you. Once you trust me, you'll be more inclined to listen to my advice”.
+
+---
+**Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.
