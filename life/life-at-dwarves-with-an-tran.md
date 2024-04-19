@@ -21,7 +21,7 @@ Before joining Dwarves, An held the position of Tech Lead at a start-up and remo
 
 To An, things would become quite boring if they were only focused on Frontend. If you get too familiar with one fixed thing and don't expand into many other aspects, work will no longer be interesting. He has worked in many roles, from Android to Web, from Backend to Frontend. So the title Full-stack Engineer is somehow still true for this Senior. 
 
-![](assets/the-more-you-challenge-yourself-the-more-exciting-it-gets-an-tran_life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_9e2ac4cd6681cdf0a45399021f20a4cd_md5.webp)
+![](assets/life-at-dwarves-with-an-tran_the-more-you-challenge-yourself-the-more-exciting-it-gets-an-tran_life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_9e2ac4cd6681cdf0a45399021f20a4cd_md5.webp)
 
 ### What does it take for An to become a Senior?
 If others need advice, I also give my own perspective and personal experience. I build trust with them, as that is how I leave an impact in my role as a guiding figure.
@@ -36,7 +36,7 @@ Nghe Nhan system is more complex than previous projects. I have to strike a bala
 ### What is your opinion of a true Senior?
 “I believe that I can learn a great deal from a genuine Senior. From task management, team communication, to problem-solving and providing solutions, there is much to gain. The clearest indication of working with a true Senior is the sense of comfort. They would be the first person I think of when encountering difficulties.“
 
-![](assets/the-more-you-challenge-yourself-the-more-exciting-it-gets-an-tran_96b7765a-86b3-43d2-8f4a-8ee09d21b695.webp)
+![](assets/life-at-dwarves-with-an-tran_the-more-you-challenge-yourself-the-more-exciting-it-gets-an-tran_96b7765a-86b3-43d2-8f4a-8ee09d21b695.webp)
 
 ### Dwarves is a fast-paced environment where things can get chaotic for Seniors who have many responsibilities. How do you manage your own tasks and teammates?
 “I realize that leading someone who is fresh out of school can have a big impact on their career path. Working together for a long time, their working style may start to resemble mine, and even their code style may reflect my mindset. I believe that is how I leave an influence in my role as a trailblazer.

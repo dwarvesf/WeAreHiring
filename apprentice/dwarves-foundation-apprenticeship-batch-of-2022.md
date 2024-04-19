@@ -35,7 +35,7 @@ To convert from applicant to apprentice mode, peeps must finish 6 key factors
 
 With this in mind, we’re selective in choosing the next people for our squad. Narrowing down from over 140 applicants to the 7 newly joined isn’t an easy call. It’s a successful ratio of 1 to 20. 
 
-![ratio](assets/2022-apprenticeship.png)
+![ratio](assets/dwarves-foundation-apprenticeship-batch-of-2022_2022-apprenticeship.webp)
 
 ### The value generated
 After every training session, we  required the apprentices to share their feedback on the program. There were both positive and constructive feedback. The best part was knowing how Apprentices were able to advance and hone their skills.
@@ -60,4 +60,4 @@ With this summary, we’re delighted to welcome a new batch of well-trained Appr
 
 None We have a lot to learn ourselves, and we hope to improve them at our next year program. Until then, let’s meet the **Dwarves Apprentices, batch of 2022** ↓
 
-![members](assets/2022-apprenticeship-members.png)
+![members](assets/dwarves-foundation-apprenticeship-batch-of-2022_2022-apprenticeship-members.webp)

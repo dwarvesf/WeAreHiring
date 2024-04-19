@@ -45,7 +45,7 @@ My future goal is to become a CTO, maybe in around 5-6 years - or sooner if I'm 
 >
 > "I'm upgrading myslef for the next big thing with what I'm doing now."
 
-![thanhpham](assets/life-at-dwarves.jpeg)
+![thanhpham](assets/life-at-dwarves-with-thanh-pham-ensure-a-place-where-people-can-thrive_life-at-dwarves.webp)
 
 ---
 **Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.

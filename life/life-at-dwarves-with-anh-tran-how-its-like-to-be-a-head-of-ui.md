@@ -27,7 +27,7 @@ I've been with the Dwarves for 5 years already. Graduated as a Graphic Designer 
 “Newbies usually seek big firms or local companies to start their careers. Since those corps have been structuring their projects, everything was well-developed. Our job was only to maintain and update. But somehow, this blocks me from learning and exploring. I used to jump between 2-3 local corporations since I couldn't find a fitting place to grow in UI & UX design. That's when HR reached out to me, and I knew about Dwarves.
 At the moment, Dwarves was still a startup. This gave me more opportunities to learn since all our projects are brand new. Dwarves have chosen hard mode since then. They were always ahead of their game, and I learned a lot from them. It's the main reason that convinces me to stay this long.”
 
-![anhtran](assets/life-at-dwarves-anh-tran.jpeg)
+![anhtran](assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_life-at-dwarves-anh-tran.webp)
 
 ### Communication over everything.
 “The office was very active before the pandemic. It took people a while to cope with the whole work-from-home mode. But I'm glad everyone was able to catch up with the productivity.
@@ -39,7 +39,7 @@ So the team began to hold seminars, mostly to remove the roadblock once a for al
 >
 > "The journey includes high notes and little stuff that gets on my nerves. But to sum up, it was quite an experience."
 
-![asste](assets/life-at-dwarves-anh-tran-2.jpeg)
+![asste](assets/life-at-dwarves-with-anh-tran-how-its-like-to-be-a-head-of-ui_life-at-dwarves-anh-tran-2.webp)
 
 ---
 **Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.

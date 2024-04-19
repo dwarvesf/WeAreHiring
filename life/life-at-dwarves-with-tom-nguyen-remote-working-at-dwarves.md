@@ -33,7 +33,7 @@ Going to the office can make you focus on your work. But it's more enjoyable at 
 
 In short, working from home only minimize our chances of verbal communication. It doesn't, and can't affect our work if you make it right. For me, it's the greatest work style ever. "
 
-![tom](assets/life-at-dwarves-tom.png)
+![tom](assets/life-at-dwarves-with-tom-nguyen-remote-working-at-dwarves_life-at-dwarves-tom.webp)
 
 ---
 **Life at Dwarves** is a series of stories about people, perspectives and lives at the Dwarves Foundation.
