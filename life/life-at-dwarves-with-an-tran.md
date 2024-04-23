@@ -9,7 +9,7 @@ description: Life at Dwarves 01 is a rather secretive member with a healthy life
 authors: 
 - innno_
 menu: careers
-type: null
+type: careers
 hide_frontmatter: false
 ---
 

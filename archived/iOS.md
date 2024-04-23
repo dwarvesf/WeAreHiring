@@ -1,14 +1,17 @@
 ---
-tags: null
-title: IOS
-date: null
-description: null
-authors: null
-menu: hiring
-type: null
+tags: 
+- career
+- hiring
+title: iOS Developer
+date: 2022-07-21
+description: As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
+authors: 
+- nikki
+menu: memo
+type: hiring
 show_frontmatter: true
 ---
-# iOS Developer
+
 WE ARE LOOKING FOR AN iOS DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use
 
 ## About Us

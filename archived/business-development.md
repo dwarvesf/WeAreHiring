@@ -8,7 +8,7 @@ description: The ideal candidates will be responsible for identifying new busine
 authors:
   - nikki
   - vitran
-menu: careers
+menu: memo
 type: hiring
 hide_frontmatter: true
 hiring: false
@@ -72,15 +72,12 @@ Our goal is to provide and empower teammates with what they need to get the job 
 - ESOP: You can buy a certain amount of company shares at a predetermined price. It's a part of our compensation packages
 
 ### Our interview process
-1. **Review & Reference check** After we receive applications, we will perform our screening process and double-check on the reference.
+---
 
-2. **Skills** **assessment test**
-
-   Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
-
-3. **Team interview** Successful candidates will have a direct talk with our Ops members and/or relevant team members.
-
-4. **Offer** The best candidate will receive an offer from us right away.
+1. **Review & Reference check**<br> After we receive applications, we will perform our screening process and double-check on the reference.
+2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
+3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
+4. **Offer**<br>The best candidate will receive an offer from us right away.
 
 > 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 

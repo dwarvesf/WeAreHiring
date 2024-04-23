@@ -1,17 +1,18 @@
 ---
 tags:
-  - dwarves
+  - career
   - hiring
 title: Android
-date: 
-description: 
+date: 2022-07-21
+description: WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use.
 authors: 
-menu: hiring
+- nikki
+menu: memo
 type: hiring
 show_frontmatter: true
 ---
 # Android Developer
-WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use
+WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use.
 
 ## About Us
 Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:

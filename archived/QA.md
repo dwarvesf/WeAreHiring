@@ -1,14 +1,17 @@
 ---
-tags: null
-title: QA
-date: null
-description: null
-authors: null
-menu: hiring
-type: null
+tags:
+- career
+- hiring
+title: QA Engineer
+date: 2022-07-21
+description: As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
+authors: 
+- nikki
+menu: memo
+type: hiring
 show_frontmatter: true
 ---
-# QA Engineer
+
 WE ARE LOOKING FOR A QA ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use
 
 ## About Us
