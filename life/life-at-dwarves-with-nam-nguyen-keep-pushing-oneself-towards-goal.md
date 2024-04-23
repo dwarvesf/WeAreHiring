@@ -10,7 +10,7 @@ authors:
 - innno_
 - duy
 menu: careers
-type: null
+type: careers
 hide_frontmatter: false
 ---
 
@@ -35,7 +35,7 @@ By that time, I was still one of the team's youngest members. So part of the mot
 
 ![](assets/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal_d6b7f9003146b59e78897e98860ae7fb_md5.webp)
 
-### The 200% motto
+### The 200% motto.
 "My trait of having an eye for details sometimes leads to slower productivity. Thus, I'm still today-year-old thriving to optimize it. While I was still working on Aharooms, staying up working until 1 or 2 AM was an everyday scheme. It bugs me to go to bed knowing I haven't finished the work. It's a principle to work with all I can, despite the role I'm playing as. Looking back at my 2017 version, I've always been amazed by what has been learned and changed.
 
 Last July rounded up my 5th year as a Dwarves. It was one hell of a roller coaster ride. I play by a motto where I'm down to perform at a 200% effort. I guess that motto layers my success at Open Fabric, a recently-wrapped up project where the teammates and the Project Lead himself endorsed me for being an absolute rock star. It's hard to describe the feeling, but 'proud' would be the right word.

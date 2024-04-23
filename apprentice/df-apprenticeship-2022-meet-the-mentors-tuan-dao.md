@@ -1,9 +1,10 @@
 ---
 tags: 
   - apprenticeship
-  - team
+  - career
+  - hiring
   - internship
-title: Dwarves Apprenticeship 2022 Meet The Mentors Tuan Dao
+title: Dwarves Apprenticeship 2022: Meet The Mentors Tuan Dao
 date: 2022-04-20
 description: null
 authors: 

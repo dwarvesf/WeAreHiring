@@ -4,10 +4,11 @@ tags:
   - operations
   - hiring
 title: What We Value
-date: 
+date: 2023-12-15
 description: Before anything else, values come first. The value is important to us. They are what we proud of. They help guide us when we are facing a difficult decision. 
 authors: 
-menu: hiring
+- han
+menu: memo
 type: hiring
 show_frontmatter: true
 ---

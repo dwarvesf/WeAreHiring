@@ -5,10 +5,11 @@ tags:
   - communications
 title: Community Executive
 date: 2023-03-21
-description:
-authors:
-menu: careers
-type:
+description: As a community executive at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
+authors: 
+- nikki
+menu: memo
+type: hiring
 hide_frontmatter: false
 hiring: false
 ---
@@ -33,15 +34,19 @@ hiring: false
 
 ### Our interview process
 1. **Review & Reference check** 
+
 After we receive applications, we will perform our screening process and double-check on the reference.
 
 2. **Skills assessment test**
+
 Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
 
 3. **Team interview**
+
 Successful candidates will have a direct talk with our Ops members and/or relevant team members.
 
 4. **Offer**
+
 The best candidate will receive an offer from us right away.
 
 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
@@ -58,6 +63,6 @@ Our goal is to provide and empower teammates with what they need to get the job 
 
 > **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
-**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**
-[**Shoot us an email**](mailto:spawn@dwarvesv.com) with your LinkedIn / CV
+**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
+[**Shoot us an email**](mailto:spawn@dwarvesv.com) with your LinkedIn / CV\
 [**Join our Discord**](https://discord.gg/dwarvesv) of +300 other engineers and designers

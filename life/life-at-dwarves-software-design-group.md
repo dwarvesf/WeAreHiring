@@ -9,25 +9,25 @@ description: At the end of 2021, starting with engineering practices, the core i
 authors: 
 - innno_
 menu: careers
-type: null
+type: careers
 hide_frontmatter: false
 ---
 
 ### The idea: A path to better software
 
 >
->*“Everything in software architecture is a trade-off, and the why is more important than how." Neal Ford is a Director and software architect at ThoughtWorks.*
+> *“Everything in software architecture is a trade-off, and the why is more important than how." Neal Ford is a Director and software architect at ThoughtWorks.*
 
 At Dwarves, we believe that growth is our universal language, and we always strive to improve ourselves, individual-wise and team-wise. 
 
 At the end of 2021, starting with engineering practices, the core idea behind creating a software design group is to enable engineers to develop the skills required to become software architects. While there is no predetermined path or set of qualifications, several key abilities can help engineers gain the knowledge and experience to advance as architects. Becoming a strong software architect is more about applying skills in practice than just gaining theoretical knowledge. 
 
-### Welcoming All Team Members: Embracing Diversity and Inclusivity
+### Welcoming All Team Members: Embracing Diversity and Inclusivity.
 Outside of work, we encourage the Dwarves to improve their knowledge and skills. Software Design Group - where people can develop themselves and as a team, where the team discusses and collects the point of view on software systems. 
 
 By thriving on diversity, Dwarves welcomes professionals from various backgrounds, skill sets, and experiences to join us, learn with us, and build with us. We embrace inclusivity promote the exchange of fresh ideas, encourage creativity, and help to foster a sense of belonging among team members. 
 
-### Developing Skills and Professional Knowledge: Continuous Growth and Mastery
+### Developing Skills and Professional Knowledge: Continuous Growth and Mastery.
 After every training session, there was both positive and constructive feedback from the team. The best part was knowing how they were able to advance and hone their skills.
 
 * **Develop a broad technical perspective:** Through the ongoing training, team members were asked to understand how technologies, frameworks, and languages work together at an enterprise level. They should keep up with software trends to see how new tools could benefit their organization.

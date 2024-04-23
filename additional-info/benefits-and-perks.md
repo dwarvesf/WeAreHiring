@@ -4,11 +4,11 @@ tags:
   - hiring
   - team
 title: Benefits And Perks
-date: 
-description: 
+date: 2022-05-15
+description: Since the majority of Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don’t make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.
 authors: 
 - duy
-menu: hiring
+menu: memo
 type: hiring
 show_frontmatter: true
 ---

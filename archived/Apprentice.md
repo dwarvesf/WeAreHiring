@@ -1,14 +1,18 @@
 ---
-tags: null
-title: Apprentice
-date: null
-description: null
-authors: null
-menu: hiring
-type: null
+tags: 
+- hiring
+- career
+- apprentice
+title: Apprentice Program
+date: 2022-03-15
+description: Apprenticeship is a six-month earn-and-learn training program; it's a way to learn about being a professional software developer.
+authors:
+- duy
+- nikki
+menu: memo
+type: hiring
 show_frontmatter: true
 ---
-# Apprenticeship Program
 
 ## About the program
 Apprenticeship is a six-month **earn-and-learn** training program; it's a way to learn about being a **professional software developer**. Specifically, it is a way to learn to be like the most skilled software developers you can find. It involves seeking out good teachers and taking opportunities to learn by working alongside them.
