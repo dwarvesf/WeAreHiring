@@ -2,6 +2,7 @@
 tags:
   - hiring
   - culture
+  - career
 title: The Manifesto
 date: 2023-12-15
 description: Quality exists in every piece of work. We thrive to deliver the best because we can.
@@ -9,7 +10,7 @@ authors:
   - nikki
   - duy
   - han
-menu: 
+menu: memo
 type: hiring
 hide_frontmatter: false
 ---

@@ -28,9 +28,11 @@ Since 2015, we have helped companies ship top-notch software, build tech teams, 
 
 The role involves collaborating with cross-functional teams to create documentation that supports our products and services, including product / technical deep dives, technical guides, API documentation, and more.
 
-- [[Life at Dwarves]]
-- [[Culture Handbook]]
-- [[The Manifesto]]
+[Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
+
+[The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+
+[Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ### What you need to have
 
@@ -45,7 +47,6 @@ The role involves collaborating with cross-functional teams to create documentat
 - Superb written communication skills in both English and Vietnamese
 
 **Nice to have**
-
 - Basic design skills using Figma, Canvas, Sketch
 - Basic understanding of Git, Github
 - Basic video editing skills
@@ -75,6 +76,8 @@ Our goal is to provide and empower teammates with what they need to get the job 
 - ESOP: You can buy a certain amount of company shares at a predetermined price. It's a part of our compensation packages
 
 ### Our interview process
+---
+
 1. **Review & Reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
 2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
 3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
@@ -86,5 +89,5 @@ Our goal is to provide and empower teammates with what they need to get the job 
 Share via Email Facebook LinkedIn Twitter
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
-[Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV\
+[Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers
