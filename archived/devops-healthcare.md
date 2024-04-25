@@ -9,7 +9,7 @@ description: As an engineer at Dwarves, you will be working closely with a team 
 authors:
 - nikki
 - van
-menu: careers
+menu: memo
 type: hiring
 hide_frontmatter: false
 hiring: false

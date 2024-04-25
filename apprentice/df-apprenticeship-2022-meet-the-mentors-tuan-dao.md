@@ -6,11 +6,11 @@ tags:
   - internship
 title: Dwarves Apprenticeship 2022: Meet The Mentors Tuan Dao
 date: 2022-04-20
-description: null
+description: Tuan has 4+ years of experience under his belt, 2 out of those 4+ was spent at Dwarves Foundation. Tuan’s years of experience don’t quite do him justice though, for he’s skilled and knowledge beyond the year, and has took part in projects of various sizes and domains.
 authors: 
 - duy
 menu: careers
-type: null
+type: careers
 hide_frontmatter: false
 ---
 
