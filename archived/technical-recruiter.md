@@ -8,9 +8,6 @@ description: The ideal candidate will play a pivotal role in sourcing, attractin
 authors:
   - nikki
   - vitran
-menu: careers
-type: hiring
-hide_frontmatter: false
 hiring: false
 ---
 

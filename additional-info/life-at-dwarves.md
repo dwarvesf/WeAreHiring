@@ -10,9 +10,6 @@ description: We build this company like we build a product. There are roadmaps f
 authors:
   - duy
   - nikki
-menu: memo
-type: hiring
-hide_frontmatter: false
 ---
 
 > We're like-minded teammates who pursue ambitious goals with tech culture and codes of conduct.

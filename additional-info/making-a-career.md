@@ -9,8 +9,6 @@ date: 2023-12-15
 description: Advancing your career at Dwarves Foundation doesn’t mean giving up on your craft and moving into “management.” Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. 
 authors: 
 - han
-menu: memo
-type: hiring
 show_frontmatter: true
 ---
 

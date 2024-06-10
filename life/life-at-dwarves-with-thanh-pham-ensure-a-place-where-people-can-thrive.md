@@ -8,9 +8,6 @@ date: 2022-02-14
 description: Been with us for nearly 5 years, Thanh has been taking care of the juniors and ensuring their progress goes alongside the company’s direction. He is also the co-host of Dwarves Radio Talk - our weekly tech training every Monday.
 authors: 
 - duy
-menu: careers
-type: careers
-hide_frontmatter: false
 ---
 
 Been with us for nearly 5 years, Thanh has been taking care of the juniors and ensuring their progress goes alongside the company’s direction. He is also the co-host of Dwarves Radio Talk - our weekly tech training every Monday.

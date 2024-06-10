@@ -9,9 +9,6 @@ description: Keep learning and growing. We started this team out of software pra
 authors:
   - nikki
   - duy
-menu: memo
-type: hiring
-hide_frontmatter: false
 ---
 
 ## Towards growth

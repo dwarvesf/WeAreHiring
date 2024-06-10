@@ -9,9 +9,6 @@ description: Life at Dwarves 06 is all about how Hieu Vu picked up Golang as his
 authors: 
 - innno_
 - duy
-menu: careers
-type: careers
-hide_frontmatter: false
 ---
 
 **Life at Dwarves #6** is all about how Hieu Vu picked up Golang as his favorite programming, and how human factor happens to be the key element that ties him with Dwarves.

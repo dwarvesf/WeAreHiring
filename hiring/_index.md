@@ -8,8 +8,6 @@ date: 2023-12-05
 description: We want people who are passionate about software, talented at what they do, and respect craftsmanship. People who understand precisely what goes into their codes, and have no problem explaining it.We want people who are calm, kind, and responsible. People who take the reign, run the show instead of waiting to be told what to do.
 authors: 
 - nikki
-menu: 
-type: hiring
 hide_frontmatter: true
 ---
 

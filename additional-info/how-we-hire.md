@@ -9,8 +9,6 @@ description: Hiring means we need help. We only hire people who tell us what to 
 authors: 
 - han
 - nikki
-menu: memo
-type: hiring
 show_frontmatter: true
 ---
 

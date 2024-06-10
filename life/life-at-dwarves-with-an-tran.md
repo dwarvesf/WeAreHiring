@@ -8,9 +8,6 @@ date: 2022-08-09
 description: Life at Dwarves 01 is a rather secretive member with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 authors: 
 - innno_
-menu: careers
-type: careers
-hide_frontmatter: false
 ---
 
 > “I believe that on the journey to becoming a Senior Software Engineer, the more you challenge yourself, the more interesting things become.”

@@ -10,9 +10,6 @@ date: 2024-02-28
 description: The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills. This role will involve developing and implementing marketing strategies, creating compelling content, managing social media presence, and maintaining effective communication with both internal and external stakeholders.
 authors:
   - nikki
-menu: careers
-type: hiring
-hide_frontmatter: false
 hiring: true
 featured: true
 ---

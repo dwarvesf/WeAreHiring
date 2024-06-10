@@ -8,8 +8,6 @@ date: 2023-12-11
 description: We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.
 authors:
   - nikki
-menu: memo
-type: hiring
 hide_frontmatter: true
 hiring: false
 ---

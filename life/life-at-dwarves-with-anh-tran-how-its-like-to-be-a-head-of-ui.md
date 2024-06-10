@@ -8,9 +8,6 @@ date: 2022-02-25
 description: Anh, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.
 authors: 
 - duy
-menu: careers
-type: careers
-hide_frontmatter: false
 ---
 
 Anh, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.

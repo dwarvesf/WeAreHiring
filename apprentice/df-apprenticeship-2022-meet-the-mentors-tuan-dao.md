@@ -9,9 +9,6 @@ date: 2022-04-20
 description: null
 authors: 
 - duy
-menu: careers
-type: null
-hide_frontmatter: false
 ---
 
 **Tuan Dao - Senior Frontend/ Blockchain Engineer**

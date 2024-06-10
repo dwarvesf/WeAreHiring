@@ -10,9 +10,6 @@ authors:
   - nikki
   - duy
   - han
-menu: memo
-type: hiring
-hide_frontmatter: false
 ---
 
 ## Aim for Quality

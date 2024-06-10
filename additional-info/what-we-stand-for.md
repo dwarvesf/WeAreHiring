@@ -8,8 +8,6 @@ date: 2023-12-15
 description: More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients. 
 authors: 
 - han
-menu: memo
-type: hiring
 show_frontmatter: true
 ---
 

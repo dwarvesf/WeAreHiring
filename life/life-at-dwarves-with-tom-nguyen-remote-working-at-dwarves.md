@@ -8,9 +8,6 @@ date: 2022-03-17
 description: A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
 authors: 
 - duy
-menu: careers
-type: careers
-hide_frontmatter: false
 ---
 
 A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.

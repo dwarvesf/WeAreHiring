@@ -8,8 +8,6 @@ description: At Dwarves, you will be working closely with a team of talented, ki
 authors: 
 - nikki
 - duy
-menu: memo
-type: hiring
 show_frontmatter: true
 ---
 ## Marketing

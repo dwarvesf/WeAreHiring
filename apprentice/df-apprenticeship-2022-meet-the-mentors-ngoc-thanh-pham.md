@@ -9,9 +9,6 @@ date: 2022-04-22
 description: Thanh is one of the vital elements of this team; and we know he’ll be more than happy to have you onboard.
 authors: 
 - duy
-menu: careers
-type: hiring
-hide_frontmatter: false
 ---
 
 Dwarves Team is shifting our focus to blockchain technology. We offer study groups and blockchain-based projects for peeps to grow and catch up with this rising trend. Thanh is one of the vital elements of this team; and we know he’ll be more than happy to have you onboard.

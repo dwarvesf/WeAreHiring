@@ -9,8 +9,6 @@ description: Apprenticeship is a six-month earn-and-learn training program; it's
 authors:
 - duy
 - nikki
-menu: memo
-type: hiring
 show_frontmatter: true
 ---
 

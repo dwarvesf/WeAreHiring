@@ -9,9 +9,6 @@ description: Life at Dwarves 05 is the career story of Nam, the Dwarves's DevOps
 authors: 
 - innno_
 - duy
-menu: careers
-type: careers
-hide_frontmatter: false
 ---
 
 >

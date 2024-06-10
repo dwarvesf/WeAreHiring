@@ -8,9 +8,6 @@ description: We are seeking a highly organized, proactive, and experienced Execu
 authors:
   - nikki
   - vitran
-menu: memo
-type: hiring
-hide_frontmatter: false
 hiring: false
 ---
 

@@ -11,9 +11,6 @@ description: The ideal candidate will have a passion for technology, a strong un
 authors:
   - nikki
   - innno_
-menu: careers
-type: hiring
-hide_frontmatter: false
 hiring: true
 featured: true
 ---

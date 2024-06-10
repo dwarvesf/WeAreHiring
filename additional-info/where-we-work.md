@@ -8,8 +8,6 @@ date: 2023-12-15
 description: "A few people at Dwarves Foundation are based in other countries and they work from home most of the time. Getting the basics right will make a big difference: a good chair and a good desk."
 authors: 
 - duy
-menu: memo
-type: hiring
 show_frontmatter: true
 ---
 

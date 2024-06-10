@@ -9,9 +9,6 @@ description: "It’s our second attempt rolling out this program. But the motiva
 authors: 
 - duy
 - nikki
-menu: careers
-type: hiring
-hide_frontmatter: false
 ---
 
 ![](assets/dwarves-foundation-apprenticeship-batch-of-2022_78a3d92a37a80df03892be456361742e_md5.webp)
