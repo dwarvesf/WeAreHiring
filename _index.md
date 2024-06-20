@@ -167,7 +167,7 @@ The program provides real-world experience
 
 Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
 
-![](careers/assets/readme_knowledge-areas.webp)
+![](assets/_index_readme_knowledge-areas.webp)
 
 ### Knowledge exchange activities
 We do a variety of things at Dwarves to uplift our engineers and grow us to the next level.
