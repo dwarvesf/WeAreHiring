@@ -40,7 +40,7 @@ We take learning as the north-star metric. At Dwarves, we value you not only for
 
 |                                                                                                                          |                                                                                                     |                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| ![](Life at Dwarves-20231205141750056.webp\|200)                                                                         | ![](Life at Dwarves-20231205141816806.webp\|200)                                                    | ![](Life at Dwarves-20231205141835285.webp\|200)                           |
+| ![](../hiring/assets/Life at Dwarves-20231205141750056.webp)                                                                         | ![](../hiring/assets/Life at Dwarves-20231205141816806.webp)                                                    | ![](../hiring/assets/Life at Dwarves-20231205141835285.webp)                           |
 | [[life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal\|Nam Nguyen: Keep pushing oneself towards the goal]] | [[from-data-to-backend-an-apprentice-sharing\|My Anh: From Data to Backend, an apprentice sharing]] | [[life-at-dwarves-with-hieu-vu\|Hieu Vu: Python, Java or NodeJS? Golang!]] |
 
 ## Get things done in style
@@ -58,4 +58,4 @@ Driven to turn what we know into impactful products & insights for community sup
 |                                                  |                                                     |                                                  |                                                  |
 | ------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **[Golang Vietnam](https://golang.org.vn/)**     | **[WeBuild Community](https://webuild.community/)** | **[Techie Story](http://techiestory.co/)**       | **[Startup.vn](https://startup.vn/)**            |
-| ![](Life at Dwarves-20231205142616589.webp\|200) | ![](Life at Dwarves-20231205142625014.webp\|200)    | ![](Life at Dwarves-20231205142630563.webp\|200) | ![](Life at Dwarves-20231205142634406.webp\|200) |
+| ![](../hiring/assets/Life at Dwarves-20231205142616589.webp) | ![](../hiring/assets/Life at Dwarves-20231205142625014.webp)    | ![](../hiring/assets/Life at Dwarves-20231205142630563.webp) | ![](../hiring/assets/Life at Dwarves-20231205142634406.webp) |

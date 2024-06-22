@@ -40,7 +40,7 @@ Your primary responsibility is to **Ensure the quality of the products**
 * Verify our product development process
 * Study new technique and methods in testing domain, apply and promote them
 
-![](/images/process.png)
+![](assets/process.png)
 
 ## Benefits & Perks
 ### Healthcare
@@ -63,7 +63,7 @@ Dwarves Foundation offers two weeks of paid vacation, a few extra personal days 
 
 And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
-![](/images/team.png)
+![](assets/team.png)
 
 ## How to be a dwarf?
 You can [**apply here**](https://dwarves.careers/jobs/quality-assurance-engineer--dwarves-foundation--saigon) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
