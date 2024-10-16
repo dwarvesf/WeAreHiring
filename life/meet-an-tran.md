@@ -1,9 +1,9 @@
 ---
 tags: 
-- life
+- lifeatdwarves
 - career
 - senior
-title: Life At Dwarves With An Tran
+title: "Meet An Tran: Senior engineer's growth journey"
 date: 2022-08-09
 description: Life at Dwarves 01 is a rather secretive member with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 authors: 
@@ -12,11 +12,11 @@ authors:
 
 > “I believe that on the journey to becoming a Senior Software Engineer, the more you challenge yourself, the more interesting things become.”
 
-**Life at Dwarves #01** is a rather secretive member with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
+**Life at Dwarves #01** is a rather secretive member with a healthy life and gentle personality. [@antran](https://github.com/tienan92it), Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 
-Before joining Dwarves, An held the position of Tech Lead at a start-up and remote Frontend Lead for a company in the US. After giving himself 3 months of rest, An joined Dwarves' Gravity project, becoming a full-time engineer and lead builder of the project.
+Before joining Dwarves, [@antran](https://github.com/tienan92it) held the position of Tech Lead at a start-up and remote Frontend Lead for a company in the US. After giving himself 3 months of rest, An joined Dwarves' Gravity project, becoming a full-time engineer and lead builder of the project.
 
-To An, things would become quite boring if they were only focused on Frontend. If you get too familiar with one fixed thing and don't expand into many other aspects, work will no longer be interesting. He has worked in many roles, from Android to Web, from Backend to Frontend. So the title Full-stack Engineer is somehow still true for this Senior. 
+To [@antran](https://github.com/tienan92it), things would become quite boring if they were only focused on Frontend. If you get too familiar with one fixed thing and don't expand into many other aspects, work will no longer be interesting. He has worked in many roles, from Android to Web, from Backend to Frontend. So the title Full-stack Engineer is somehow still true for this Senior. 
 
 ![](assets/life-at-dwarves-with-an-tran_the-more-you-challenge-yourself-the-more-exciting-it-gets-an-tran_life-at-dwarves-with-an-tran-the-more-you-challenge-yourself-the-more-exciting-it-gets_9e2ac4cd6681cdf0a45399021f20a4cd_md5.webp)
 

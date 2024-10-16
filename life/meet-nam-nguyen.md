@@ -1,9 +1,9 @@
 ---
 tags: 
 - lifeatdwarves
-- software
+- career
 - fullstack
-title: Life At Dwarves With Nam Nguyen
+title: "Meet Nam Nguyen: From Frontend to DevOps - A journey of continuous growth"
 date: 2022-08-16
 description: Life at Dwarves 05 is the career story of Nam, the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit.
 authors: 
@@ -14,7 +14,7 @@ authors:
 >
 > "The process of transformation and progress will never be easy, but you need it for a better version".
 
-**Life at Dwarves #5** is the career story of Nam, the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit. Listening to his sharing, we hope you might feel like we do, that Nam has always been and will be the key player who would strive to deliver his best.
+**Life at Dwarves #5** is the career story of [@nam](https://github.com/namnhce), the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit. Listening to his sharing, we hope you might feel like we do, that Nam has always been and will be the key player who would strive to deliver his best.
 
 ### Joining Dwarves? A roller coaster ride.
 "2017 marked my first milestone with Dwarves. One of my friends asked me if I wanted to be part of a team that worked on cool projects and surrounded by like-minded peeps. I said yes, without a second thought. Looking back now, it must have been fate. Because my 2017 version was still figuring out how to finish the university degree. Joining any firm as a full-time job can't be the right move.
