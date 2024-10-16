@@ -5,6 +5,7 @@ tags:
   - career
   - hiring
 title: "Dwarves Apprenticeship 2022: Meet The Mentors Ngoc Thanh Pham"
+short_title: Meet Ngoc Thanh Pham
 date: 2022-04-22
 description: Thanh is one of the vital elements of this team; and we know he’ll be more than happy to have you onboard.
 authors: 
