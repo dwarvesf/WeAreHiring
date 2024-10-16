@@ -4,6 +4,7 @@ tags:
 - software
 - career
 title: "Meet Hieu Vu: Golang passion and Dwarves community"
+short_title: Hieu Vu
 date: 2022-08-24
 description: Life at Dwarves 06 is all about how Hieu Vu picked up Golang as his favorite programming, and how human factor happens to be the key element that ties him with Dwarves.
 authors: 

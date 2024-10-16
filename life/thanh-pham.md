@@ -4,6 +4,7 @@ tags:
 - software
 - career
 title: "Meet Thanh Pham: Ensuring a healthy environment for everyone to thrive"
+short_title: Thanh Pham
 date: 2022-02-14
 description: Been with us for nearly 5 years, Thanh has been taking care of the juniors and ensuring their progress goes alongside the company’s direction. He is also the co-host of Dwarves Radio Talk - our weekly tech training every Monday.
 authors: 

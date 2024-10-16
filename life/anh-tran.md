@@ -4,6 +4,7 @@ tags:
 - designer
 - career
 title: "Meet Anh Tran: Crafting Dwarves' visual identity as Head of UI"
+short_title: Anh Tran
 date: 2022-02-25
 description: Anh, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.
 authors: 

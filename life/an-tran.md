@@ -4,6 +4,7 @@ tags:
 - career
 - senior
 title: "Meet An Tran: Senior engineer's growth journey"
+short_title: An Tran
 date: 2022-08-09
 description: Life at Dwarves 01 is a rather secretive member with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 authors: 

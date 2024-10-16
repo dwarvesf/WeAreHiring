@@ -4,6 +4,7 @@ tags:
 - hybrid-working
 - career
 title: "Meet Dat Nguyen: AI Dev Intern on hybrid working at Dwarves"
+short_title: Dat Nguyen
 date: 2024-10-03
 description: Dat Nguyen’s journey as an AI/LLM intern at Dwarves, where hybrid working and hands-on learning create real growth. Discover how mentorship and real-time collaboration shape his experience.
 authors: 

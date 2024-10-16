@@ -4,6 +4,7 @@ tags:
 - career
 - fullstack
 title: "Meet Nam Nguyen: From Frontend to DevOps - A journey of continuous growth"
+short_title: Nam Nguyen
 date: 2022-08-16
 description: Life at Dwarves 05 is the career story of Nam, the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit.
 authors: 
