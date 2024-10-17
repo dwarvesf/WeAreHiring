@@ -3,12 +3,13 @@ tags:
   - career
   - hiring
   - apprenticeship
-title: Dwarves Foundation Apprenticeship Batch Of 2022
+title: "Dwarves Foundation Apprenticeship: Batch Of 2022"
+short_title: Batch of 2022
 date: 2022-09-23
 description: "It’s our second attempt rolling out this program. But the motivation stays the same: Accelerating someone’s current software development skillset."
 authors: 
 - duy
-- nikki
+- nikkingtr
 ---
 
 ![](assets/dwarves-foundation-apprenticeship-batch-of-2022_78a3d92a37a80df03892be456361742e_md5.webp)
