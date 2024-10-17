@@ -1,6 +1,6 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - software
 - career
 title: "Meet Thanh Pham: Ensuring a healthy environment for everyone to thrive"
@@ -11,7 +11,7 @@ authors:
 - duy
 ---
 
-Been with us for nearly 5 years, [@thanh](https://github.com/zlatanpham) has been taking care of the juniors and ensuring their progress goes alongside the company’s direction. He is also the co-host of Dwarves Radio Talk - our weekly tech training every Monday.
+Been with us for nearly 5 years, [@thanh](https://memo.d.foundation/contributor/thanh) has been taking care of the juniors and ensuring their progress goes alongside the company’s direction. He is also the co-host of Dwarves Radio Talk - our weekly tech training every Monday.
 
 >
 > "My job is to ensure a healthy environment for everyone to thrive. Young member needs guidance and advice to orient their path, while seniors need goals to pursue.

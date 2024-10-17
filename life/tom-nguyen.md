@@ -1,6 +1,6 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - software
 - career
 title: "Meet Tom Nguyen: Remote working fits him perfectly"

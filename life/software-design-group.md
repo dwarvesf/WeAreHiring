@@ -1,6 +1,6 @@
 ---
 tags:
-- lifeatdwarves
+- life-at-dwarves
 - software
 - career
 title: "Software design group: Nurturing architects at Dwarves"

@@ -1,6 +1,6 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - hybrid-working
 - career
 title: "Meet Dat Nguyen: AI Dev Intern on hybrid working at Dwarves"
@@ -11,7 +11,7 @@ authors:
 - innno_
 ---
 
-**Life at Dwarves #27** shares the journey of [@datnguyennnx](https://github.com/datnguyennnx), an AI/LLM intern. Starting out remotely, Dat soon saw the benefits of Dwarves’ hybrid working model. With guidance from [@tom](https://memo.d.foundation/contributor/tom) and others, he’s been able to dive into real-world learning, picking up skills on the go. Dat’s journey is all about practical experience, quick exchanges, and real teamwork - exactly how we like to do things here.
+**Life at Dwarves #27** shares the journey of [@datnguyennnx](https://memo.d.foundation/contributor/datnguyennnx/), an AI/LLM intern. Starting out remotely, Dat soon saw the benefits of Dwarves’ hybrid working model. With guidance from [@tom](https://memo.d.foundation/contributor/tom) and others, he’s been able to dive into real-world learning, picking up skills on the go. Dat’s journey is all about practical experience, quick exchanges, and real teamwork - exactly how we like to do things here.
 
 ### Learning by doing at Dwarves
 Starting at Dwarves remotely, I dove into LLM/AI. Remote work gave me focus, but being in the office changed everything. Learning here doesn’t happen through formal meetings - it’s quick, spontaneous exchanges with everyone, from CEO to teammates.

@@ -1,6 +1,6 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - career
 - fullstack
 title: "Meet Nam Nguyen: From Frontend to DevOps - A journey of continuous growth"

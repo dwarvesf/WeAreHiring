@@ -1,6 +1,6 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - software
 - career
 title: "Meet Hieu Vu: Golang passion and Dwarves community"
