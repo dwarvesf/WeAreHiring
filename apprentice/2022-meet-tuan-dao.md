@@ -5,7 +5,7 @@ tags:
   - hiring
   - internship
 title: "Dwarves Apprenticeship 2022: Meet The Mentors Tuan Dao"
-short_title: Meet Tuan Dao
+short_title: "Meet the Mentors: Tuan Dao"
 date: 2022-04-20
 description: "Meet Tuan Dao, a Senior Frontend/Blockchain Engineer at Dwarves Foundation with 4+ years of experience. Learn about his work philosophy, technical expertise in React, and his approach to mentoring in the Dwarves Apprenticeship 2022 program."
 authors: 
