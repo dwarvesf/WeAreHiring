@@ -1,9 +1,10 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - software
 - career
-title: Life At Dwarves With Hieu Vu
+title: "Meet Hieu Vu: Golang passion and Dwarves community"
+short_title: Hieu Vu
 date: 2022-08-24
 description: Life at Dwarves 06 is all about how Hieu Vu picked up Golang as his favorite programming, and how human factor happens to be the key element that ties him with Dwarves.
 authors: 
@@ -11,9 +12,9 @@ authors:
 - duy
 ---
 
-**Life at Dwarves #6** is all about how Hieu Vu picked up Golang as his favorite programming, and how human factor happens to be the key element that ties him with Dwarves.
+**Life at Dwarves #6** is all about how Hieu Vu ([@vdhieu](https://github.com/vdhieu)) picked up Golang as his favorite programming, and how human factor happens to be the key element that ties him with Dwarves.
 
-Hieu Vu is currently a Backend Engineer, who was formerly an intern at KMS Technology Corporation. Through Aharooms project, his interest for Golang began. After 3 years, it’s not just the programming language that he was fond of, but also the human and culture at Dwarves that led to his decision: To go further with Dwarves for its human and the exclusive learning culture.
+[@vdhieu](https://github.com/vdhieu) is currently a Backend Engineer, who was formerly an intern at KMS Technology Corporation. Through Aharooms project, his interest for Golang began. After 3 years, it’s not just the programming language that he was fond of, but also the human and culture at Dwarves that led to his decision: To go further with Dwarves for its human and the exclusive learning culture.
 
 ### Python, Java or NodeJS? Golang!
 “Back in 2017, Japanese companies were highly rated. People strived to go for it. Of course, I wasn't an exception. I tried my luck by applying for a Japanese tech firm. They required an entrance test using the Golang language, which I had no idea about. They gave us a 1-week deadline to learn and complete the exercise. I failed, obviously. But I had no regret. That test, by all means, sparked my lucky charm with Golang.

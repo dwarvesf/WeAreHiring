@@ -1,16 +1,17 @@
 ---
 tags: 
-- lifeatdwarves
+- life-at-dwarves
 - software
 - career
-title: Life At Dwarves With Tom Nguyen 
+title: "Meet Tom Nguyen: Remote working fits him perfectly"
+short_title: Tom Nguyen
 date: 2022-03-17
 description: A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
 authors: 
 - duy
 ---
 
-A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
+A catch-up with [@tom](https://memo.d.foundation/contributor/tom) - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
 
 >
 > "The office creates a good vibe for work, but it also blocks us from having real work. Working from home allows you to have time for yourself and still get things done."

@@ -1,9 +1,10 @@
 ---
 tags: 
-- life
+- life-at-dwarves
 - career
 - senior
-title: Life At Dwarves With An Tran
+title: "Meet An Tran: Senior engineer's growth journey"
+short_title: An Tran
 date: 2022-08-09
 description: Life at Dwarves 01 is a rather secretive member with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 authors: 
@@ -12,9 +13,9 @@ authors:
 
 > “I believe that on the journey to becoming a Senior Software Engineer, the more you challenge yourself, the more interesting things become.”
 
-**Life at Dwarves #01** is a rather secretive member with a healthy life and gentle personality. An Tran, Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
+**Life at Dwarves #01** is a rather secretive member with a healthy life and gentle personality. [@antran](https://memo.d.foundation/contributor/antran), Senior Software Engineer with 7 years of experience working from start-ups to Project Lead at Dwarves Foundation. 
 
-Before joining Dwarves, An held the position of Tech Lead at a start-up and remote Frontend Lead for a company in the US. After giving himself 3 months of rest, An joined Dwarves' Gravity project, becoming a full-time engineer and lead builder of the project.
+Before joining Dwarves, [@antran](https://memo.d.foundation/contributor/antran) held the position of Tech Lead at a start-up and remote Frontend Lead for a company in the US. After giving himself 3 months of rest, An joined Dwarves' Gravity project, becoming a full-time engineer and lead builder of the project.
 
 To An, things would become quite boring if they were only focused on Frontend. If you get too familiar with one fixed thing and don't expand into many other aspects, work will no longer be interesting. He has worked in many roles, from Android to Web, from Backend to Frontend. So the title Full-stack Engineer is somehow still true for this Senior. 
 
