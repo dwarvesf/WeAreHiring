@@ -11,7 +11,7 @@ authors:
 - duy
 ---
 
-[@anna], in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.
+@anna, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.
 
 >
 > "I work for the graphic side, mainly on UI, app appearance, and app research to gain more insight for the team."
