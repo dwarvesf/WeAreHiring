@@ -25,11 +25,25 @@ Since 2015, we have helped companies ship top-notch software, build tech teams, 
 
 The role involves collaborating with cross-functional teams to create documentation that supports our products and services, including product / technical deep dives, technical guides, API documentation, and more.
 
-[Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
+<table>
+<tr>
+<td width="33%">
 
-[The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+### [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
 
-[Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+</td>
+<td width="33%">
+
+### [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+
+</td>
+<td width="33%">
+
+### [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+
+</td>
+</tr>
+</table>
 
 ### What you need to have
 
