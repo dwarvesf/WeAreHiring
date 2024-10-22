@@ -18,7 +18,6 @@ featured: true
 > **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 ## Dwarves is a research-focused technology firm
-
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
 
 Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
@@ -45,7 +44,7 @@ By October, we have already achieved our goals set for 2021. Moving to the next 
 </tr>
 </table>
 
-# Products we recently take part in
+## Products we recently take part in
 
 <table>
 <tr>
@@ -70,7 +69,7 @@ Government owned utility distribution enterprise in Singapore, with footprint in
 </tr>
 </table>
 
-# Our advances into web 3.0
+## Our advances into web 3.0
 
 <table>
 <tr>
@@ -120,7 +119,6 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 ---
 
 ### What you can look forward to
-
 - You will be working closely with a team of talented, kind people. Your team will have your back. We love helping and uplifting our co-workers.
 - You will be directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.
 - You will be working on projects that are impactful and meaningful. We're picky with what we choose to take part in.
