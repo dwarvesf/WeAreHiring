@@ -30,11 +30,25 @@ Technology is our north star metrics, engineering is our culture. We are a profi
 
 On our way moving to the next goals, we're looking for talented members to join in and help us to grow more sustainably in the coming years.
 
-[Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
+<table>
+<tr>
+<td width="33%">
 
-[The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+### [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
 
-[Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+</td>
+<td width="33%">
+
+### [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+
+</td>
+<td width="33%">
+
+### [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+
+</td>
+</tr>
+</table>
 
 ### What you'll get to do
 
