@@ -25,75 +25,29 @@ Technology is our north star metrics, engineering is our culture. We are a profi
 
 By October, we have already achieved our goals set for 2021. Moving to the next goals, we're looking for talented engineers to join our team.
 
-<table>
-<tr>
-<td width="15%">
-
-### [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
-
-</td>
-<td width="15%">
-
-### [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
-
-</td>
-<td width="15%">
-
-### [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
-
-</td>
-</tr>
-</table>
+- [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
+- [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+- [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ## Products we recently take part in
-
-<table>
-<tr>
-<td width="20%">
-<img src="../assets/ascenda_logo.jpeg" alt="Ascenda Logo" width="40"/>
-
 ### Ascenda
-Ascenda enables financial services companies to grow revenue with world-class rewards
-</td>
-<td width="20%">
-<img src="../assets/fornaxai_logo.jpg" alt="Fornax AI Logo" width="50"/>
+Ascenda enables financial services companies to grow revenue with world-class rewards.
 
 ### Fornax AI
-Fornax AI helps early-stage startup founders to effectively communicate their ideas to investors
-</td>
-<td width="20%">
-<img src="../assets/SP_Group_logo.jpg" alt="SP Group Logo" width="80"/>
+Fornax AI helps early-stage startup founders to effectively communicate their ideas to investors.
 
 ### SP Group
-Government owned utility distribution enterprise in Singapore, with footprint in most Asian countries and in Australia
-</td>
-</tr>
-</table>
+Government owned utility distribution enterprise in Singapore, with footprint in most Asian countries and in Australia.
 
 ## Our advances into web 3.0
-
-<table>
-<tr>
-<td width="20%">
-<img src="../assets/attrace-logo-new.f5166e49.svg" alt="Attrace Logo" width="80"/>
-
 ### Attrace
-Netherland's referral protocol for crypto assets where anyone can sign up to promote
-</td>
-<td width="20%">
-<img src="../assets/Hedge_Bot_Logo_2024-05-24.webp" alt="Hedge Foundation Logo" width="50"/>
+Netherland's referral protocol for crypto assets where anyone can sign up to promote.
 
 ### Hedge Foundation
-Hedge Foundation - powerful dashboard to support users in managing crypto account positions, balance, PNL
-</td>
-<td width="20%">
-<img src="../assets/tokenomy.jpg" alt="Tokenomy Logo" width="50"/>
+Hedge Foundation - powerful dashboard to support users in managing crypto account positions, balance, PNL.
 
 ### Tokenomy
-Tokenomy - decentralized Community VC backed by the largest crypto exchange in Indonesia, Indodax
-</td>
-</tr>
-</table> 
+Tokenomy - decentralized Community VC backed by the largest crypto exchange in Indonesia, Indodax.
 
 > 🤝 **As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.**
 
