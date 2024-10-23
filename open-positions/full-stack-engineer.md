@@ -50,19 +50,19 @@ By October, we have already achieved our goals set for 2021. Moving to the next 
 <table>
 <tr>
 <td width="20%">
-<img src="assets/ascenda_logo.jpeg" alt="Ascenda Logo" width=40"/>
+<img src="../assets/ascenda_logo.jpeg" alt="Ascenda Logo" width="40"/>
 
 ### Ascenda
 Ascenda enables financial services companies to grow revenue with world-class rewards
 </td>
 <td width="20%">
-<img src="assets/fornaxai_logo.jpg" alt="Fornax AI Logo" width="50"/>
+<img src="../assets/fornaxai_logo.jpg" alt="Fornax AI Logo" width="50"/>
 
 ### Fornax AI
 Fornax AI helps early-stage startup founders to effectively communicate their ideas to investors
 </td>
 <td width="20%">
-<img src="assets/SP_Group_logo.jpg" alt="SP Group Logo" width="80"/>
+<img src="../assets/SP_Group_logo.jpg" alt="SP Group Logo" width="80"/>
 
 ### SP Group
 Government owned utility distribution enterprise in Singapore, with footprint in most Asian countries and in Australia
@@ -75,19 +75,19 @@ Government owned utility distribution enterprise in Singapore, with footprint in
 <table>
 <tr>
 <td width="20%">
-<img src="assets/attrace-logo-new.f5166e49.svg" alt="Attrace Logo" width="80"/>
+<img src="../assets/attrace-logo-new.f5166e49.svg" alt="Attrace Logo" width="80"/>
 
 ### Attrace
 Netherland's referral protocol for crypto assets where anyone can sign up to promote
 </td>
 <td width="20%">
-<img src="assets/Hedge_Bot_Logo_2024-05-24.webp" alt="Hedge Foundation Logo" width="50"/>
+<img src="../assets/Hedge_Bot_Logo_2024-05-24.webp" alt="Hedge Foundation Logo" width="50"/>
 
 ### Hedge Foundation
 Hedge Foundation - powerful dashboard to support users in managing crypto account positions, balance, PNL
 </td>
 <td width="20%">
-<img src="assets/tokenomy.jpg" alt="Tokenomy Logo" width="50"/>
+<img src="../assets/tokenomy.jpg" alt="Tokenomy Logo" width="50"/>
 
 ### Tokenomy
 Tokenomy - decentralized Community VC backed by the largest crypto exchange in Indonesia, Indodax
