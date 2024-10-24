@@ -16,7 +16,7 @@ featured: true
 ## We are looking for a full-time contractor to take part in a fast growing web 3 project. 
 This role offers flexibility, remote, independent work opportunities.
 
-> **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
 ## Dwarves is a research-focused technology firm
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
@@ -81,8 +81,8 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 
 ---
 
-> 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> 🤘 **<a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
-[Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
+<a href="mailto:spawn@d.foundation">Shoot us an email</a> with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers
