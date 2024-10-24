@@ -16,7 +16,7 @@ featured: true
 ## We are looking for a full-time contractor to take part in a fast growing web 3 project. 
 This role offers flexibility, remote, independent work opportunities.
 
-> **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
 ## Dwarves is a research-focused technology firm
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
@@ -30,23 +30,23 @@ By October, we have already achieved our goals set for 2021. Moving to the next 
 - [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ## Products we recently take part in
-### Ascenda
+### [Ascenda](https://www.ascenda.com/)
 Ascenda enables financial services companies to grow revenue with world-class rewards.
 
-### Fornax AI
+### [Fornax AI](https://fornax.ai/)
 Fornax AI helps early-stage startup founders to effectively communicate their ideas to investors.
 
-### SP Group
+### [SP Group](https://www.spgroup.com.sg/)
 Government owned utility distribution enterprise in Singapore, with footprint in most Asian countries and in Australia.
 
 ## Our advances into web 3.0
-### Attrace
+### [Attrace](https://attrace.com/)
 Netherland's referral protocol for crypto assets where anyone can sign up to promote.
 
-### Hedge Foundation
+### [Hedge Foundation](https://www.hedgefoundation.org/)
 Hedge Foundation - powerful dashboard to support users in managing crypto account positions, balance, PNL.
 
-### Tokenomy
+### [Tokenomy](https://tokenomy.com/)
 Tokenomy - decentralized Community VC backed by the largest crypto exchange in Indonesia, Indodax.
 
 > 🤝 **As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.**
@@ -70,6 +70,8 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 - Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
 - Experience in writing good unit test
 - Good written and verbal English communication, team player with a collaborative work ethics
+- Strong interest in emerging technologies, particularly **AI/LLM** and **fintech**
+- Demonstrated ability to leverage AI tools to enhance development workflow and productivity
 
 ---
 
@@ -81,8 +83,8 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 
 ---
 
-> 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> 🤘 **<a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
-[Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
+<a href="mailto:spawn@d.foundation">Shoot us an email</a> with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers
