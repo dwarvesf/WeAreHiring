@@ -3,24 +3,27 @@ tags:
   - hiring
   - career
   - marketing
+  - communications
+  - specialist
 title: Marketing and Communications Specialist
-date: 2024-10-31
-description: The ideal candidate will have excellent communication skills,  a strong understanding of the software development industry, and a never-ending passion for technology.
+date: 2024-02-28
+description: The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills. This role will involve developing and implementing marketing strategies, creating compelling content, managing social media presence, and maintaining effective communication with both internal and external stakeholders.
 authors:
-  - innno_
   - nikki
-hiring: true
-featured: true
+hiring: false
+featured: false
 ---
 
 ## We're looking for Marketing & Communications Specialists to join Dwarves and work remotely.
-The ideal candidate will have excellent communication skills,  a strong understanding of the software development industry, and a never-ending passion for technology.
+
+The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills.
 
 This role will involve developing and implementing marketing strategies, creating compelling content, managing social media presence, and maintaining effective communication with both internal and external stakeholders.
 
-> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
+> **🤘 [Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 ## Dwarves is research-focused technology firm
+
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
 
 Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
@@ -32,38 +35,36 @@ On our way moving to the next goals, we're looking for talented members to join 
 - [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ### What you'll get to do
+
 ---
 
-- Collaborate with cross-functional teams to develop and execute marketing and communication strategies.
-- Create and maintain technical content that resonates with the developer communities, focusing on **AI, fintech, and LLM** across channels (LinkedIn, Twitter, Discord, etc.)
-- Build and grow an engaged tech community through meaningful discussions, authentic interactions, and valuable content.
-- Plan and execute events (webinars, workshops, conferences) that provide great value to the tech community.
-- Develop and nurture relationships with industry influencers, tech leaders, and partners.
-- Coordinate with the Operation team to execute campaigns promoting business initiatives and raise brand awareness.
-- Create press releases, articles, and other communication materials to showcase company achievements and technical expertise.
-- Coordinate participation in industry-specific events to maximize brand exposure and connect with technical audiences.
+- Collaborate with cross-functional teams to develop and execute comprehensive marketing and communication strategies.
+- Coordinate with the Operation team to plan and execute campaigns to promote business-centric programs, hiring programs and raise brand awareness.
+- Produce strategy & tactics content. Analyze and optimize our social exposure across Dwarves Foundation channels, including Facebook, LinkedIn, Twitter, Discord, IG, .. etc.
+- Draft press releases, articles, and other communication materials to share company achievements and updates.
+- Develop and nurture relationships with industry influencers, media outlets, and potential partners.
+- Plan and execute marketing events, webinars, and conferences to showcase our products and connect with the target audience.
+- Coordinate participation in industry-specific events to maximize brand exposure.
 - Set up and monitor online projects with proper tracking & reporting.
 
 ### What it takes to succeed
+
 ---
 
-- Strong background and genuine passion for **software development, technology markets, and industry trends.**
-- Demonstrated ability to align with our core focus areas: **AI, fintech, and LLM technologies.**
-- Experience in leveraging modern tools and AI solutions to optimize marketing workflows and enhance productivity.
-- Extensive involvement with tech communities and forums.
+- Can-do attitude & problem-solving mindset. You’ll be responsible for your work and proactively propose solutions to a problem.
 - 1 or 2+ years of applied marketing experience with a strong digital marketing focus, including strategy and execution.
-- Can-do attitude & problem-solving mindset. You'll be responsible for your work and proactively propose solutions to a problem.
+- Can-do attitude & problem-solving mindset. You’ll be responsible for your work and proactively propose solutions to a problem.
 - Proficiency in digital marketing tools and social media platforms.
 - Possess essential knowledge and practical skills in Digital Marketing such as Marketing Analytics, Social Media Marketing, and Email Marketing. Familiar with ads tools/ platforms such as Facebook Ads, LinkedIn Ads, and Google Ads.
 - Excellent organizational and project management skills.
 
-### Nice to have
+Nice to have
+
 - Experience working with IT companies.
-- Experience with AI tools to optimize workflows.
-- Basic knowledge of Notion, and any design tools (Figma/Photoshop).
-- A long time Discord user.
+- Basic knowledge of Figma/ Photoshop or any design tools.
 
 ### Benefits
+
 ---
 
 Our goal is to provide and empower teammates with what they need to get the job done.
@@ -84,10 +85,10 @@ Our goal is to provide and empower teammates with what they need to get the job 
 3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
 4. **Offer**<br>The best candidate will receive an offer from us right away.
 
-> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
+> 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 **Or know someone who would be a great fit? Let them know!**\
-Share via [Email](mailto:spawn@d.foundation), [Facebook](https://www.facebook.com/dwarvesf), [LinkedIn](https://www.linkedin.com/company/dwarvesf/), [Twitter](https://twitter.com/dwarvesf.)
+Share via Email Facebook LinkedIn Twitter
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
 [Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
