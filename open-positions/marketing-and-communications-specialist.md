@@ -59,7 +59,8 @@ On our way moving to the next goals, we're looking for talented members to join 
 
 ### Nice to have
 - Experience working with IT companies.
-- Basic knowledge of Figma/ Photoshop/Notion or any design tools.
+- Experience with AI tools to optimize workflows.
+- Basic knowledge of Notion, and any design tools (Figma/Photoshop).
 - A long time Discord user.
 
 ### Benefits
