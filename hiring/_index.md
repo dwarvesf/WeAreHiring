@@ -16,8 +16,9 @@ When we put Foundation in our name, we mean it. We want to put in place a team o
 Join us. Let's create the next big things together. At Dwarves, you will be working with an experienced, talented team who loves technology and knows how to use technology to better life on a global level.
 
 ## Apply:
-- [[careers/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
-- [[careers/open-positions/technical-writer.md|Technical Writer]]
+- [Marketing & Communications Specialist](https://memo.d.foundation/careers/open-positions/marketing-and-communications-specialist/)
+- [Business Development Executive](https://memo.d.foundation/careers/open-positions/business-development/)
+- [Full-stack Engineer](https://memo.d.foundation/careers/open-positions/full-stack-engineer/)
 
 
 ---
