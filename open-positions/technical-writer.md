@@ -12,7 +12,7 @@ authors:
   - nikki
   - innno_
 hiring: false
-featured: true
+featured: false
 ---
 
 ## We're looking for Technical Writer to join Dwarves and work remotely.

@@ -13,8 +13,8 @@ hiring: true
 featured: true
 ---
 
-## We are looking for a full-time contractor to take part in a fast growing web 3 project. 
-This role offers flexibility, remote, independent work opportunities.
+## We are hiring Full-Stack Engineers
+This role offers flexibility, remote work, and the chance to build meaningful solutions alongside a talented team.
 
 > **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
@@ -64,13 +64,13 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 - 3 years experience with Node JS
 - Proficiency in **Node.js** and **Firebase**
 - Strong understanding of **React**, **Vite**, **TypeScript**, and **Tailwind CSS**
-- Strong interest in emerging technologies, particularly **AI/LLM** and **fintech**
-- Experience in shipping web applications to production, CI/CD with docker centric workflow
-- Demonstrated ability to leverage **AI tools** to enhance development workflow and productivity
+- Strong interest in **AI/LLM** and **fintech**
+- Experience in shipping web applications to production, **CI/CD with docker centric workflow**
+- Ability to leverage **AI tools** to enhance development and productivity
 - Familiar with running large scale web services
 - Understanding of system performance and scaling
 - Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
-- Experience in writing good unit test
+- Experience in writing good unit tests
 - Good written and verbal English communication, team player with a collaborative work ethics
 
 ---
