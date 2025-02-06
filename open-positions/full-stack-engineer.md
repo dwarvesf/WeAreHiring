@@ -5,7 +5,7 @@ tags:
   - full-stack
   - engineer
 title: Full-Stack Engineer
-date: 2024-10-22
+date: 2025-02-05
 description: We are looking for a Full-Stack Engineer who is passionate about building scalable, secure, and efficient web applications. The ideal candidate will have a strong understanding of both frontend and backend technologies, and the ability to work across the entire stack.
 authors:
   - minh
@@ -43,7 +43,7 @@ Government owned utility distribution enterprise in Singapore, with footprint in
 ### [Attrace](https://attrace.com/)
 Netherland's referral protocol for crypto assets where anyone can sign up to promote.
 
-### [Hedge Foundation](https://www.hedgefoundation.org/)
+### [Hedge Foundation](https://www.hedge.foundation/)
 Hedge Foundation - powerful dashboard to support users in managing crypto account positions, balance, PNL.
 
 ### [Tokenomy](https://tokenomy.com/)
@@ -64,14 +64,14 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 - 3 years experience with Node JS
 - Proficiency in **Node.js** and **Firebase**
 - Strong understanding of **React**, **Vite**, **TypeScript**, and **Tailwind CSS**
+- Strong interest in emerging technologies, particularly **AI/LLM** and **fintech**
 - Experience in shipping web applications to production, CI/CD with docker centric workflow
+- Demonstrated ability to leverage **AI tools** to enhance development workflow and productivity
 - Familiar with running large scale web services
 - Understanding of system performance and scaling
 - Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
 - Experience in writing good unit test
 - Good written and verbal English communication, team player with a collaborative work ethics
-- Strong interest in emerging technologies, particularly **AI/LLM** and **fintech**
-- Demonstrated ability to leverage AI tools to enhance development workflow and productivity
 
 ---
 
