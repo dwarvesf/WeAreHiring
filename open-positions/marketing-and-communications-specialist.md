@@ -9,8 +9,8 @@ description: The ideal candidate will have excellent communication skills,  a st
 authors:
   - innno_
   - nikki
-hiring: true
-featured: true
+hiring: false
+featured: false
 ---
 
 ## We're looking for Marketing & Communications Specialists to join Dwarves and work remotely.
