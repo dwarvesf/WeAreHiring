@@ -96,4 +96,4 @@ We want people who are calm, kind, and responsible. People who take the reign, r
 
 ---
 
-![](assets/202403121185__base-20231205140940143.webp)
+![](assets/_base_202403121185__base-20231205140940143.webp)
