@@ -9,8 +9,8 @@ description: The ideal candidate will have a deep understanding of the software 
 authors:
   - innno_
   - nikki
-hiring: true
-featured: true
+hiring: false
+featured: false
 ---
 
 ## We're looking for Business Development talents to join Dwarves and work remotely.
