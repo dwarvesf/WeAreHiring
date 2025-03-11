@@ -10,164 +10,75 @@ description: We build this company like we build a product. There are roadmaps f
 authors:
   - duy
   - nikki
+menu: memo
+type: hiring
+hide_frontmatter: false
 ---
 
 > We're like-minded teammates who pursue ambitious goals with tech culture and codes of conduct.
 
+## Build a place we love to work at
+We build this company like we build a product. There are roadmaps for growth; there are phases; there are iterations. There might also be bugs, places where the company crashes because of bad organizational design, or cultural oversights.
+
+That means we advocate for changes. Changes always start with making our people better.
+
 <div class="fixed-layout-table">
-  <h2>Build a place we love to work at</h2>
-  <p>We build this company like we build a product. There are roadmaps for growth; there are phases; there are iterations. There might also be bugs, places where the company crashes because of bad organizational design, or cultural oversights.</p>
-  <p>That means we advocate for changes. Changes always start with making our people better.</p>
-  
-  <table>
-    <tr>
-      <td>
-        <strong>Education Allowance</strong><br>
-        Annual budget for learning and development goals.
-      </td>
-      <td>
-        <strong>Referral Bonus</strong><br>
-        Sponsorship to recommend peeps that fit the team.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Work Gear Supplies</strong><br>
-        Team fund to back you up for work-related expenses, such as work gears or subscriptions.
-      </td>
-      <td>
-        <strong>Travel Support</strong><br>
-        Annual travel package to Dwarves Hubs across the country.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Learning Sponsorship</strong><br>
-        Monthly pool for internal & external input in the team's knowledge hub.
-      </td>
-      <td>
-        <strong>Healthcare Package</strong><br>
-        Annual Bao Minh Insurance for overall & specialized healthcare check ups.
-      </td>
-    </tr>
-  </table>
-  
-  <blockquote>
-    <p>And other exclusive company support, as in <a href="https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md">Dwarves Benefits & Perks</a>.</p>
-  </blockquote>
-  
-  <h2>Foster a learning culture</h2>
-  <p>We take learning as the north-star metric. At Dwarves, we value you not only for the projects that you do for the company but also for how you strive to grow yourself. Learning at Dwarves takes place in all formats.</p>
-  
-  <table>
-    <tr>
-      <td>
-        <strong>Radio Talks</strong><br>
-        Weekly sharing on practices, new findings & demos.
-      </td>
-      <td>
-        <strong>Dwarves Memo</strong><br>
-        Practice sharing, real-case demos & key takeaways.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Dwarves Brainery</strong><br>
-        All-in-one knowledge source for Dwarves and friends.
-      </td>
-      <td>
-        <strong>Lecturer Training</strong><br>
-        Occasional training from university lecturers to reinforce working style & engineering mindset.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Tech Event</strong><br>
-        Monthly sit with Vietnam tech talents for global real-world experiences.
-      </td>
-      <td>
-        <strong>#TIL Channels</strong><br>
-        Jotted down channels for daily news & tips sharing.
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <table class="three-columns">
-    <tr>
-      <td>
-        <img src="assets/life-at-dwarves-20231205141750056.webp">
-        <a href="#">Nam Nguyen: Keep pushing oneself towards the goal</a>
-      </td>
-      <td>
-        <img src="assets/life-at-dwarves-20231205141816806.webp">
-        <a href="#">My Anh: From Data to Backend, an apprentice sharing</a>
-      </td>
-      <td>
-        <img src="assets/life-at-dwarves-20231205141835285.webp">
-        <a href="#">Hieu Vu: Python, Java or NodeJS? Golang!</a>
-      </td>
-    </tr>
-  </table>
-  
-  <h2>Get things done in style</h2>
-  <p>We proudly ship out challenging products with the support from top-notch technology, latest toolings and frameworks. We apply Agile methodology at scale. The development phase is run in sprints, and V-model testing is applied simultaneously. Our <a href="https://github.com/dwarvesf/playbook">Dwarves Playbook</a> contains teamwork ethics, engineering principles and other protocols we play by.</p>
-  
-  <table class="four-columns">
-    <tr>
-      <td>
-        <strong>Product Design</strong><br>
-        - Design Sprint<br>
-        - AARRR Framework<br>
-        - UX Research<br>
-        - The Design System<br>
-      </td>
-      <td>
-        <strong>Production</strong><br>
-        - Logging<br>
-        - Monitoring<br>
-        - Production Checklist<br>
-        - Handover Checklist<br>
-      </td>
-      <td>
-        <strong>Business</strong><br>
-        - Overall Process<br>
-        - Fixed Budget, Scope Controlled<br>
-        - Collaboration Guideline
-      </td>
-      <td>
-        <strong>Developing</strong><br>
-        - Setup<br>
-        - Practices<br>
-        - Platforms<br>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="assets/life-at-dwarves-20231205142525518.webp">
-  
-  <h2>Community support</h2>
-  <p>Driven to turn what we know into impactful products & insights for community support. Over the past few years, the Dwarves has participated in countless campaigns and become the sponsor of different tech communities.</p>
-  
-  <table class="four-columns">
-    <tr>
-      <td>
-        <strong>Golang Vietnam</strong>
-        <img src="assets/life-at-dwarves-20231205142616589.webp">
-      </td>
-      <td>
-        <strong>WeBuild Community</strong>
-        <img src="assets/life-at-dwarves-20231205142625014.webp">
-      </td>
-      <td>
-        <strong>Techie Story</strong>
-        <img src="assets/life-at-dwarves-20231205142630563.webp">
-      </td>
-      <td>
-        <strong>Startup.vn</strong>
-        <img src="assets/life-at-dwarves-20231205142634406.webp">
-      </td>
-    </tr>
-  </table>
+
+|                                                                                                                                                                                                                    |                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Education Allowance](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#continuing-education-allowance-cea)**<br>Annual budget for learning and development goals.                          | **[Referral Bonus](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-referral-bonus)**<br>Sponsorship to recommend peeps that fit the team.                       |
+| **[Work Gear Supplies](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#work-supplies-expense)**<br>Team fund to back you up for work-related expenses, such as work gears or subscriptions. | **[Travel Support](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#flight-tickets-to-dwarves-hubs)**<br>Annual travel package to Dwarves Hubs across the country.        |
+| **Learning Sponsorship**<br>Monthly pool for internal & external input in the team’s knowledge hub.                                                                                                                | **[Healthcare Package](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#annual-healthcare)**<br>Annual Bao Minh Insurance for overall & specialized healthcare check ups. |
+
+</div>
+
+> And other exclusive company support, as in [Dwarves Benefits & Perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md).
+
+## Foster a learning culture
+We take learning as the north-star metric. At Dwarves, we value you not only for the projects that you do for the company but also for how you strive to grow yourself. Learning at Dwarves takes place in all formats.
+
+<div class="fixed-layout-table">
+
+|                                                                                                                                                                             |                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Radio Talks](https://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)**<br>Weekly sharing on practices, new findings & demos.                                           | [**Dwarves Memo**](https://memo.d.foundation/Data-Analyst-in-Retail-Trading-e92fe7d046a548d782ddec4fac57f61e)<br>Practice sharing, real-case demos & key takeaways. |
+| **[Dwarves Brainery](http://brain.d.foundation/)**<br>All-in-one knowledge source for Dwarves and friends.                                                                  | **Lecturer Training**<br>Occasional training from university lecturers to reinforce working style & engineering mindset.                                            |
+| **[Tech Event](https://open.spotify.com/show/7iHr4TuMBhc2LZhLn0YFoI?si=be4abf7312fe44e1&nd=1)**<br>Monthly sit with Vietnam tech talents for global real-world experiences. | **#TIL Channels**<br>Jotted down channels for daily news & tips sharing.                                                                                            |
+
+</div>
+
+<br>
+
+<div class="fixed-layout-table">
+
+|                                                                                                                          |                                                                                                     |                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ![[Life at Dwarves-20231205141750056.webp\|200]]                                                                         | ![[Life at Dwarves-20231205141816806.webp\|200]]                                                    | ![[Life at Dwarves-20231205141835285.webp\|200]]                           |
+| [[life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal\|Nam Nguyen: Keep pushing oneself towards the goal]] | [[from-data-to-backend-an-apprentice-sharing\|My Anh: From Data to Backend, an apprentice sharing]] | [[life-at-dwarves-with-hieu-vu\|Hieu Vu: Python, Java or NodeJS? Golang!]] |
+
+</div>
+
+## Get things done in style
+We proudly ship out challenging products with the support from top-notch technology, latest toolings and frameworks. We apply Agile methodology at scale. The development phase is run in sprints, and V-model testing is applied simultaneously. Our [Dwarves Playbook](https://github.com/dwarvesf/playbook) contains teamwork ethics, engineering principles and other protocols we play by.
+
+<div class="fixed-layout-table">
+
+|                                                                                                                                                                                                                                            |                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Product Design](https://github.com/dwarvesf/playbook#product-design)**<br>- [[design-sprint\|Design Sprint]]<br>- [[aarrr\|AARRR Framework]]<br>- [[UX\|UX Research]]<br>- [[playbook/design/design-system\|The Design System]]<br><br> | [**Production**](https://github.com/dwarvesf/playbook#production)<br>- [[log\|Logging]]<br>- [[monitoring\|Monitoring]]<br>- [[production\|Production Checklist]]<br>- [[handover\|Handover Checklist]]<br><br> | [**Business**](https://github.com/dwarvesf/playbook#business)<br>- [Overall Process](https://github.com/dwarvesf/playbook/blob/master/business/README.md)<br>- [[fbsc\|Fixed Budget, Scope Controlled]]<br>- [[collaboration-guideline\|Collaboration Guideline]] | [**Developing**](https://github.com/dwarvesf/playbook#developing)<br>- [Setup](https://github.com/dwarvesf/playbook#setup)<br>- [Practices](https://github.com/dwarvesf/playbook#practices)<br>- [Platforms](https://github.com/dwarvesf/playbook#platforms)<br> |
+
+</div>
+
+![](assets/life-at-dwarves-20231205142525518.webp)
+
+## Community support
+Driven to turn what we know into impactful products & insights for community support. Over the past few years, the Dwarves has participated in countless campaigns and become the sponsor of different tech communities.
+
+<div class="fixed-layout-table">
+
+|                                                  |                                                     |                                                  |                                                  |
+| ------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| **[Golang Vietnam](https://golang.org.vn/)**     | **[WeBuild Community](https://webuild.community/)** | **[Techie Story](http://techiestory.co/)**       | **[Startup.vn](https://startup.vn/)**            |
+| ![[Life at Dwarves-20231205142616589.webp\|200]] | ![[Life at Dwarves-20231205142625014.webp\|200]]    | ![[Life at Dwarves-20231205142630563.webp\|200]] | ![[Life at Dwarves-20231205142634406.webp\|200]] |
+
 </div>
