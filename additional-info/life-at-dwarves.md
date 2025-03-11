@@ -43,7 +43,7 @@ We take learning as the north-star metric. At Dwarves, we value you not only for
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[Radio Talks](https://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)**<br>Weekly sharing on practices, new findings & demos.                                           | [**Dwarves Memo**](https://memo.d.foundation/Data-Analyst-in-Retail-Trading-e92fe7d046a548d782ddec4fac57f61e)<br>Practice sharing, real-case demos & key takeaways. |
 | **[Dwarves Brainery](http://brain.d.foundation/)**<br>All-in-one knowledge source for Dwarves and friends.                                                                  | **Lecturer Training**<br>Occasional training from university lecturers to reinforce working style & engineering mindset.                                            |
-| **[Tech Event](https://open.spotify.com/show/7iHr4TuMBhc2LZhLn0YFoI?si=be4abf7312fe44e1&nd=1)**<br>Monthly sit with Vietnam tech talents for global real-world experiences. | **#TIL Channels**<br>Jotted down channels for daily news & tips sharing.                                                                                            |
+| **[Tech Event](https://open.spotify.com/show/7iHr4TuMBhc2LZhLn0YFoI?si=be4abf7312fe44e1&nd=1)**<br>Monthly sit with Vietnam tech talents for global real-world experiences. | **#TIL Channels**<br>Jotted down channels for daily news & tips sharing.                                                                                           |
 
 </div>
 
@@ -53,7 +53,7 @@ We take learning as the north-star metric. At Dwarves, we value you not only for
 
 |                                                                                                                          |                                                                                                     |                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| ![[Life at Dwarves-20231205141750056.webp\|200]]                                                                         | ![[Life at Dwarves-20231205141816806.webp\|200]]                                                    | ![[Life at Dwarves-20231205141835285.webp\|200]]                           |
+| ![](assets/life-at-dwarves-20231205141750056.webp)                                                                         | ![](assets/life-at-dwarves-20231205141816806.webp)                                                    | ![](assets/life-at-dwarves-20231205141835285.webp)                           |
 | [[life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal\|Nam Nguyen: Keep pushing oneself towards the goal]] | [[from-data-to-backend-an-apprentice-sharing\|My Anh: From Data to Backend, an apprentice sharing]] | [[life-at-dwarves-with-hieu-vu\|Hieu Vu: Python, Java or NodeJS? Golang!]] |
 
 </div>
@@ -79,6 +79,6 @@ Driven to turn what we know into impactful products & insights for community sup
 |                                                  |                                                     |                                                  |                                                  |
 | ------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | **[Golang Vietnam](https://golang.org.vn/)**     | **[WeBuild Community](https://webuild.community/)** | **[Techie Story](http://techiestory.co/)**       | **[Startup.vn](https://startup.vn/)**            |
-| ![[Life at Dwarves-20231205142616589.webp\|200]] | ![[Life at Dwarves-20231205142625014.webp\|200]]    | ![[Life at Dwarves-20231205142630563.webp\|200]] | ![[Life at Dwarves-20231205142634406.webp\|200]] |
+| ![](assets/life-at-dwarves-20231205142616589.webp) | ![](assets/life-at-dwarves-20231205142625014.webp)    | ![](assets/life-at-dwarves-20231205142630563.webp) | ![](assets/life-at-dwarves-20231205142634406.webp) |
 
 </div>
