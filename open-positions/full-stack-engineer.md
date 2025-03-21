@@ -14,11 +14,13 @@ featured: true
 ---
 
 ## We are hiring Full-Stack Engineers
+
 This role offers flexibility, remote work, and the chance to build meaningful solutions alongside a talented team.
 
 > **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
 ## Dwarves is a research-focused technology firm
+
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
 
 Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
@@ -30,35 +32,44 @@ By October, we have already achieved our goals set for 2021. Moving to the next 
 - [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ## Products we recently take part in
+
 ### [Ascenda](https://www.ascenda.com/)
+
 Ascenda enables financial services companies to grow revenue with world-class rewards.
 
 ### [Fornax AI](https://fornax.ai/)
+
 Fornax AI helps early-stage startup founders to effectively communicate their ideas to investors.
 
 ### [SP Group](https://www.spgroup.com.sg/)
+
 Government owned utility distribution enterprise in Singapore, with footprint in most Asian countries and in Australia.
 
 ## Our advances into web 3.0
+
 ### [Attrace](https://attrace.com/)
+
 Netherland's referral protocol for crypto assets where anyone can sign up to promote.
 
 ### [Hedge Foundation](https://www.hedge.foundation/)
+
 Hedge Foundation - powerful dashboard to support users in managing crypto account positions, balance, PNL.
 
 ### [Tokenomy](https://tokenomy.com/)
+
 Tokenomy - decentralized Community VC backed by the largest crypto exchange in Indonesia, Indodax.
 
 > 🤝 **As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.**
 
 ### What you'll get to do
+
 - Define and shape the fundamentals of engineering at Dwarves Foundation
 - Design and write maintainable code at scale
 - Continuously discuss, debate with other team members to propose optimal solutions for different problems
 - Maintain and monitor the systems to make sure there is no disruption in our services
 
----
 ### What it takes to succeed
+
 - A Linux or Mac user
 - Familiar with Agile development process, esp. Scrum framework
 - 3 years experience with Node JS
@@ -73,15 +84,12 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 - Experience in writing good unit tests
 - Good written and verbal English communication, team player with a collaborative work ethics
 
----
-
 ### What you can look forward to
+
 - You will be working closely with a team of talented, kind people. Your team will have your back. We love helping and uplifting our co-workers.
 - You will be directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.
 - You will be working on projects that are impactful and meaningful. We're picky with what we choose to take part in.
 - You will get to be a member of a community where we learn and discuss everything technology.
-
----
 
 > 🤘 **<a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 

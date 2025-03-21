@@ -3,7 +3,7 @@ tags:
   - team
   - operations
   - hiring
-title: What We Stand For
+title: What we stand for
 date: 2023-12-15
 description: More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients. 
 authors: 
@@ -12,13 +12,14 @@ show_frontmatter: true
 ---
 
 ## Empower Innovation with Software Craftsmanship
+
 Innovation happens. There are many startups found and raise fund every day. They focus on making significant positive changes, impact millions of people, lead to breakthroughs and support the foundation of economic growth.
 
-Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. Tech startups need to move fast and break things. 
+Building an innovation startup requires lots of different things, and it is tough. Most of them have to deal with business development, legal, fundraising, team recruitment, and product development at the same time. Tech startups need to move fast and break things.
 
 At some points, growing a startup needs a strong and experienced team behind. The software team that can help to design the system, design the database, produce the well-crafted software, keep the system stable, avoid the technical debt and deliver values is one of the critical pieces to solve the puzzle.
 
-Another motivation for Dwarves Foundation was the lack of respect that service firms receive. Most software companies out there focus on digital transformation and consultancy. The nature of the business with a tight deadline and budget force them to do tricks. They hit and run. The codebase and software they produced are full of crap, and it damages our pride. 
+Another motivation for Dwarves Foundation was the lack of respect that service firms receive. Most software companies out there focus on digital transformation and consultancy. The nature of the business with a tight deadline and budget force them to do tricks. They hit and run. The codebase and software they produced are full of crap, and it damages our pride.
 
 **This is where Dwarves Foundation comes in.**
 
@@ -28,13 +29,14 @@ Despite the fact that service firms scale linearly, their ultimate size is cappe
 
  We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.
 
-**We stand for the craftsmanship in software development**. 
+**We stand for the craftsmanship in software development**.
 
-More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients. 
+More than telling people how to do things, as a firm, we take responsibility for collaboratively creating the product of innovation with the client. We value the long-term partnership, and we brought the economic impact through massive product distribution and brought to the market by the clients.
 
 This is what we do here. It takes many forms, and we’re always working towards better software craftsmanship.
 
 ## The name: Dwarves
+
 ![](assets/what-we-stand-for_yggdrasill-1.webp)
 
 It begins in Norse Mythology. After the executed of Ymir, the very first giant of the universe, by Odin has conceived a whole new universe. In the new world, Yggdrasill is a giant ash tree located at the center cradles the nine realms of the cosmos.

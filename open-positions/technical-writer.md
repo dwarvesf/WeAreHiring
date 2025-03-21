@@ -31,8 +31,6 @@ The role involves collaborating with cross-functional teams to create documentat
 
 ### What you need to have
 
----
-
 - 2+ years of experience as a technical writer with a real-project portfolio
 - Bachelor’s degree in journalism, communications, or technical fields
 - Must be a macOS user
@@ -42,6 +40,7 @@ The role involves collaborating with cross-functional teams to create documentat
 - Superb written communication skills in both English and Vietnamese
 
 **Nice to have**
+
 - Basic design skills using Figma, Canvas, Sketch
 - Basic understanding of Git, Github
 - Basic video editing skills
@@ -71,7 +70,6 @@ Our goal is to provide and empower teammates with what they need to get the job 
 - ESOP: You can buy a certain amount of company shares at a predetermined price. It's a part of our compensation packages
 
 ### Our interview process
----
 
 1. **Review & Reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
 2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
