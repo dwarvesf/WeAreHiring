@@ -8,12 +8,13 @@ description: Looking for a well-rounded backend engineer with experience in ship
 authors:
   - nikki
   - monotykamary
-hide_frontmatter: true
+
 hiring: false
 ---
 
+> 🤝 As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.
+
 ## Requirements
----
 
 - A Linux or Mac user
 - Familiar with Agile development process, esp. Scrum framework
@@ -25,7 +26,6 @@ hiring: false
 - Experience in writing good unit test
 
 ## Responsibility
----
 
 - Define and shape the fundamentals of engineering at Dwarves Foundation
 - Design and write maintainable code at scale
@@ -33,7 +33,6 @@ hiring: false
 - Maintain and monitor the systems to make sure there is no disruption in our services
 
 ### What you can look forward to
----
 
 - You will be working closely with a team of talented, kind people. Your team will have your back. We love helping and uplifting our co-workers.
 - You will be working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve or prove yourself.
@@ -41,7 +40,6 @@ hiring: false
 - You will get to be a member of a community where we learn and discuss everything technology.
 
 ### Our interview process
----
 
 1. **Review**<br>
    After we receive applications, we will screen and review for various criteria.

@@ -14,6 +14,7 @@ hiring: false
 
 ### What you'll get to do
 An expense/spending management tool allowing executives and managers to monitor spending activities in real-time, and communicate directly with the relating personnel on the particular expense.
+
 All accounting data from different sources is synced into one mainstream, unified space. All separated transactions are allocated into designated groups or departments. It also shows the spending tracker for precise supervision, provides full transparency and up-to-date control for top-level managers.
 - Working with the product owner to clarify requirements and as to what needs to be tested.
 - Preparing testing plans that will include test cases and quality checklists.

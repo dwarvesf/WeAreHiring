@@ -1,14 +1,14 @@
 ---
-tags:
-  - hiring
-  - career
-  - business-development
 title: Business Development
 date: 2024-10-31
 description: The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.
 authors:
   - innno_
   - nikki
+tags:
+  - hiring
+  - career
+  - business-development
 hiring: false
 featured: false
 ---
@@ -44,7 +44,6 @@ On our way moving to the next goals, we're looking for talented members to join 
 - Stay updated on AI/LLM, fintech, healthcare trends, market conditions, and competitors to identify new opportunities.
 
 ### What it takes to succeed
----
 
 - Graduates or above from the following majors:
     - Business Development

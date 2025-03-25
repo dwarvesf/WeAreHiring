@@ -25,7 +25,7 @@ Several Dwarves will talk to the candidates to walk them through 4 rounds
 
 ### We hire the manager of one
 
-What’s that mean? A manager of one is someone who comes up with their own goals and executes them. They don’t need heavy direction. They don’t require daily check-ins. They do what a manager would do — set the tone, assign items, determine what needs to get done, etc. — but they do it by themselves and for themselves.
+What’s that mean? A manager of one is someone who comes up with their own goals and executes them. They don’t need heavy direction. They don’t require daily check-ins. They do what a manager would do ,  set the tone, assign items, determine what needs to get done, etc. ,  but they do it by themselves and for themselves.
 These people free you from oversight. They set their direction. When you leave them alone, they surprise you with how much they’ve gotten done. They don’t need a lot of handholding or supervision.
 
 How can you spot these people? Look at their history. Have they been self-sufficient at previous jobs? Have they defined their role before? Have they started their own site/company before? Or done their own thing in some other way? Find someone with initiative and a budding entrepreneurial spirit. And then nurture it.

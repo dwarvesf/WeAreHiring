@@ -1,12 +1,12 @@
 ---
-tags:
-- career
-- hiring
 title: QA Engineer
 date: 2022-07-21
 description: As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
-authors: 
-- nikki
+authors:
+  - nikki
+tags:
+  - career
+  - hiring
 show_frontmatter: true
 ---
 
@@ -56,7 +56,7 @@ We don't offer things like Foosball tables, catered meals in the office, and oth
 If you don’t want to be just tenured employees, you can own the company. As part of the package, being the significant contributors will give you the right to buy a certain amount of company shares at a predetermined price. We will discuss on a case-by-case basis.
 
 ### Flexible Working Hours
-We care about the quality of the work we produce rather than the number of hours worked. We do not have a specific start time. Likewise, there isn’t a time we expect everyone to leave the office. However we do have several meetings among the company, so you should get into the office or dial in before that time. We need to respect the team and our commitments so if we have a meeting booked for a certain time you are expected to be accommodating. 
+We care about the quality of the work we produce rather than the number of hours worked. We do not have a specific start time. Likewise, there isn’t a time we expect everyone to leave the office. However we do have several meetings among the company, so you should get into the office or dial in before that time. We need to respect the team and our commitments so if we have a meeting booked for a certain time you are expected to be accommodating.
 
 ### Paid Time Off
 Dwarves Foundation offers two weeks of paid vacation, a few extra personal days to use at your discretion, and the official national holidays every year. This is a guideline, so if you need a couple of extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking an extended absence, so they’re not left in the lurch.
@@ -66,9 +66,9 @@ And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 ![](assets/team.png)
 
 ## How to be a dwarf?
-You can [**apply here**](https://dwarves.careers/jobs/quality-assurance-engineer--dwarves-foundation--saigon) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with 
+You can [**apply here**](https://dwarves.careers/jobs/quality-assurance-engineer--dwarves-foundation--saigon) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with
 
- > 
+ >
  > Subject: QA - Be an awesome dwarf
 
 We are expecting **Your application form**
