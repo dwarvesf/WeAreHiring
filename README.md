@@ -1,12 +1,10 @@
 ---
-title: Join the Dwarves
+title: 👋 Join the Dwarves
 date: 2019-02-21
 description: This page welcomes you to join Dwarves Foundation, a team crafting innovative software with a focus on quality and community. Learn about open roles, perks, and how to apply to become part of our woodland crew.
 authors: 
   - tieubao
 tags: 
-  - handbook
-  - hiring
   - career
 ---
 
@@ -24,22 +22,14 @@ Here's the heart of it: we're looking for folks who live for tech, ship quality 
 
 We've got spots open for engineers, designers, marketers, and learners ready to grow. Whether you're a seasoned smith or just sharpening your skills, there's a place for you in our woodland.
 
-Engineering
+### Business
 
-- Data engineer (Blockchain + Fintech)
-- AI/ML engineer
+- [Growth Lead](open-positions/growth.md)
+- [Sales Manager](open-positions/sales-manager.md)
 
-Business
+### Apprenticeship program [N/A]
 
-- Growth Lead
-- Sales Manager
-
-### Apprenticeship program
-
-Got at least a year of experience? Our six-month program pairs you with mentors to craft real projects. Explore more [here](apprentice/apprentice.md)
-
-- Backend engineer
-- Web developer
+Got at least a year of experience? Our six-month program pairs you with mentors to craft real projects. Explore more [here](apprentice/apprentice.md).
 
 ## What you'll gain
 
@@ -97,7 +87,7 @@ Here's what some Dwarves say about life in our hall:
 - "Challenges are chances to level up. This place thrives on that."  
   - **Minh Luu**, Full-stack engineer ([LinkedIn](https://www.linkedin.com/in/minhluuquang/))
 
-Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/careers/life/life-at-dwarves-with-an-tran/), and [Ngoc Thanh](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b).
+Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/careers/life/life-at-dwarves-with-an-tran/), and [Ngoc Thanh](apprentice/2022/2022-meet-ngoc-thanh-pham.md).
 
 ## How to step into the hall
 

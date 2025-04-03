@@ -1,14 +1,12 @@
 ---
-title: Culture Handbook
+title: Culture
 date: 2023-12-15
 description: Keep learning and growing. We started this team out of software practice advancement.
 authors:
   - nikki
   - duy
 tags:
-  - hiring
   - career
-  - team
 ---
 
 ## Towards growth

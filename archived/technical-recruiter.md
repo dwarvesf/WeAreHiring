@@ -1,14 +1,12 @@
 ---
-tags:
-  - hiring
-  - career
 title: Technical Recruiter
 date: 2023-12-15
 description: The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.
 authors:
   - nikki
   - vitran
-hiring: false
+tags:
+  - career
 ---
 
 ## We're looking for a Technical Recruiter to join Dwarves and work remotely

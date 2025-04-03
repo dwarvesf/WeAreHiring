@@ -1,7 +1,7 @@
 ---
-title: Growth
+title: Growth Lead
 date: 2022-07-21
-description: At Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
+description: You will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
 authors:
   - nikki
   - duy
@@ -11,9 +11,7 @@ tags:
 show_frontmatter: true
 ---
 
-## Marketing
-
-We are open to a marketing position!
+We are open to a growth position!
 
 If you are looking for a tech-savvy company to contribute to and make your career, this may be your opportunity to put in your spirit and ideal setup.
 

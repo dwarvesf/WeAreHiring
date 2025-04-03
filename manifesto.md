@@ -1,13 +1,12 @@
 ---
-title: The Manifesto
+title: 📜 Manifesto
 date: 2023-12-15
 description: Quality exists in every piece of work. We thrive to deliver the best because we can.
 authors:
   - tieubao
 tags:
-  - hiring
-  - culture
   - career
+  - culture
 ---
 
 ## Aim for quality

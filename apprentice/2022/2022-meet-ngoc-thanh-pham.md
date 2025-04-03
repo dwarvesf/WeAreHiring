@@ -1,15 +1,14 @@
 ---
-title: "Dwarves Apprenticeship 2022: Meet The Mentors Ngoc Thanh Pham"
-short_title: "Meet the Mentor: Thanh Pham"
+title: "Meet mentor Thanh Pham"
+short_title: "Thanh Pham"
 date: 2022-04-22
-description: Thanh is one of the vital elements of this team; and we know he'll be more than happy to have you onboard.
+description: Thanh Pham leads blockchain initiatives at Dwarves Foundation with a focus on building web3 products. His mentorship emphasizes the importance of logical thinking and long-term value creation in blockchain development.
 authors: 
   - duy
+  - tieubao
 tags: 
-  - apprenticeship
-  - internship
   - career
-  - hiring
+  - apprenticeship
 ---
 
 Dwarves Team is shifting our focus to blockchain technology. We offer study groups and blockchain-based projects for peeps to grow and catch up with this rising trend. Thanh is one of the vital elements of this team; and we know he'll be more than happy to have you onboard.

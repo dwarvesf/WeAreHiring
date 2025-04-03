@@ -1,15 +1,12 @@
 ---
-tags:
-  - hiring
-  - career
-  - engineering
 title: React Native Developer
 date: 2023-12-11
 description: We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.
 authors:
   - nikki
-
-hiring: false
+tags:
+  - career
+  - engineering
 ---
 
 > We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.

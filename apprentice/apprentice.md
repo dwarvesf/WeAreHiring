@@ -1,166 +1,166 @@
 ---
-title: Apprentice Program
+title: Apprentice program
 date: 2022-03-15
-description: Apprenticeship is a six-month earn-and-learn training program; it's a way to learn about being a professional software developer.
+description: The Apprentice program is a six-month earn-and-learn training experience for aspiring software developers to gain professional skills working on real projects. Participants receive mentorship, develop technical and professional capabilities, and learn state-of-the-art engineering practices through hands-on work.
 authors:
-- duy
-- nikki
+    - duy
+    - nikki
+    - tieubao
 tags: 
-- hiring
-- career
-- apprentice
+    - career
+    - apprentice
 show_frontmatter: true
 ---
 
 ## About the program
 
-Apprenticeship is a six-month **earn-and-learn** training program; it's a way to learn about being a **professional software developer**. Specifically, it is a way to learn to be like the most skilled software developers you can find. It involves seeking out good teachers and taking opportunities to learn by working alongside them.
+Apprenticeship is a six-month **earn-and-learn** training program - a way to learn about being a **professional software developer**. It's about learning to model yourself after skilled developers by working alongside them and seeking their guidance.
 
-Apprenticeship is designed for the individuals who
+The program is designed for people who:
 
-* are looking for the zen way to ship quality software
-* or haven't figured out the clear path to a job in the tech industry
-* or with non-traditional work and educational background to find full-time roles
+* Want to master the craft of shipping quality software
+* Haven't found a clear path into the tech industry yet
+* Come from non-traditional work and educational backgrounds
 
-The program provides a real-world experience where you will
+Working with us provides real-world experience where you will:
 
-* Work on real projects with a team and pair with a mentor for help throughout the program
-* Develop professional skills and gain insight with feedback and performance reviews from peers, mentors, and managers
-* Gain additional learning opportunities and resources provided throughout the program
+* Work on actual projects with a team and pair with a mentor throughout the program
+* Develop professional skills through feedback and performance reviews from peers, mentors, and managers
+* Access additional learning resources and opportunities
 
 ![Dwarves Foundation apprenticeship program roadmap and structure](assets/apprenticeship-program.webp)
 
 ## What you will learn & explore
 
-During your six months program, you will sit down with our Dwarves and do group studies on the following topics:
+During your six months with us, you'll collaborate with our Dwarves on these key areas:
 
 ### Part 1: Catch up with the state of the art
 
-Learn the state of the art of software engineering in action, from the foundation of engineering to the cutting-edge tech stack and best practices.
+Learn modern software engineering practices from foundational principles to cutting-edge tech stacks.
 
 **Engineering**
 
-* Speak multi programming language at once
-* Master in any Editor of your choice
-* Apply basic DevOps: Containerized, Docker, Continuous Integration, Continuous Delivery
-* Restful / GraphQL API comply HTTP semantics
-* Readme Driven Development
-* Code Review the right way
-* Pair programming
-* Engineering \<\> Programming
-* Environment setup
-* Production monitoring
-* Foundation of Software Engineering
-* Software modelling
-* Software Development Lifecycle & Manage deliverables
-* The 12-factor app methodology on how to make a good software
+* Work with multiple programming languages
+* Master your editor of choice
+* Apply DevOps practices: containerization, continuous integration/delivery
+* Build APIs that comply with REST/GraphQL and HTTP semantics
+* Practice readme-driven development
+* Conduct effective code reviews
+* Pair program with experienced developers
+* Understand the difference between engineering and programming
+* Set up efficient development environments
+* Monitor production applications
+* Build your software engineering foundation
+* Create effective software models
+* Navigate the software development lifecycle
+* Apply the 12-factor methodology for building quality software
 
 **Design**
 
-* Design Thinking
-* Design Process & Sofware development lifecycle
-* Software Development from perspective of Designer, Developer & Product Manager
-* Human needs, ideas & value chain
-* Domain Research Framework
-* Business model & Lean canvas
-* AARRR funnel
-* UX Design framework
-* Information Architecture
-* Atomic Design
-* Visual Design Principle
-* Design System
-* Apply guidelines for designing on different platform
+* Implement design thinking principles
+* Understand design processes within the software development lifecycle
+* See software development from designer, developer, and product manager perspectives
+* Address human needs through the ideas and value chain
+* Use the domain research framework
+* Work with business models and lean canvas
+* Apply the AARRR funnel
+* Use UX design frameworks
+* Structure information architecture
+* Implement atomic design principles
+* Apply visual design principles
+* Work with design systems
+* Follow platform-specific design guidelines
 
 ### Part 2: Be a team player
 
-Teamwork understanding and learn how to collaborate smoothly with different kinds of stakeholders.
+Learn to collaborate effectively with different stakeholders.
 
-* Structure of Software Engineering Team
-* Stages of Team development
-* Software Team Performance
-* Team Communication
-* Expectation Management
-* Professionalism
-* Software Engineering Code of Ethics
+* Understand software engineering team structures
+* Navigate team development stages
+* Measure software team performance
+* Master team communication
+* Manage expectations effectively
+* Develop professional work habits
+* Follow the software engineering code of ethics
 
 ### Part 3: Factors of quality software
 
-Learn and measure all the factors that construct the quality aspect of your delivery.
+Learn to measure and improve the quality of your deliverables.
 
-* Getting to know the working domain
-* The Software Development Triangle
-* The Software Approach Manifesto
-* What defined a well-crafted software
-* Risk Management & Top 10 common risks
-* Art of Software Delivery
+* Understand your working domain
+* Navigate the software development triangle
+* Apply software approach manifestos
+* Define what makes software well-crafted
+* Manage risks and avoid common pitfalls
+* Master the art of software delivery
 
 ### Part 4: Software industry movements
 
-The software industry keeps moving and continuously reach the new stage of craftsmanship. We will look back at a recent decade, learn the past, the broader tech industry that you haven't known yet, and also participate in the next movements.
+Stay current with industry trends by understanding past developments and participating in future directions.
 
-**Revolution of Software Industry**
+**Revolution of software industry**
 
-* Hardware & Operation Systems: Kernel Development
-* Network, Internet and Dotcom
-* Cryptography, Network Security & Deep web
-* Developer vs. Engineer
-* Tradition processes vs. Agile approach
-* Products vs. as Services
-* Era of Mobility
-* Virtualization & Cloud Computing
-* Internet of Things & Wearable devices
-* Big Data & Data mining
-* Data Privacy
-* Human-computer Interaction, AI/ML & Deep Learning
-* Blockchain Technology & Decentralization
-* Quantum Computing
+* Hardware & operating systems: kernel development
+* Network, internet and dotcom evolution
+* Cryptography, network security & deep web
+* The transition from developer to engineer
+* Traditional processes vs. agile approaches
+* Products vs. services
+* The era of mobility
+* Virtualization & cloud computing
+* Internet of things & wearable devices
+* Big data & data mining
+* Data privacy considerations
+* Human-computer interaction, AI/ML & deep learning
+* Blockchain technology & decentralization
+* Quantum computing fundamentals
 
-**Startup**
+**Startup knowledge**
 
-* Overview of Startup, Business, Enterprise, and Fund Raising
+* Overview of startups, business models, enterprises, and fundraising
 
 ### Part 5: Exploring your strength
 
-Getting to know your strength will keep you stay with the industry many years ahead. It's also the requirement to work with the dwarves, an innovation advocates group, and a high potential workforce.
+Identify your strengths to build a sustainable career in tech. This is essential for working with the Dwarves - a group of innovation advocates and high-potential professionals.
 
-* Software distribution and impacts
-* Shipping your own software
-* Grokking the career path
-* Picking up your T-shaped career
+* Software distribution and impact measurement
+* Shipping your own software projects
+* Understanding career path options
+* Developing your T-shaped career profile
 
-## Program Timeline
+## Program timeline
 
-Below is the list of activities during your six months
+Here's what you'll experience during your six months:
 
-### Your first month: Warming-up
+### Your first month: Warming up
 
-* Pre-assessment & Performance calibration
-* **Group Training**: We will help you catch up with our tech stack, workflow, practices through bi-weekly training sessions from the seniors.
-* **Pairing**: You will team up with an assigned peer, hands-on his project, and start to practice what you have learned by pairing with him. It is where theory meets practice.
+* Pre-assessment & performance calibration
+* **Group training**: Catch up with our tech stack, workflow, and practices through bi-weekly sessions led by seniors
+* **Pairing**: Team up with an assigned peer and practice what you've learned by working on their project
 * First checkpoint review session
 
 ### Next three months: Performing
 
-* **On your own feet**: You will join one of our product team as an official member to learn how to be a team player.
-* **Mentoring session**: We will have a bi-weekly 1-on-1 mentoring session to process feedback on how we can do better together.
+* **On your own feet**: Join one of our product teams as an official member to learn teamwork in action
+* **Mentoring sessions**: Participate in bi-weekly one-on-one mentoring to process feedback and improve together
 * Second review session
 
 ### The following months: Exploring
 
-We do various things at Dwarves to uplift our engineers and grow us to the next level.
+Experience the various ways we help our engineers grow to the next level:
 
-* **Group study**: Learn from the peers to keep improving yourself
-* **Tech radar**: continuously exploring the specific topics and evaluate state-of-the-art technology
-* Apply the knowledge to ship your impact through software
+* **Group study**: Learn from peers to continuously improve
+* **Tech radar**: Explore specific topics and evaluate cutting-edge technologies
+* Apply your knowledge by shipping impactful software
 * Group presentation & final review session
-* Reach the last checkpoint to be qualified as a dwarf
+* Reach the final checkpoint to qualify as a Dwarf
 
 ## How to apply
 
-Again, this program is designed for the individuals who
+Remember, this program is designed for people who:
 
-* are looking for the zen way to ship quality software
-* or haven't figured out the clear path to a job in the tech industry
-* or with non-traditional work and educational background to find full-time roles
+* Want to master the craft of shipping quality software
+* Haven't found a clear path into the tech industry yet
+* Come from non-traditional work and educational backgrounds
 
-Please submit this [**form**](https://form.typeform.com/to/LfCWfoml), and we will get in touch.
+Submit your application through this [**form**](https://form.typeform.com/to/LfCWfoml), and we'll get in touch.
