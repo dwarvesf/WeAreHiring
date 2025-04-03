@@ -1,18 +1,19 @@
 ---
-tags: 
-- hiring
-- career
-- apprentice
 title: Apprentice Program
 date: 2022-03-15
 description: Apprenticeship is a six-month earn-and-learn training program; it's a way to learn about being a professional software developer.
 authors:
 - duy
 - nikki
+tags: 
+- hiring
+- career
+- apprentice
 show_frontmatter: true
 ---
 
 ## About the program
+
 Apprenticeship is a six-month **earn-and-learn** training program; it's a way to learn about being a **professional software developer**. Specifically, it is a way to learn to be like the most skilled software developers you can find. It involves seeking out good teachers and taking opportunities to learn by working alongside them.
 
 Apprenticeship is designed for the individuals who
@@ -27,13 +28,15 @@ The program provides a real-world experience where you will
 * Develop professional skills and gain insight with feedback and performance reviews from peers, mentors, and managers
 * Gain additional learning opportunities and resources provided throughout the program
 
-![](assets/apprentice_8e5f7f8bb132590bfbf3105155047b6c_md5.webp)
+![Dwarves Foundation apprenticeship program roadmap and structure](assets/apprenticeship-program.webp)
 
 ## What you will learn & explore
+
 During your six months program, you will sit down with our Dwarves and do group studies on the following topics:
 
 ### Part 1: Catch up with the state of the art
-Learn the state of the art of software engineering in action, from the foundation of engineering to the cutting-edge tech stack and best practices.	
+
+Learn the state of the art of software engineering in action, from the foundation of engineering to the cutting-edge tech stack and best practices.
 
 **Engineering**
 
@@ -62,13 +65,14 @@ Learn the state of the art of software engineering in action, from the foundatio
 * Business model & Lean canvas
 * AARRR funnel
 * UX Design framework
-* Information Architecture 
+* Information Architecture
 * Atomic Design
 * Visual Design Principle
 * Design System
 * Apply guidelines for designing on different platform
 
 ### Part 2: Be a team player
+
 Teamwork understanding and learn how to collaborate smoothly with different kinds of stakeholders.
 
 * Structure of Software Engineering Team
@@ -80,6 +84,7 @@ Teamwork understanding and learn how to collaborate smoothly with different kind
 * Software Engineering Code of Ethics
 
 ### Part 3: Factors of quality software
+
 Learn and measure all the factors that construct the quality aspect of your delivery.
 
 * Getting to know the working domain
@@ -90,6 +95,7 @@ Learn and measure all the factors that construct the quality aspect of your deli
 * Art of Software Delivery
 
 ### Part 4: Software industry movements
+
 The software industry keeps moving and continuously reach the new stage of craftsmanship. We will look back at a recent decade, learn the past, the broader tech industry that you haven't known yet, and also participate in the next movements.
 
 **Revolution of Software Industry**
@@ -114,6 +120,7 @@ The software industry keeps moving and continuously reach the new stage of craft
 * Overview of Startup, Business, Enterprise, and Fund Raising
 
 ### Part 5: Exploring your strength
+
 Getting to know your strength will keep you stay with the industry many years ahead. It's also the requirement to work with the dwarves, an innovation advocates group, and a high potential workforce.
 
 * Software distribution and impacts
@@ -122,20 +129,24 @@ Getting to know your strength will keep you stay with the industry many years ah
 * Picking up your T-shaped career
 
 ## Program Timeline
-Below is the list of activities during your six months 
+
+Below is the list of activities during your six months
 
 ### Your first month: Warming-up
+
 * Pre-assessment & Performance calibration
 * **Group Training**: We will help you catch up with our tech stack, workflow, practices through bi-weekly training sessions from the seniors.
 * **Pairing**: You will team up with an assigned peer, hands-on his project, and start to practice what you have learned by pairing with him. It is where theory meets practice.
 * First checkpoint review session
 
 ### Next three months: Performing
+
 * **On your own feet**: You will join one of our product team as an official member to learn how to be a team player.
 * **Mentoring session**: We will have a bi-weekly 1-on-1 mentoring session to process feedback on how we can do better together.
 * Second review session
 
 ### The following months: Exploring
+
 We do various things at Dwarves to uplift our engineers and grow us to the next level.
 
 * **Group study**: Learn from the peers to keep improving yourself
@@ -145,6 +156,7 @@ We do various things at Dwarves to uplift our engineers and grow us to the next 
 * Reach the last checkpoint to be qualified as a dwarf
 
 ## How to apply
+
 Again, this program is designed for the individuals who
 
 * are looking for the zen way to ship quality software

@@ -53,4 +53,4 @@ hiring: false
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
 [**Shoot us an email**](mailto:spawn@d.foundation) with your LinkedIn / CV\
-[**Join our Discord**](https://discord.gg/dwarvesv) of +300 other engineers and designers
+[**Join our Discord**](https://discord.gg/dfoundation) of +300 other engineers and designers

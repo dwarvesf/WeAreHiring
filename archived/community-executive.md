@@ -11,6 +11,7 @@ authors:
 hiring: false
 ---
 ### What it takes to succeed
+
 - Prior marketing experience at technology firm preferred
 - Prior experience planning, facilitating events or podcasts
 - Strong interpersonal and communication skills
@@ -21,6 +22,7 @@ hiring: false
 - Having knowledge about web 3.0 is a big bonus
 
 ### What you'll get to do
+
 - Develop strategies to build and maintain programs/ activities that help promote the company's vision within the local community
 - Working with Operation Team to take care & optimize company's social media platforms
 - In charge of welcoming newbies & building activities in Dwarves Discord server
@@ -30,7 +32,8 @@ hiring: false
 - Serve as a key point of contact for neighboring businesses, institutions, and communities
 
 ### Our interview process
-1. **Review & Reference check** 
+
+1. **Review & Reference check**
 
 After we receive applications, we will perform our screening process and double-check on the reference.
 
@@ -49,7 +52,9 @@ The best candidate will receive an offer from us right away.
 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 ### Benefits
+
 Our goal is to provide and empower teammates with what they need to get the job done.
+
 - Flat-structure & 100% remote
 - Office: We currently have office in HCMC
 - Healthcare: Bao Minh medical & accident insurance for full-time members
@@ -61,5 +66,5 @@ Our goal is to provide and empower teammates with what they need to get the job 
 > **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
-[**Shoot us an email**](mailto:spawn@dwarvesv.com) with your LinkedIn / CV\
-[**Join our Discord**](https://discord.gg/dwarvesv) of +300 other engineers and designers
+[**Shoot us an email**](mailto:spawn@d.foundation) with your LinkedIn / CV\
+[**Join our Discord**](https://discord.gg/dfoundation) of +300 other engineers and designers

@@ -1,27 +1,27 @@
 ---
-tags:
-  - hiring
-  - career
-  - team
 title: Culture Handbook
 date: 2023-12-15
 description: Keep learning and growing. We started this team out of software practice advancement.
 authors:
   - nikki
   - duy
+tags:
+  - hiring
+  - career
+  - team
 ---
 
 ## Towards growth
 
-Keep learning and growing. We started this team out of software practice advancement. The continuous study lays the foundation for the future growth. Just like software, knowledge must evolve and be useful. We collect the lesson learned and input into our [**team knowledge base**](https://github.com/dwarvesf/brain).
+Keep learning and growing. We started this team out of software practice advancement. The continuous study lays the foundation for the future growth. Just like software, knowledge must evolve and be useful. We collect the lesson learned and input into our [**team knowledge base**](https://github.com/dwarvesf/handbook/blob/master/knowledge-base.md).
 
 ## Purpose-built
 
-Everything we do comes with **[the purpose behind](https://github.com/dwarvesf/handbook/blob/master/purpose.md).** Good software is software that works and provide actual value. Effort is count when it's placed on things that matter.
+Everything we do comes with [**the purpose behind**](https://github.com/dwarvesf/handbook/blob/master/purpose.md). Good software is software that works and provide actual value. Effort is count when it's placed on things that matter.
 
 They are apps and systems for mass market. But they can also be a custom script to automate the build pipeline; a website for a non-profit organization, or an open source desktop app.
 
-## Effective > Productive
+## Effective > productive
 
 We try to work on things that create the most value possible in a certain amount of time. Know your priority and do things that matter.
 
@@ -31,9 +31,15 @@ Being effective is about finding more of your time unoccupied and open for other
 
 ## Keep it simple
 
-|                                                                                                                                                                                                                                                                                                                                                                     |                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| So everyone could understand. Going simple makes everyone easy to follow.<br><br>Take boring solutions and legacy tooling. Use simple words rather than Cambridge-based synonyms.<br><br>After all, what's important is the problem was solved, not what fancy tool we picked.<br><br>Shiny toys can cloud our judgement. Sometimes, simple is harder than complex. | ![](assets/culture-handbook.webp) |
+So everyone could understand. Going simple makes everyone easy to follow.
+
+Take boring solutions and legacy tooling. Use simple words rather than Cambridge-based synonyms.
+
+After all, what's important is the problem was solved, not what fancy tool we picked.
+
+Shiny toys can cloud our judgement. Sometimes, simple is harder than complex.
+
+![Dwarves team culture principles illustrated diagram](assets/culture-principles.webp)
 
 ## Go the extra mile
 
@@ -81,6 +87,6 @@ That's happening and will continue to impact the entire world for the next 10 ye
 
 ## Engineering discipline
 
-Software engineering is about collaboration. It is what happens to programming when you add time and other programmers.
+Software engineering is about collaboration. It is what happens to programming when you add time and other programmers.
 
 **Discipline is required** to follow the flow. Not applying software engineering methods results in more expensive, less reliable software, and it can be vital in the long term.

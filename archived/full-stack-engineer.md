@@ -95,4 +95,4 @@ Tokenomy - decentralized Community VC backed by the largest crypto exchange in I
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
 <a href="mailto:spawn@d.foundation">Shoot us an email</a> with your LinkedIn / CV\
-[Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers
+[Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers

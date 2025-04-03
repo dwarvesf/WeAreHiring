@@ -13,7 +13,8 @@ hiring: false
 featured: false
 ---
 
-## We're looking for Business Development talents to join Dwarves and work remotely.
+## We're looking for Business Development talents to join Dwarves and work remotely
+
 The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.
 
 This role will be responsible for identifying new business opportunities, fostering strong client relationships, attending to projects, and driving growth by promoting our services to potential clients globally.
@@ -21,6 +22,7 @@ This role will be responsible for identifying new business opportunities, foster
 > **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 
 ## Dwarves is research-focused technology firm
+
 Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
 
 Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
@@ -32,6 +34,7 @@ On our way moving to the next goals, we're looking for talented members to join 
 - [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ### What you'll get to do
+
 ---
 
 - Getting trained into Business Development Executive with focus on **AI/LLM, fintech, healthcare solutions.**
@@ -46,26 +49,28 @@ On our way moving to the next goals, we're looking for talented members to join 
 ### What it takes to succeed
 
 - Graduates or above from the following majors:
-    - Business Development
-    - Business English Communication
-    - Communication
-    - Marketing
+  - Business Development
+  - Business English Communication
+  - Communication
+  - Marketing
 - Prior experience or strong interest in **AI/LLM, and fintech, healthcare, data engineering sectors.**
 - Demonstrated ability to understand and communicate complex technical concepts to diverse audiences.
 - Prior operation experience at technology firm preferred:
-    - Ability to work under pressure and fast-moving environment
-    - Excellent time management and organization
-    - Excellent English in writing, speaking and reading
-    - Excellent communication, negotiation, and presentation skills
-    - Strong desire to work in IT industry, particularly with emerging technologies
-    - Strong understanding of software development methodologies and technologies is preferred
+  - Ability to work under pressure and fast-moving environment
+  - Excellent time management and organization
+  - Excellent English in writing, speaking and reading
+  - Excellent communication, negotiation, and presentation skills
+  - Strong desire to work in IT industry, particularly with emerging technologies
+  - Strong understanding of software development methodologies and technologies is preferred
 
 ### Nice to have
+
 - Experience working with IT companies.
 - Existing connections or involvement with tech communities.
 - A long time Discord user.
 
 ### Benefits
+
 ---
 
 Our goal is to provide and empower teammates with what they need to get the job done.
@@ -79,6 +84,7 @@ Our goal is to provide and empower teammates with what they need to get the job 
 - ESOP: You can buy a certain amount of company shares at a predetermined price. It's a part of our compensation packages
 
 ### Our interview process
+
 ---
 
 1. **Review & Reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
@@ -93,4 +99,4 @@ Share via [Email](mailto:spawn@d.foundation), [Facebook](https://www.facebook.co
 
 **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
 [Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
-[Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers
+[Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers
