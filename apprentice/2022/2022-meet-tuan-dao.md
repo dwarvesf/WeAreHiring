@@ -1,18 +1,15 @@
 ---
-title: "Dwarves Apprenticeship 2022: Meet The Mentors Tuan Dao"
-short_title: "Meet the Mentors: Tuan Dao"
+title: "Meet mentor Tuan Dao"
+short_title: "Tuan Dao"
 date: 2022-04-20
-description: "Meet Tuan Dao, a Senior Frontend/Blockchain Engineer at Dwarves Foundation with 4+ years of experience. Learn about his work philosophy, technical expertise in React, and his approach to mentoring in the Dwarves Apprenticeship 2022 program."
+description: Tuan Dao is a Senior Frontend/Blockchain engineer with 4+ years of experience known for his technical expertise in React. His mentoring approach focuses on creating a supportive environment where apprentices receive personalized guidance to develop their technical and professional skills.
 authors: 
   - duy
+  - tieubao
 tags: 
-  - apprenticeship
   - career
-  - hiring
-  - internship
+  - apprenticeship
 ---
-
-**Tuan Dao - Senior Frontend/ Blockchain Engineer**
 
 ![Tuan Dao, Senior Frontend and Blockchain Engineer at Dwarves Foundation](assets/tuan-dao-mentor.webp)
 

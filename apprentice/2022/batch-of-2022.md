@@ -1,5 +1,5 @@
 ---
-title: "Dwarves Foundation Apprenticeship: Batch Of 2022"
+title: "Apprenticeship batch of 2022"
 short_title: Batch of 2022
 date: 2022-09-23
 description: "It's our second attempt rolling out this program. But the motivation stays the same: Accelerating someone's current software development skillset."
@@ -7,8 +7,8 @@ authors:
   - duy
   - nikki
 tags: 
-  - apprenticeship
   - career
+  - apprenticeship
 ---
 
 ![Dwarves Foundation Apprenticeship program banner showing a group of apprentices](assets/apprenticeship-banner.webp)
@@ -55,9 +55,9 @@ After every training session, we  required the apprentices to share their feedba
 
 #### Fostering a data team
 
-As stated in the latest [Dwarves Updates](https://log.d.foundation/06d0a46163914f10831d3146867dde2d#4139ec11dc0e401f8349e481934d3b9c), our bet goes for data, due to its high demand in engineers, and the powerful value data brings to solve complex business problems.
+As stated in the latest [Dwarves Updates](https://memo.d.foundation), our bet goes for data, due to its high demand in engineers, and the powerful value data brings to solve complex business problems.
 
-The data market is full of potential, but the number of good data engineers and analysts is still few and far between. Our decision placed on the new Data team, prepping research and discussion environments to prepare a closer and more novel look at data, every ins and outs. The outstanding input keeps coming at [Brainery](https://brain.d.foundation/Engineering/Data/Apache+Hadoop+and+Big+Data) and [Radio Talks](https://www.youtube.com/watch?v=fqM5mfuFN_s).
+The data market is full of potential, but the number of good data engineers and analysts is still few and far between. Our decision placed on the new Data team, prepping research and discussion environments to prepare a closer and more novel look at data, every ins and outs.
 
 #### Introducing a new power squad
 
