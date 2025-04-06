@@ -11,6 +11,26 @@ tags:
 
 > We're like-minded teammates who pursue ambitious goals with tech culture and codes of conduct.
 
+### Growth stories
+
+```dsql-list
+SELECT markdown_link(COALESCE(short_title, title), file_path)
+FROM vault
+WHERE file_path ILIKE '%life%'
+  OR ['life-at-dwarves'] && tags
+ORDER BY date DESC
+LIMIT 10;
+```
+
+<!-- ![Nam Nguyen presenting at a Dwarves event](assets/nam-nguyen.webp)
+[[life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal|Nam Nguyen: Keep pushing oneself towards the goal]]
+
+![My Anh sharing her journey from data to backend development](assets/my-anh.webp)
+[[from-data-to-backend-an-apprentice-sharing|My Anh: From Data to Backend, an apprentice sharing]]
+
+![Hieu Vu during his technical presentation about Golang](assets/hieu-vu.webp)
+[[life-at-dwarves-with-hieu-vu|Hieu Vu: Python, Java or NodeJS? Golang!]] -->
+
 ## Build a place we love to work at
 
 We build this company like we build a product. There are roadmaps for growth; there are phases; there are iterations. There might also be bugs, places where the company crashes because of bad organizational design, or cultural oversights.
@@ -55,28 +75,17 @@ Weekly sharing on practices, new findings & demos.
 
 Practice sharing, real-case demos & key takeaways.
 
-### Lecturer training
-
-Occasional training from university lecturers to reinforce working style & engineering mindset.
-
 ### [Tech event](https://open.spotify.com/show/7iHr4TuMBhc2LZhLn0YFoI?si=be4abf7312fe44e1&nd=1)
 
 Monthly sit with Vietnam tech talents for global real-world experiences.
 
+### Lecturer training
+
+Occasional training from university lecturers to reinforce working style & engineering mindset.
+
 ### #TIL channels
 
 Jotted down channels for daily news & tips sharing.
-
-### Growth stories
-
-![Nam Nguyen presenting at a Dwarves event](assets/nam-nguyen.webp)
-[[life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal|Nam Nguyen: Keep pushing oneself towards the goal]]
-
-![My Anh sharing her journey from data to backend development](assets/my-anh.webp)
-[[from-data-to-backend-an-apprentice-sharing|My Anh: From Data to Backend, an apprentice sharing]]
-
-![Hieu Vu during his technical presentation about Golang](assets/hieu-vu.webp)
-[[life-at-dwarves-with-hieu-vu|Hieu Vu: Python, Java or NodeJS? Golang!]]
 
 ## Get things done in style
 
