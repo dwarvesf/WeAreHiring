@@ -13,6 +13,8 @@ tags:
 
 ### Growth stories
 
+Life at Dwarves is a series of stories about people, perspectives and lives at Dwarves.
+
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
@@ -21,15 +23,6 @@ WHERE file_path ILIKE '%life%'
 ORDER BY date DESC
 LIMIT 10;
 ```
-
-<!-- ![Nam Nguyen presenting at a Dwarves event](assets/nam-nguyen.webp)
-[[life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal|Nam Nguyen: Keep pushing oneself towards the goal]]
-
-![My Anh sharing her journey from data to backend development](assets/my-anh.webp)
-[[from-data-to-backend-an-apprentice-sharing|My Anh: From Data to Backend, an apprentice sharing]]
-
-![Hieu Vu during his technical presentation about Golang](assets/hieu-vu.webp)
-[[life-at-dwarves-with-hieu-vu|Hieu Vu: Python, Java or NodeJS? Golang!]] -->
 
 ## Build a place we love to work at
 

@@ -3,12 +3,12 @@ title: Apprentice program
 date: 2022-03-15
 description: The Apprentice program is a six-month earn-and-learn training experience for aspiring software developers to gain professional skills working on real projects. Participants receive mentorship, develop technical and professional capabilities, and learn state-of-the-art engineering practices through hands-on work.
 authors:
-    - duy
-    - nikki
-    - tieubao
+  - duy
+  - nikki
+  - tieubao
 tags: 
-    - career
-    - apprentice
+  - career
+  - apprentice
 show_frontmatter: true
 ---
 
