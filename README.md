@@ -3,9 +3,9 @@ title: Join the Dwarves
 short_title: 👋 Join the Dwarves
 date: 2019-02-21
 description: This page welcomes you to join Dwarves Foundation, a team crafting innovative software with a focus on quality and community. Learn about open roles, perks, and how to apply to become part of our woodland crew.
-authors: 
+authors:
   - tieubao
-tags: 
+tags:
   - career
 ---
 
@@ -81,11 +81,11 @@ Our [Manifesto](manifesto.md) dives deeper into why craftsmanship is our north s
 
 Here's what some Dwarves say about life in our hall:
 
-- "Learning's woven into everything here. You'll grow in ways you didn't expect."  
+- "Learning's woven into everything here. You'll grow in ways you didn't expect."
   - **Thanh Pham**, Engineering manager ([LinkedIn](https://www.linkedin.com/in/thanh-pham-466326108/))
-- "I moved to a client's team, and Dwarves cheered me on. It's about your path."  
+- "I moved to a client's team, and Dwarves cheered me on. It's about your path."
   - **An Duong**, Alumnus ([LinkedIn](https://www.linkedin.com/in/duongtruongan/))
-- "Challenges are chances to level up. This place thrives on that."  
+- "Challenges are chances to level up. This place thrives on that."
   - **Minh Luu**, Full-stack engineer ([LinkedIn](https://www.linkedin.com/in/minhluuquang/))
 
 Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/careers/life/life-at-dwarves-with-an-tran/), and [Ngoc Thanh](apprentice/2022/2022-meet-ngoc-thanh-pham.md).

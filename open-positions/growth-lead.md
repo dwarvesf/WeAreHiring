@@ -23,10 +23,10 @@ We serve a single purpose: To empower innovations and co-create the next big thi
 
 The activities at Dwarves are consisted of
 
-* New technology R&D and how to apply them efficiently.
-* We build modern software, web, app, SaaS, and cloud platforms.
-* We invest & help startup founders to ship new products.
-* We give a hand to the tech communities by assisting them with side projects and online/offline event organizations.
+- New technology R&D and how to apply them efficiently.
+- We build modern software, web, app, SaaS, and cloud platforms.
+- We invest & help startup founders to ship new products.
+- We give a hand to the tech communities by assisting them with side projects and online/offline event organizations.
 
 ## Marketing position at Dwarves
 
@@ -34,18 +34,18 @@ We do inbound marketing to grow our audience base. We deliver values and establi
 
 You will work closely with the operations & engineering team
 
-* Developing tactics to boost the company's reputation, drive qualified traffic of Dwarves satellite channels.
-* Growing the audience base.
-* Pipeline setup, campaign execution, report, and monitoring.
-* Deploying marketing campaigns from ideation to execution.
-* Preparing quarterly and annual reports to senior management.
+- Developing tactics to boost the company's reputation, drive qualified traffic of Dwarves satellite channels.
+- Growing the audience base.
+- Pipeline setup, campaign execution, report, and monitoring.
+- Deploying marketing campaigns from ideation to execution.
+- Preparing quarterly and annual reports to senior management.
 
 ## Benefit & Perks
 
-* Environment: Flat, Autonomy & Remote
-* Competitive salary, with full salary during probation
-* Education Allowance for work-related
-* KPI reward & Stock options
+- Environment: Flat, Autonomy & Remote
+- Competitive salary, with full salary during probation
+- Education Allowance for work-related
+- KPI reward & Stock options
 
 ### Our interview process
 
@@ -58,23 +58,24 @@ You will work closely with the operations & engineering team
 
 Send us an email at <team@d.foundation>, with the following info:
 
-* Detailed info related to your position
-* Portfolios you've been working on
-* References, if you have any
+- Detailed info related to your position
+- Portfolios you've been working on
+- References, if you have any
 
 Learn more:
 
-* Home: <https://d.foundation>
-* Consulting: <https://d.foundation/work>
-* Products: <https://superbits.co>
-* Community works:
-  * [Techie Story](https://techiestory.co)
-  * [WeBuild Community](https://webuild.community)
-  * [Golang Vietnam](https://golang.org.vn)
+- Home: <https://d.foundation>
+- Consulting: <https://d.foundation/work>
+- Products: <https://superbits.co>
+- Community works:
 
-* [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
-* [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
-* [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+  - [Techie Story](https://techiestory.co)
+  - [WeBuild Community](https://webuild.community)
+  - [Golang Vietnam](https://golang.org.vn)
+
+- [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
+- [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+- [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 > **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
 

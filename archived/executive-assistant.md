@@ -1,5 +1,4 @@
 ---
-
 title: Executive Assistant
 date: 2023-12-15
 description: We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.

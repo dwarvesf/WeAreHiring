@@ -2,10 +2,10 @@
 title: iOS Developer
 date: 2022-07-21
 description: As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
-authors: 
-    - nikkingtr
-tags: 
-    - career
+authors:
+  - nikkingtr
+tags:
+  - career
 show_frontmatter: true
 ---
 
@@ -15,29 +15,29 @@ WE ARE LOOKING FOR AN iOS DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of d
 
 Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
-* 5 years in the market
-* 40 talented members
-* 10 common team size per deployments
-* 3 Vietnam Development Communities Influenced
+- 5 years in the market
+- 40 talented members
+- 10 common team size per deployments
+- 3 Vietnam Development Communities Influenced
 
 ## Requirements
 
-* Same [DNA](../additional-info/what-we-value.md)
-* A Linux or Mac user
-* Familiar with Agile philosophy and Scrum framework
-* Strong knowledge in Swift fundamentals and its framework
-* Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
-* Experience in writing good unit test
-* Experience with Objective-C is a plus
-* You own the iOS platform
+- Same [DNA](../additional-info/what-we-value.md)
+- A Linux or Mac user
+- Familiar with Agile philosophy and Scrum framework
+- Strong knowledge in Swift fundamentals and its framework
+- Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
+- Experience in writing good unit test
+- Experience with Objective-C is a plus
+- You own the iOS platform
 
 ## Job and the challenges
 
-* Define and shape the fundamentals of engineering at Dwarves Foundation
-* Design and write maintainable code at scale
-* Collaborate with Backend Engineers to build features and ship experiments
-* Participate in design and code reviews
-* Identify and communicate front-end best practices
+- Define and shape the fundamentals of engineering at Dwarves Foundation
+- Design and write maintainable code at scale
+- Collaborate with Backend Engineers to build features and ship experiments
+- Participate in design and code reviews
+- Identify and communicate front-end best practices
 
 ![](assets/process.png)
 
@@ -75,16 +75,15 @@ And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
 You can [**apply here**](https://dwarves.careers/jobs/software-engineer-ios--dwarves-foundation--saigon/) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with
 
- >
- > Subject: iOS - Be an awesome dwarf
+> Subject: iOS - Be an awesome dwarf
 
 We are expecting **Your application form**
 
-* Who you are and what have you been working on
-* More detailed info related to the position you're applying for
-* Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
-* Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
-* Attach references, if you have any
+- Who you are and what have you been working on
+- More detailed info related to the position you're applying for
+- Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
+- Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+- Attach references, if you have any
 
 Honestly, we don't really care about your level of formal education, math skill, or so on. We want to see that you are able to do something.
 

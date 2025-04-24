@@ -5,7 +5,7 @@ description: As an engineer at Dwarves, you will be working closely with a team 
 authors:
 tags:
   - career
-  - devops             
+  - devops
 ---
 
 > 🤝 As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.
@@ -51,9 +51,11 @@ tags:
 2. **Team Interview**
 
    Successful candidates will have a 30-min talk with our HR manager, our engineering manager and/or relevant team members.
+
 3. **Technical Interview**
 
    Candidates will engage in a technical interview with an engineering leader from our team. This session is designed to assess your technical expertise and problem-solving mindset.
+
 4. **Offer**
 
    Engineers who we believe will be a great addition to our team will receive an offer from us right away.

@@ -3,10 +3,10 @@ title: "Meet mentor Thanh Pham"
 short_title: "Thanh Pham"
 date: 2022-04-22
 description: Thanh Pham leads blockchain initiatives at Dwarves Foundation with a focus on building web3 products. His mentorship emphasizes the importance of logical thinking and long-term value creation in blockchain development.
-authors: 
+authors:
   - duynglam
   - tieubao
-tags: 
+tags:
   - career
   - apprenticeship
 ---

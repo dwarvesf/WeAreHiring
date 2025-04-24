@@ -8,6 +8,7 @@ tags:
   - career
   - design
 ---
+
 ### What it takes to succeed
 
 - A portfolio showing your high quality, thoughtful design including user interfaces, iconography, and illustration

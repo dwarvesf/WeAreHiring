@@ -42,7 +42,7 @@ tags:
 1. **Review**<br>
    After we receive applications, we will screen and review for various criteria.
 2. **Team interview**<br>
-    Successful candidates will have a 30-min talk with our HR manager, our engineering manager and/or relevant team members.
+   Successful candidates will have a 30-min talk with our HR manager, our engineering manager and/or relevant team members.
 3. **Client Interview**<br>
 4. **Offer**<br>
    Engineers who we believe will be a great addition to our team will receive an offer from us right away.

@@ -1,5 +1,4 @@
 ---
-
 title: Technical Recruiter
 date: 2023-12-15
 description: The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.
@@ -24,9 +23,9 @@ Technology is our north star metrics, engineering is our culture. We are a profi
 
 On our way moving to the next goals, we're looking for talented members to join in and help us to grow more sustainably in the coming years.
 
-|                     |                      |                   |
-| ------------------- | -------------------- | ----------------- |
-| [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)| [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/) | [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/) |
+|                                                                                       |                                                                                         |                                                                                   |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/) | [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/) | [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/) |
 
 ### Requirement
 
@@ -81,4 +80,4 @@ Our goal is to provide and empower teammates with what they need to get the job 
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | **Or know someone who would be a great fit? Let them know!** | **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.** |
 | Share via Email Facebook LinkedIn Twitter                    | [Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV                   |
-|                                                              | [Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers  |
+|                                                              | [Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers |

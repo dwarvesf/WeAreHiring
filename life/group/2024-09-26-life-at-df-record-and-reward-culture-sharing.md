@@ -17,9 +17,9 @@ How to Get Involved
 - Share your insights: Drop interesting links or ideas in research channels like 💻・tech or 💡・til, and you’ll get noticed.
 - Join our OGIFs: Got a topic you’re passionate about? Share it during our sessions or submit your notes to the memo.
 - Contribute to open source: We love building tools that boost productivity. If you're into that, hop into 🦄・build and start creating something awesome.
-We hope to create a welcoming community for everyone who joins in.
+  We hope to create a welcoming community for everyone who joins in.
 
-_
+\_
 
 Life at Dwarves is a series of stories about people, perspectives, and lives at Dwarves.
 

@@ -16,30 +16,30 @@ WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team 
 
 Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
-* 5 years in the market
-* 40 talented members
-* 10 common team size per deployments
-* 3 Vietnam Development Communities Influenced
+- 5 years in the market
+- 40 talented members
+- 10 common team size per deployments
+- 3 Vietnam Development Communities Influenced
 
 ## Requirements
 
-* Same [DNA](../additional-info/what-we-value.md)
-* A Linux or Mac user
-* Familiar with Agile philosophy and Scrum framework
-* Knowledge in Dart fundamentals and Flutter framework
-* Passionate about programming, innovation, and solving challenging problems
-* Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
-* Experience in writing good unit test
-* Experience with Android Development in Java/Kotlin is a plus
-* You own the Android platform
+- Same [DNA](../additional-info/what-we-value.md)
+- A Linux or Mac user
+- Familiar with Agile philosophy and Scrum framework
+- Knowledge in Dart fundamentals and Flutter framework
+- Passionate about programming, innovation, and solving challenging problems
+- Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
+- Experience in writing good unit test
+- Experience with Android Development in Java/Kotlin is a plus
+- You own the Android platform
 
 ## Job and the challenges
 
-* Define and shape the fundamentals of engineering at Dwarves Foundation
-* Design and write maintainable code at scale
-* Collaborate with Backend Engineers to build features and ship experiments
-* Participate in design and code reviews
-* Identify and communicate front-end best practices
+- Define and shape the fundamentals of engineering at Dwarves Foundation
+- Design and write maintainable code at scale
+- Collaborate with Backend Engineers to build features and ship experiments
+- Participate in design and code reviews
+- Identify and communicate front-end best practices
 
 ![](assets/process.png)
 
@@ -77,16 +77,15 @@ And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
 You can [**apply here**](https://dwarves.careers/jobs/software-engineer-android--dwarves-foundation--saigon/) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with
 
- >
- > Subject: Android - Be an awesome dwarf
+> Subject: Android - Be an awesome dwarf
 
 We are expecting **Your application form**
 
-* Who you are and what have you been working on
-* More detailed info related to the position you're applying for
-* Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
-* Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
-* Attach references, if you have any
+- Who you are and what have you been working on
+- More detailed info related to the position you're applying for
+- Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
+- Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+- Attach references, if you have any
 
 Honestly, we don't really care about your level of formal education, math skill, or so on. We want to see that you are able to do something.
 

@@ -1,5 +1,4 @@
 ---
-
 title: Business Development Manager
 date: 2024-10-31
 description: The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.

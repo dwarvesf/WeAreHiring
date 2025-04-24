@@ -1,5 +1,4 @@
 ---
-
 title: Full-Stack Engineer
 date: 2025-02-05
 description: We are looking for a Full-Stack Engineer who is passionate about building scalable, secure, and efficient web applications. The ideal candidate will have a strong understanding of both frontend and backend technologies, and the ability to work across the entire stack.

@@ -15,32 +15,32 @@ WE ARE LOOKING FOR A QA ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of deve
 
 Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
-* 5 years in the market
-* 40 talented members
-* 10 common team size per deployments
-* 3 Vietnam Development Communities Influenced
+- 5 years in the market
+- 40 talented members
+- 10 common team size per deployments
+- 3 Vietnam Development Communities Influenced
 
 ## Requirements
 
-* CAREFULNESS is our first prerequisite
-* A Linux or Mac user
-* Familiar with Agile development process, esp. Scrum framework
-* Software Testing: Regression, E2E, Sanity Testing and Performance Testing
-* Ability to use task management tools, e.g. Trello, Jira, Gitlab Board
-* RESTful know-how with tooling support, e.g. Postman, Charles, Insomnia
-* Experienced in using Git
-* Basic database knowledge: PostgreSQL, MySQL, NoSQL
-* Basic knowledge of UX
+- CAREFULNESS is our first prerequisite
+- A Linux or Mac user
+- Familiar with Agile development process, esp. Scrum framework
+- Software Testing: Regression, E2E, Sanity Testing and Performance Testing
+- Ability to use task management tools, e.g. Trello, Jira, Gitlab Board
+- RESTful know-how with tooling support, e.g. Postman, Charles, Insomnia
+- Experienced in using Git
+- Basic database knowledge: PostgreSQL, MySQL, NoSQL
+- Basic knowledge of UX
 
 ## Job and the challenges
 
 Your primary responsibility is to **Ensure the quality of the products**
 
-* Analyze and review product requirements
-* Perform testing technique to project following the testing scope
-* Documenting the test plan, strategy, test cases for every project that you participant in
-* Verify our product development process
-* Study new technique and methods in testing domain, apply and promote them
+- Analyze and review product requirements
+- Perform testing technique to project following the testing scope
+- Documenting the test plan, strategy, test cases for every project that you participant in
+- Verify our product development process
+- Study new technique and methods in testing domain, apply and promote them
 
 ![](assets/process.png)
 
@@ -78,16 +78,15 @@ And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
 You can [**apply here**](https://dwarves.careers/jobs/quality-assurance-engineer--dwarves-foundation--saigon) or you can send us your **short CV** or any similar piece of information at [spawn@d.foundation](mailto:spawn@d.foundation) with
 
- >
- > Subject: QA - Be an awesome dwarf
+> Subject: QA - Be an awesome dwarf
 
 We are expecting **Your application form**
 
-* Who you are and what have you been working on
-* More detailed info related to the position you're applying for
-* Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
-* Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
-* Attach references, if you have any
+- Who you are and what have you been working on
+- More detailed info related to the position you're applying for
+- Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog...)
+- Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+- Attach references, if you have any
 
 Honestly, we don't really care about your level of formal education, math skill, or so on. We want to see that you are able to do something.
 

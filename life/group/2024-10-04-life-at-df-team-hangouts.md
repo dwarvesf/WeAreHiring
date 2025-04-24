@@ -16,7 +16,7 @@ Even remotely, our connection remains strong. We’re always just a message away
 
 This laid-back style means that when we come together, things click. Ideas move fast - no need to force it. Conversations are natural, and work feels less like a grind and more like something we’re doing together.
 
-_
+\_
 
 Life at Dwarves is a series of stories about people, perspectives, and lives at Dwarves.
 

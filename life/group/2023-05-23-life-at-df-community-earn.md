@@ -44,7 +44,7 @@ Thanh Nguyen - Discord engagement metric collect:
 
 - Record the level of interaction of members in various Discord channels (without saving the content, only saving the level of interaction)
 - The level of interaction is defined by which channels the members frequently chat in (categorizing channels according to categories such as off-topic, project zone)
-→ <https://earn.d.foundation/Discord-Engagement-Metrics-Collect-7da7aa955d7a45cf8cdee20f6f157b67>
+  → <https://earn.d.foundation/Discord-Engagement-Metrics-Collect-7da7aa955d7a45cf8cdee20f6f157b67>
 
 → <https://github.com/thanhnguyen2187/fortress-api/tree/feat/collect-engagement-metrics>
 
@@ -59,10 +59,10 @@ Head to Dwarves Community Earn to see how to claim this Quest. Welcome peeps who
 Steps to join the discussion for non-Dwarves:
 
 1. Join Dwarves Discord, write a short self-intro for full access
-1. Claim a bounty via  ⁠🎫・support-ticket
+1. Claim a bounty via ⁠🎫・support-ticket
 1. Deliver bounty, get $ICY in return
 1. Give @hnh a ping if you want to take any todo in earn.d.foundation.
-You can use $ICY to exchange for Dwarves’ exclusive swag, or swap into USDC for your own use. Further down the road, holding $ICY can permit you to mint into Dwarves NFTs, which come with access to private channels and company profit sharing.
+   You can use $ICY to exchange for Dwarves’ exclusive swag, or swap into USDC for your own use. Further down the road, holding $ICY can permit you to mint into Dwarves NFTs, which come with access to private channels and company profit sharing.
 
 We hope to provide a welcoming community for those who do. Bounties are here for that.
 
@@ -74,11 +74,11 @@ We hope to provide a welcoming community for those who do. Bounties are here for
 - Hire us to build your software
 - Join us, we are also hiring
 - Visit our Discord Network
-Nam Nguyen: build Fortress ops optimization
+  Nam Nguyen: build Fortress ops optimization
 
 làm cái gì, làm với ai - to-do bounty này có ai đang làm … + leader board bạn này earn dc bao nhieu ICY + tsao các bạn muốn làm bounty này (ngoài có thêm thu nhập,…), feeling của mn
 
- cái mình làm ra được sử dụng ntn, reward là gì
+cái mình làm ra được sử dụng ntn, reward là gì
 
 Phuc Le
 

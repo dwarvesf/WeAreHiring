@@ -8,7 +8,7 @@ last_edited: "2024-10-16"
 
 Since the start, Dwarves has valued flexibility, allowing our team to work where inspiration strikes. But there's something special about being together—learning, sharing knowledge, and working side by side.
 
-That's where our hybrid working model steps in.  
+That's where our hybrid working model steps in.
 
 We didn’t aim to fill desks but to create a space where you can learn, connect, and rediscover the energy that comes from working alongside others, even if it’s just for a day or two.
 
@@ -37,7 +37,7 @@ We’ve added a little extra motivation to make coming into the office more rewa
 - Simple and quick: Check in, earn your ICY. Kick-off your day with a little boost.
 - Earn while you work: Whether you're here for a focused work or to catch up with teammates. You’re rewarded just for showing up.
 - Stay connected: These perks are little a reminder that we’re building something together, day by day.
-![](assets/notion-image-1744012229256-uj8ls.webp)
+  ![](assets/notion-image-1744012229256-uj8ls.webp)
 
 ### Shaping a place for real learning
 
@@ -89,7 +89,7 @@ Open Discord on your device and make sure you’re logged into the Dwarves serve
 
 ### Checking In
 
-Head over to the  🏢・lobby channel. Type "gm" (short for "good morning") and hit send. That’s it—you’re officially checked in for the day.
+Head over to the 🏢・lobby channel. Type "gm" (short for "good morning") and hit send. That’s it—you’re officially checked in for the day.
 
 ### Earning Your ICY Tokens
 
@@ -105,28 +105,28 @@ Introduction:
 
 - Why we're embracing a hybrid working model at Dwarves.
 - How this campaign encourages team members to blend the best of remote and office life.
-What We Offer:
+  What We Offer:
 
 - Work in Comfort: Access to Herman Miller chairs, Apple Studio Displays, and dedicated desks.
 - Productivity Perks: High-speed internet, tranquil meeting rooms, and 24/7 access.
 - Supportive Environment: Subsidized parking, lunch, and dinner.
-Addressing Common Challenges:
+  Addressing Common Challenges:
 
 - Overcoming the distractions of working from home.
 - Creating a clear work-life boundary.
-Why Choose the Office Over a Café?
+  Why Choose the Office Over a Café?
 
 - Consistent comfort: Ergonomic setup and guaranteed workspace.
 - Reliable resources: High-speed internet and access to equipment.
 - Community vibe: Connect with teammates for collaboration and learning.
-The Heart of Hybrid Working at Dwarves:
+  The Heart of Hybrid Working at Dwarves:
 
 - Our commitment to supporting a learning culture, whether in-office or remote.
 - How hybrid work nurtures team bonding, both during and beyond work hours.
-Team Testimonials:
+  Team Testimonials:
 
 - Gather insights from teammates about their experiences with hybrid work.
 - Showcase how spending time at the office has boosted their productivity and collaboration.
-Closing Thoughts:
+  Closing Thoughts:
 
 - Encourage team members to come by, check-in, earn ICY, and experience the Dwarves’ hybrid work culture firsthand.
