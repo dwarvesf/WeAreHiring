@@ -4,7 +4,7 @@ short_title: "Tuan Dao"
 date: 2022-04-20
 description: Tuan Dao is a Senior Frontend/Blockchain engineer with 4+ years of experience known for his technical expertise in React. His mentoring approach focuses on creating a supportive environment where apprentices receive personalized guidance to develop their technical and professional skills.
 authors: 
-  - duy
+  - duynglam
   - tieubao
 tags: 
   - career

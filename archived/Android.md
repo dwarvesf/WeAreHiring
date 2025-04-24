@@ -3,7 +3,7 @@ title: Android
 date: 2022-07-21
 description: WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use.
 authors:
-  - nikki
+  - nikkingtr
 tags:
   - career
   - mobile
