@@ -4,7 +4,7 @@ short_title: "Phat Nguyen"
 date: "2021-03-11"
 last_edited: "2024-03-08"
 description: "Phat Nguyen shares his bold journey from medical school to pursuing IT, highlighting the importance of following one's true passion even when it means starting over and making difficult decisions"
-tags: ["life-at-dwarves, backend-engineer, career-change"]
+tags: life-at-dwarves, backend-engineer, career-change
 ---
 
 **A Backend Engineer reflects on his courageous decision to drop out of medical school and pursue IT instead, emphasizing that while starting later than his peers felt challenging, following his true passion was the right choice, and the will to keep learning has been key to his success.**
