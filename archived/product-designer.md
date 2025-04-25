@@ -1,7 +1,7 @@
 ---
 title: Product Designer
-date: 2023-03-21
 description: As a designer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
+date: 2023-03-21
 authors:
   - nikkingtr
 tags:

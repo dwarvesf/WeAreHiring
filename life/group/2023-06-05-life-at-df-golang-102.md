@@ -1,7 +1,8 @@
 ---
 title: "Life at Dwarves: Golang 102"
-date: "2023-06-05"
-last_edited: "2023-06-27"
+description: null
+date: 2023-06-05
+last_edited: 2023-06-27
 ---
 
 [Life at Dwarves] Golang 102

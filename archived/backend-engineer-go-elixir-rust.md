@@ -1,7 +1,7 @@
 ---
 title: Backend Engineer, Go/Elixir/Rust
-date: 2023-12-11
 description: Looking for a well-rounded backend engineer with experience in shipping web applications to production, CI/CD with docker centric workflow, unit testing, performance and scaling, etc. with Go/Elixir/Rust.
+date: 2023-12-11
 authors:
   - nikkingtr
   - monotykamary

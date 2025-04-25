@@ -1,7 +1,7 @@
 ---
 title: Technical Recruiter
+description: "The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth."
 date: 2023-12-15
-description: The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.
 authors:
   - nikkingtr
   - tranthiaivi266

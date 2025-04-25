@@ -1,7 +1,7 @@
 ---
 title: Manifesto
-date: 2023-12-15
 description: Quality exists in every piece of work. We thrive to deliver the best because we can.
+date: 2023-12-15
 authors:
   - tieubao
 tags:

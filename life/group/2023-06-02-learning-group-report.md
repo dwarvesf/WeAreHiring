@@ -1,7 +1,8 @@
 ---
-title: "Learning Group Report"
-date: "2023-06-02"
-last_edited: "2023-06-19"
+title: Learning Group Report
+description: null
+date: 2023-06-02
+last_edited: 2023-06-19
 ---
 
 ### Group members

@@ -1,7 +1,8 @@
 ---
 title: "Life at Dwarves: Team Hangouts"
-date: "2024-10-04"
-last_edited: "2024-10-15"
+description: null
+date: 2024-10-04
+last_edited: 2024-10-15
 ---
 
 Dwarves Hangouts: Casual Moments, Real Connection

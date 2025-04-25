@@ -1,7 +1,8 @@
 ---
 title: "Life at Dwarves: Record and reward (culture sharing)"
-date: "2024-09-26"
-last_edited: "2024-10-04"
+description: null
+date: 2024-09-26
+last_edited: 2024-10-04
 ---
 
 Life at Dwarves | Learning and knowledge sharing culture

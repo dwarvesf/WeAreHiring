@@ -1,10 +1,13 @@
 ---
 title: "#17 Hoang Nguyen on youthful energy"
-short_title: "Hoang Nguyen"
-date: "2023-10-13"
-last_edited: "2024-03-08"
-description: "Hoang Nguyen reflects on the vibrant learning culture at Dwarves, where young engineers eagerly explore new technologies and embrace challenges"
-tags: life-at-dwarves, backend-engineer, learning-culture
+short_title: Hoang Nguyen
+description: Hoang Nguyen reflects on the vibrant learning culture at Dwarves, where young engineers eagerly explore new technologies and embrace challenges
+date: 2023-10-13
+last_edited: 2024-03-08
+tags:
+  - life-at-dwarves
+  - backend-engineer
+  - learning-culture
 ---
 
 **From hardware to software engineering, a Backend Engineer celebrates the extraordinary youthful energy at Dwarves where engineers are constantly learning, sharing knowledge, and embracing new challenges with enthusiasm.**
