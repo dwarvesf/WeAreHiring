@@ -42,12 +42,12 @@ With this in mind, we're selective in choosing the next people for our squad. Na
 
 After every training session, we required the apprentices to share their feedback on the program. There were both positive and constructive feedback. The best part was knowing how Apprentices were able to advance and hone their skills.
 
-- **Knowledge Upgrade**: Apprentices were asked to systemize the foundation and learn about the latest best practices of software development.
-- **Continuous Learning**: Besides project works, apprentices must pick their own domain of interest, learn then share back with the team. Our learning & discussion rooms on Discord were piled up with programming tips and #TILs.
-- **Career Path**: Most Apprentices get a more defined view on their career growth. As a highlight, a DS and a Fullstack developer have chosen to switch their path into Backend. It's interesting and exciting for not the peeps themselves, but for us as well.
-- **Engineering Principle**: Engineering mindset was enforced at all phases, nurturing a protocol to be responsible and harness a sense of ownership of what they do.
-- **Guiding Method**: Instead of the traditional mentor-mentee method, we'd prefer a peer-to-peer collaboration. Apprentices are trusted with their work and free to raise their ideas.
-- **Teamwork Mindset**: Regardless of roles and seniorities, we provide the absolute support for those who need it.
+- **Knowledge upgrade**: Apprentices were asked to systemize the foundation and learn about the latest best practices of software development.
+- **Continuous learning**: Besides project works, apprentices must pick their own domain of interest, learn then share back with the team. Our learning & discussion rooms on Discord were piled up with programming tips and #TILs.
+- **Career path**: Most Apprentices get a more defined view on their career growth. As a highlight, a DS and a Fullstack developer have chosen to switch their path into Backend. It's interesting and exciting for not the peeps themselves, but for us as well.
+- **Engineering principle**: Engineering mindset was enforced at all phases, nurturing a protocol to be responsible and harness a sense of ownership of what they do.
+- **Guiding method**: Instead of the traditional mentor-mentee method, we'd prefer a peer-to-peer collaboration. Apprentices are trusted with their work and free to raise their ideas.
+- **Teamwork mindset**: Regardless of roles and seniorities, we provide the absolute support for those who need it.
 
 ![Apprentices working together during a training session](assets/apprenticeship-training.webp)
 

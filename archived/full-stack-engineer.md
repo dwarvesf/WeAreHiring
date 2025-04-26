@@ -1,6 +1,6 @@
 ---
-title: Full-Stack Engineer
-description: We are looking for a Full-Stack Engineer who is passionate about building scalable, secure, and efficient web applications. The ideal candidate will have a strong understanding of both frontend and backend technologies, and the ability to work across the entire stack.
+title: Full-stack engineer
+description: We are looking for a Full-stack engineer who is passionate about building scalable, secure, and efficient web applications. The ideal candidate will have a strong understanding of both frontend and backend technologies, and the ability to work across the entire stack.
 date: 2025-02-05
 authors:
   - ooohminh
@@ -10,7 +10,7 @@ tags:
   - fullstack
 ---
 
-## We are hiring Full-Stack Engineers
+## We are hiring full-stack engineers
 
 This role offers flexibility, remote work, and the chance to build meaningful solutions alongside a talented team.
 
@@ -25,8 +25,8 @@ Technology is our north star metrics, engineering is our culture. We are a profi
 By October, we have already achieved our goals set for 2021. Moving to the next goals, we're looking for talented engineers to join our team.
 
 - [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
-- [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
-- [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+- [The manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+- [Culture handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ## Products we recently take part in
 

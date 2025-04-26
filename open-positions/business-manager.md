@@ -1,5 +1,5 @@
 ---
-title: Business Development Manager
+title: Business development manager
 description: The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.
 date: 2024-10-31
 authors:
@@ -11,7 +11,7 @@ tags:
   - hiring
 ---
 
-## We're looking for Business Development talents to join Dwarves and work remotely
+## We're looking for business development talents to join Dwarves and work remotely
 
 The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.
 
@@ -28,8 +28,8 @@ Technology is our north star metrics, engineering is our culture. We are a profi
 On our way moving to the next goals, we're looking for talented members to join in and help us to grow more sustainably in the coming years.
 
 - [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
-- [The Manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
-- [Culture Handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+- [The manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
+- [Culture handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
 
 ### What you'll get to do
 
@@ -85,7 +85,7 @@ Our goal is to provide and empower teammates with what they need to get the job 
 
 ---
 
-1. **Review & Reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
+1. **Review & reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
 2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
 3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
 4. **Offer**<br>The best candidate will receive an offer from us right away.

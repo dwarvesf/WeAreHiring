@@ -19,13 +19,13 @@ At Dwarves, we believe that growth is our universal language, and we always stri
 
 At the end of 2021, starting with engineering practices, the core idea behind creating a software design group is to enable engineers to develop the skills required to become software architects. While there is no predetermined path or set of qualifications, several key abilities can help engineers gain the knowledge and experience to advance as architects. Becoming a strong software architect is more about applying skills in practice than just gaining theoretical knowledge.
 
-### Welcoming All Team Members: Embracing Diversity and Inclusivity
+### Welcoming all team members: Embracing diversity and inclusivity
 
 Outside of work, we encourage the Dwarves to improve their knowledge and skills. Software Design Group - where people can develop themselves and as a team, where the team discusses and collects the point of view on software systems.
 
 By thriving on diversity, Dwarves welcomes professionals from various backgrounds, skill sets, and experiences to join us, learn with us, and build with us. We embrace inclusivity promote the exchange of fresh ideas, encourage creativity, and help to foster a sense of belonging among team members.
 
-### Developing Skills and Professional Knowledge: Continuous Growth and Mastery
+### Developing skills and professional knowledge: Continuous growth and mastery
 
 After every training session, there was both positive and constructive feedback from the team. The best part was knowing how they were able to advance and hone their skills.
 
@@ -34,7 +34,7 @@ After every training session, there was both positive and constructive feedback 
 - **Develop a user experience mindset:** Providing a good user experience was enforced at all phases. This focus on user experience (UX) encourages team members to put themselves in the shoes of the end-users and consider the impact of their work on the overall usability, accessibility, and satisfaction of the software.
 - **Teamwork mindset:** Regardless of roles and seniority, the collaboration between individuals in the team was evident, with everyone clearly understanding their responsibilities and working together effectively.
 
-### Level Up the Tech Quality
+### Level up the tech quality
 
 We build software. The primary purpose of the Software Design Group is to create high-quality software solutions. Software architects need to be hands-on, we input the discoveries and new research into practices. By creating an environment where everyone feels valued and respected, we can unlock the full potential of our engineers and drive innovation forward.
 

@@ -2,7 +2,7 @@
 title: "Life at Dwarves: Golang 102"
 description: null
 date: 2023-06-05
-last_edited: 2023-06-27
+last_edited: "2023-06-27T00:00:00.000Z"
 ---
 
 [Life at Dwarves] Golang 102

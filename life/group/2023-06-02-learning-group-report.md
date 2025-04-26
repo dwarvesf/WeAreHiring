@@ -1,8 +1,8 @@
 ---
-title: Learning Group Report
+title: Learning group report
 description: null
 date: 2023-06-02
-last_edited: 2023-06-19
+last_edited: "2023-06-19T00:00:00.000Z"
 ---
 
 ### Group members
@@ -17,7 +17,7 @@ last_edited: 2023-06-19
 - Win this week:
 - To-do next week:
 
-### Tech Radar adoption timeline
+### Tech radar adoption timeline
 
 - Topic for payment system
 - Implement memory for demo chatbot

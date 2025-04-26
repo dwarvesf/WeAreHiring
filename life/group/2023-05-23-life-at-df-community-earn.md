@@ -1,11 +1,11 @@
 ---
-title: "Life at Dwarves: Community Earn"
+title: "Life at Dwarves: Community earn"
 description: null
 date: 2023-05-23
-last_edited: 2023-06-19
+last_edited: "2023-06-19T00:00:00.000Z"
 ---
 
-### Life at Dwarves: Community Earn
+### Life at Dwarves: Community earn
 
 ### Go the extra mile
 

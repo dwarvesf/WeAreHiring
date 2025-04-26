@@ -1,6 +1,6 @@
 ---
-title: Executive Assistant
-description: We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.
+title: Executive assistant
+description: We are seeking a highly organized, proactive, and experienced Executive assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.
 date: 2023-12-15
 authors:
   - nikkingtr
@@ -9,9 +9,9 @@ tags:
   - career
 ---
 
-## We're looking for an Executive Assistant to join Dwarves and work remotely
+## We're looking for an Executive assistant to join Dwarves and work remotely
 
-**We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
+**We are seeking a highly organized, proactive, and experienced Executive assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
 
 > 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
@@ -74,7 +74,7 @@ Our goal is to provide and empower teammates with what they need to get the job 
 
 ---
 
-1. **Review & Reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
+1. **Review & reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
 2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
 3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
 4. **Offer**<br>The best candidate will receive an offer from us right away.

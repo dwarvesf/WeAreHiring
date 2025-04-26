@@ -10,7 +10,7 @@ tags:
   - internship
 ---
 
-## The Program
+## The program
 
 In 2018, we launched the first Summer Internship Program for students with or without Engineering background from top universities. The program was designed with the purpose to give an opportunity for candidates to experience the real world projects. No coffee runs here. We love watching talented people learn and explore their skills.
 
@@ -23,7 +23,7 @@ We strive to create a generation of new tech enthusiasts who possess the [same D
 
 ![](assets/internship-program-01.webp)
 
-## About Us
+## About us
 
 Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for the craftsmanship](../additional-info/what-we-stand-for.md) in software development. Our woodland is a sum of great technology, engineering culture, and smart people. The numbers speak for themselves:
 
@@ -32,7 +32,7 @@ Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for t
 - 10 common team size per deployments
 - 3 Vietnam Development Communities Influenced
 
-## The Syllabus
+## The syllabus
 
 To make sure your time with us is well-spent, we offer you real projects with our adepts and the chance to work with global customers. Bring your best curiosity and initial to make your way in these open doors:
 

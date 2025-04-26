@@ -1,5 +1,5 @@
 ---
-title: DevOps Engineer - FinTech
+title: DevOps engineer - FinTech
 description: As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
 date: 2023-03-21
 tags:
@@ -47,11 +47,11 @@ tags:
 
    After we receive applications, we will screen and review for various criteria.
 
-2. **Team Interview**
+2. **Team interview**
 
    Successful candidates will have a 30-min talk with our HR manager, our engineering manager and/or relevant team members.
 
-3. **Technical Interview**
+3. **Technical interview**
 
    Candidates will engage in a technical interview with an engineering leader from our team. This session is designed to assess your technical expertise and problem-solving mindset.
 

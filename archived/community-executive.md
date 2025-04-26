@@ -1,5 +1,5 @@
 ---
-title: Community Executive
+title: Community executive
 description: As a community executive at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
 date: 2023-03-21
 authors:
@@ -32,7 +32,7 @@ tags:
 
 ### Our interview process
 
-1. **Review & Reference check**
+1. **Review & reference check**
 
 After we receive applications, we will perform our screening process and double-check on the reference.
 

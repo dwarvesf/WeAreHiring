@@ -100,7 +100,7 @@ We proudly ship out challenging products with the support from top-notch technol
 
 ### [Business](https://github.com/dwarvesf/playbook#business)
 
-- [Overall Process](https://github.com/dwarvesf/playbook/blob/master/business/README.md)
+- [Overall process](https://github.com/dwarvesf/playbook/blob/master/business/README.md)
 - [[fbsc|Fixed Budget, Scope Controlled]]
 - [[collaboration-guideline|Collaboration Guideline]]
 
