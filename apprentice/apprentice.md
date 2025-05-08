@@ -8,8 +8,8 @@ authors:
   - tieubao
 show_frontmatter: true
 tags:
-  - career
   - apprentice
+  - career
 ---
 
 ## About the program

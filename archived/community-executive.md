@@ -6,7 +6,7 @@ authors:
   - nikkingtr
 tags:
   - career
-  - communications
+  - communication
 ---
 
 ### What it takes to succeed

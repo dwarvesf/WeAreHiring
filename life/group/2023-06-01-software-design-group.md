@@ -6,9 +6,9 @@ date: 2023-06-01
 authors:
   - innnotruong
 tags:
+  - career
   - life-at-dwarves
   - software
-  - career
 ---
 
 ### The idea: A path to better software

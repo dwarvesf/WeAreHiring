@@ -7,8 +7,8 @@ authors:
   - duynglam
   - tieubao
 tags:
-  - career
   - apprenticeship
+  - career
 ---
 
 ![Tuan Dao, Senior Frontend and Blockchain Engineer at Dwarves Foundation](assets/tuan-dao-mentor.webp)
