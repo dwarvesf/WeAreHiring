@@ -9,6 +9,8 @@ authors:
 tags:
   - apprenticeship
   - career
+redirect:
+  - /s/xPKC8Q
 ---
 
 ![Dwarves Foundation Apprenticeship program banner showing a group of apprentices](assets/apprenticeship-banner.webp)

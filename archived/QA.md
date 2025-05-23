@@ -7,6 +7,8 @@ authors:
 show_frontmatter: true
 tags:
   - career
+redirect:
+  - /s/a9549g
 ---
 
 WE ARE LOOKING FOR A QA ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use

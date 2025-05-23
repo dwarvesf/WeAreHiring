@@ -7,6 +7,8 @@ authors:
   - nikkingtr
 tags:
   - career
+redirect:
+  - /s/A7n1TQ
 ---
 
 > We're like-minded teammates who pursue ambitious goals with tech culture and codes of conduct.

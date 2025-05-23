@@ -3,6 +3,8 @@ title: "Life at Dwarves: Record and reward (culture sharing)"
 description: null
 date: 2024-09-26
 last_edited: "2024-10-04T00:00:00.000Z"
+redirect:
+  - /s/Le0_fw
 ---
 
 Life at Dwarves | Learning and knowledge sharing culture

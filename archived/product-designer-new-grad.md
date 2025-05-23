@@ -7,6 +7,8 @@ authors:
 tags:
   - career
   - design
+redirect:
+  - /s/cRhCcA
 ---
 
 ### What it takes to succeed

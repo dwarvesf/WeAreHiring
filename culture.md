@@ -7,6 +7,8 @@ authors:
   - duynglam
 tags:
   - career
+redirect:
+  - /s/yzcE_w
 ---
 
 ## Towards growth

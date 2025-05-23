@@ -10,6 +10,8 @@ show_frontmatter: true
 tags:
   - apprentice
   - career
+redirect:
+  - /s/PohDwQ
 ---
 
 ## About the program

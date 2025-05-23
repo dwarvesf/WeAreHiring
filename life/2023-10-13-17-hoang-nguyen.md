@@ -8,6 +8,8 @@ tags:
   - backend-engineer
   - culture
   - life-at-dwarves
+redirect:
+  - /s/7HE2vA
 ---
 
 **From hardware to software engineering, a Backend Engineer celebrates the extraordinary youthful energy at Dwarves where engineers are constantly learning, sharing knowledge, and embracing new challenges with enthusiasm.**

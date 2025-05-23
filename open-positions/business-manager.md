@@ -9,6 +9,8 @@ featured: false
 tags:
   - career
   - hiring
+redirect:
+  - /s/8MXfRA
 ---
 
 ## We're looking for business development talents to join Dwarves and work remotely

@@ -9,6 +9,8 @@ tags:
   - career
   - life-at-dwarves
   - software
+redirect:
+  - /s/vwMeLQ
 ---
 
 ### The idea: A path to better software

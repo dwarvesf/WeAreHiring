@@ -7,6 +7,8 @@ authors:
 show_frontmatter: true
 tags:
   - career
+redirect:
+  - /s/fBbdmw
 ---
 
 WE ARE LOOKING FOR AN iOS DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use

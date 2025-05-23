@@ -8,6 +8,8 @@ show_frontmatter: true
 tags:
   - career
   - golang
+redirect:
+  - /s/oanxPg
 ---
 
 WE ARE LOOKING FOR A GOPHER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use

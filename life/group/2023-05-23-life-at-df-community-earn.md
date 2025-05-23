@@ -3,6 +3,8 @@ title: "Life at Dwarves: Community earn"
 description: null
 date: 2023-05-23
 last_edited: "2023-06-19T00:00:00.000Z"
+redirect:
+  - /s/VUeL2w
 ---
 
 ### Life at Dwarves: Community earn

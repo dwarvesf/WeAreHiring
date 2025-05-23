@@ -8,6 +8,8 @@ show_frontmatter: true
 tags:
   - career
   - internship
+redirect:
+  - /s/EbBYmA
 ---
 
 ## The program

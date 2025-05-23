@@ -7,6 +7,8 @@ authors:
   - tranthiaivi266
 tags:
   - career
+redirect:
+  - /s/IDJJaQ
 ---
 
 ## We're looking for an Executive assistant to join Dwarves and work remotely

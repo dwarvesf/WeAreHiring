@@ -8,6 +8,8 @@ featured: true
 tags:
   - career
   - fullstack
+redirect:
+  - /s/AK62pg
 ---
 
 ## We are hiring full-stack engineers
