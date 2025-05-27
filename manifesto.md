@@ -7,6 +7,8 @@ authors:
 tags:
   - career
   - culture
+redirect:
+  - /hq0bOw
 ---
 
 ## Aim for quality

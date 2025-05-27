@@ -9,6 +9,8 @@ show_frontmatter: true
 tags:
   - career
   - hiring
+redirect:
+  - /Y2Ni6g
 ---
 
 We are open to a growth position!

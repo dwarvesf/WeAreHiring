@@ -7,6 +7,8 @@ authors:
   - duynglam
 tags:
   - career
+redirect:
+  - /ypsBag
 ---
 
 ## Towards growth

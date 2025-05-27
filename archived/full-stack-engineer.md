@@ -8,6 +8,8 @@ featured: true
 tags:
   - career
   - fullstack
+redirect:
+  - /wp17wg
 ---
 
 ## We are hiring full-stack engineers

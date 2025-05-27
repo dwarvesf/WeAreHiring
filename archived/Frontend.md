@@ -8,6 +8,8 @@ show_frontmatter: true
 tags:
   - career
   - frontend
+redirect:
+  - /Agto4A
 ---
 
 WE ARE LOOKING FOR A FRONTEND ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use

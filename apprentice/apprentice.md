@@ -10,6 +10,8 @@ show_frontmatter: true
 tags:
   - apprentice
   - career
+redirect:
+  - /7M620A
 ---
 
 ## About the program

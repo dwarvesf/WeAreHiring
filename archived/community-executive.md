@@ -7,6 +7,8 @@ authors:
 tags:
   - career
   - communication
+redirect:
+  - /vjyp9A
 ---
 
 ### What it takes to succeed

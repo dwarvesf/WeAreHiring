@@ -8,6 +8,8 @@ tags:
   - backend-engineer
   - career
   - life-at-dwarves
+redirect:
+  - /bD3jhg
 ---
 
 **A Backend Engineer reflects on his courageous decision to drop out of medical school and pursue IT instead, emphasizing that while starting later than his peers felt challenging, following his true passion was the right choice, and the will to keep learning has been key to his success.**

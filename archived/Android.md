@@ -8,6 +8,8 @@ show_frontmatter: true
 tags:
   - career
   - mobile
+redirect:
+  - /J9BQJQ
 ---
 
 WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use.

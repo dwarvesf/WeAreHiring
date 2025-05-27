@@ -7,6 +7,8 @@ authors:
   - tranthiaivi266
 tags:
   - career
+redirect:
+  - /sCe5Bg
 ---
 
 ## We're looking for a Technical recruiter to join Dwarves and work remotely

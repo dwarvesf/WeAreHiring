@@ -8,6 +8,8 @@ show_frontmatter: true
 tags:
   - career
   - internship
+redirect:
+  - /KNXCsQ
 ---
 
 ## The program
