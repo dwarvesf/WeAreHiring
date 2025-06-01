@@ -28,7 +28,7 @@ Since 2015, we've helped companies build & ship top-notch software and invest in
 
 Moving into the AI era, we're looking for talented engineers who can bridge traditional software engineering with intelligent systems development.
 
-- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
+[Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
 ## What you'll do
 

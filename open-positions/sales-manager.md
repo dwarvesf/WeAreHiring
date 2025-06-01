@@ -26,9 +26,9 @@ Since 2015, we've been a research-focused technology firm that helps companies b
 
 Our sales approach focuses on [**deal-making excellence**](/consulting/deal-making): guiding clients from unclear requirements to signed contracts while building trust and delivering clear value propositions.
 
-- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
+[Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
-Want to see our research-first approach in action? Explore our [memo site](https://memo.d.foundation) to understand how we build authority through knowledge sharing.
+Want to see our research-first approach in action? Explore our [memo site](https://memo.d.foundation) to understand how we build credibility through knowledge sharing.
 
 ## What you'll do
 

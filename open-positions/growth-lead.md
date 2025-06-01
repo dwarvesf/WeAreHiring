@@ -1,7 +1,7 @@
 ---
 title: Growth lead
 short_title: 📈 Growth lead
-description: Lead growth initiatives for a research-first technology company. Build brand authority through thought leadership, community engagement, and strategic content that showcases our technical expertise and innovations.
+description: Lead growth initiatives for a research-first technology company. Build brand credibility through thought leadership, community engagement, and strategic content that showcases our technical expertise and innovations.
 date: 2025-05-30
 authors:
   - tieubao
@@ -28,13 +28,13 @@ Since 2015, we've been a research-focused technology firm that helps companies b
 
 As a research-first company, we believe in [**building brand**](/build-log/company/brand) through substance: sharing discoveries, contributing to communities, and establishing thought leadership in emerging technologies.
 
-- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
+[Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
 Want to see what research-first looks like in practice? Explore our [memo site](https://memo.d.foundation) to understand our approach to sharing knowledge and building in public.
 
 ## What you'll do
 
-- **Build research-driven brand authority**: Develop content strategies that showcase our technical expertise and transform engineering insights into compelling thought leadership
+- **Build research-driven brand credibility**: Develop content strategies that showcase our technical expertise and transform engineering insights into compelling thought leadership
 - **Drive community-first growth**: Grow our technical communities, build strategic partnerships, and create programs that attract top talent through reputation
 - **Execute data-driven campaigns**: Design growth experiments, track meaningful metrics (brand awareness, community engagement, talent attraction), and build scalable distribution systems
 - **Collaborate with technical teams**: Work with engineers to identify shareable insights, translate complex concepts, and support open source and speaking initiatives
@@ -64,7 +64,7 @@ Want to see what research-first looks like in practice? Explore our [memo site](
 
 - Shape growth strategy for a profitable, sustainable tech company with strong values
 - Work with talented engineers and researchers passionate about sharing knowledge
-- Build brand authority in cutting-edge technology with real substance behind the messaging
+- Build brand credibility in cutting-edge technology with real substance behind the messaging
 - Access to learning resources and conferences to stay current with growth and technology trends
 
 ## Our interview process
@@ -77,7 +77,7 @@ Want to see what research-first looks like in practice? Explore our [memo site](
 Share examples of growth campaigns, content initiatives, or community building efforts you've led.
 
 **Strategy discussion**\
-Present your approach to building brand authority for a research-first tech company.
+Present your approach to building brand credibility for a research-first tech company.
 
 **Team interview**\
 Conversation about collaboration style, cultural fit, and growth philosophy.

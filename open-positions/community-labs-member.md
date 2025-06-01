@@ -29,7 +29,7 @@ Since 2015, we've been a research-focused technology firm that helps companies b
 
 Our community labs program is part of our **ICY initiative**: connecting contributors with meaningful research projects while rewarding valuable work across our ecosystem.
 
-- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
+[Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
 Want to see our research-first approach in action?\
 Explore our [memo site](https://memo.d.foundation) and check out our [**Earn dashboard**](https://memo.d.foundation/earn) for current bounties and research challenges.

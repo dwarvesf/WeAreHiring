@@ -27,13 +27,13 @@ Since 2015, we've been a research-focused technology firm that helps companies b
 
 Our approach to IP development focuses on **compound brand assets**: creating characters and stories that grow in value over time while making our technical expertise more engaging and memorable.
 
-- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
+[Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
-Want to see our research-first approach in action? Explore our [memo site](https://memo.d.foundation) to understand how we build authority through knowledge sharing.
+Want to see our research-first approach in action? Explore our [memo site](https://memo.d.foundation) to understand how we build credibility through knowledge sharing.
 
 For inspiration on how IP characters can evolve across platforms, check out [Neko character development](https://sticker.console.so) - from stickers to comics to community engagement.
 
-![[neko-sticker.png]]
+![](assets/neko-sticker.png)
 
 ## What you'll do
 
