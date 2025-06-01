@@ -36,6 +36,10 @@ We've got spots open for engineers, designers, marketers, and learners ready to 
 - [🤝 Business manager](open-positions/business-manager.md)
 - [💼 Sales manager](open-positions/sales-manager.md)
 
+### Creative
+
+- [🎨 Comic artist & IP developer](open-positions/comic-artist.md)
+
 ### Apprenticeship program [Opening late 2025]
 
 Ready to master AI-driven development? Our six-month AI apprentice program bridges traditional software engineering with intelligent systems. Perfect for engineers with solid fundamentals who want to advance into the AI era. Learn more about the [AI apprentice program](apprentice/README.md).
