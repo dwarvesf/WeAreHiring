@@ -45,7 +45,7 @@ Shiny toys can cloud our judgement. Sometimes, simple is harder than complex.
 
 Try to do more than what required to do. Make the 5% impossible possible.
 
-Spend a bit extra effort. Little things count. How you approach. How you solve or react to it. You'll be amazed by how effective it becomes by [going extra](https://memo.d.foundation/Go-the-extra-mile-4f4051d924444c62bb309cc4864b40df).
+Spend a bit extra effort. Little things count. How you approach. How you solve or react to it. You'll be amazed by how effective it becomes by [going extra](/culture/go-the-extra-mile).
 
 Software gets updated to bring a better experience. That should applies in everything else. Every time you look back on your work, there should be something to improve.
 

@@ -25,27 +25,31 @@ Here's the heart of it: we're looking for folks who live for tech, ship quality 
 
 We've got spots open for engineers, designers, marketers, and learners ready to grow. Whether you're a seasoned smith or just sharpening your skills, there's a place for you in our woodland.
 
+### Engineering
+
+- [💻 Software engineer - AI consulting](open-positions/software-engineer.md)
+
 ### Business
 
 - [Growth lead](open-positions/growth-lead.md)
 - [Sales manager](open-positions/sales-manager.md)
 
-### Apprenticeship program [N/A]
+### Apprenticeship program [Opening late 2025]
 
-Got at least a year of experience? Our six-month program pairs you with mentors to craft real projects. Explore more [here](apprentice/apprentice.md).
+Ready to master AI-driven development? Our six-month AI apprentice program bridges traditional software engineering with intelligent systems. Perfect for engineers with solid fundamentals who want to advance into the AI era. Learn more about the [AI apprentice program](apprentice/README.md).
 
 ## What you'll gain
 
-We're not just about shipping great software; we want you to thrive while doing it. Joining the Dwarves means you're part of our greatest treasure: our people. Here's what we offer to keep your fire burning bright:
+We're not just about shipping great software, we want you to thrive while doing it. Joining the Dwarves means you're part of our greatest treasure: our people. Here's what we offer to keep your fire burning bright:
 
 - 💸 **Fair pay**. Your role, skills, and experience set the rate.
 - 🏅 **Focus on results**. We judge the work, not the hours.
 - ⏰ **Time off when you need it**. No tracking, just keep your crew posted.
-- 🌎 **Work where you're strongest**. HCMC, Da Lat, Hanoi, or a quiet forest somewhere.
+- 🌎 **Work where you're strongest**. HCMC, Da Nang, Hanoi, or a quiet forest somewhere.
 - 🌿 **Health support**. Yearly Bao Minh insurance package.
 - 🤝 **A stake in the hall**. Shares based on what you bring to the table.
 - ✔️ **Extra bucks**. A 13th-month paycheck, every year.
-- 🫂 **Bonuses for big wins**. Projects, R&D, referrals—we celebrate it all.
+- 🫂 **Bonuses for big wins**. Projects, R&D, referrals, we celebrate it all.
 - 📖 **Learning fuel**. Yearly budget for books, courses, whatever sharpens your axe.
 - 🔆 **Shared bounty**. Profit-sharing based on your time with us.
 
@@ -55,7 +59,7 @@ No one's hovering over your shoulder here. We trust you to craft great stuff, an
 
 Our days are filled with meaningful work that echoes through the tech world. Here's a glimpse:
 
-**Software that lasts**. We've worked for [Setel](http://setel.com), [Momos](https://www.momos.io), and [Chotot](http://chotot.com), helping them grow strong.
+**Software that lasts**. We've worked for [Setel](https://setel.com), [Momos](https://www.momos.io), and [Chotot](https://chotot.com), helping them grow strong.
 
 ![Client projects showcase with Setel, Momos and Chotot](assets/client-projects.webp)
 
@@ -63,8 +67,9 @@ Our days are filled with meaningful work that echoes through the tech world. Her
 
 ![Open source projects by Dwarves Foundation](assets/opensource-projects.webp)
 
-- **Knowledge shared freely**. We're deep into Blockchain, AI, and more. Join the chat on [Discord](https://discord.com/invite/dfoundation) or explore [Brainery](http://brain.d.foundation).
-- **Roots in the community**. We power [Golang Vietnam](https://golang.org.vn), [WeBuild](http://webuild.community) and projects like [Techie Story](https://techiestory.net).
+**Knowledge shared freely**. We're deep into Blockchain, AI, and more. Join the chat on [Discord](https://discord.gg/dfoundation) or explore [Brainery](https://memo.d.foundation).
+
+**Roots in the community**. We power [Golang Vietnam](https://golang.org.vn), [WeBuild](https://webuild.community) and projects like [Techie Story](https://techiestory.net).
 
 Want the full story? Our [handbook](https://github.com/dwarvesf/handbook/) and [playbook](https://github.com/dwarvesf/playbook) lay out how we work and why it matters.
 
@@ -94,21 +99,23 @@ Curious about the journey? Check out stories from [Huy Tieu](https://techiestory
 
 ## How to step into the hall
 
-**Send us a message**. Email [team@d.foundation](mailto:team@d.foundation) with:
+**Found your role above?** Great! Each position has its own application process. Click through to the specific role for detailed requirements and next steps.
 
-- Your skills, experience, and what role you're eyeing.
-- Links to your work (GitHub, portfolio, anything you've crafted).
-- A nod from someone who's seen you shine, if you've got it.
+**Don't see a perfect match?** No worries. Send us a message at [hr@d.foundation](mailto:hr@d.foundation) with:
 
-**What happens next**.
+- Your skills, experience, and what type of role interests you most
+- Links to your work (GitHub, portfolio, anything you've crafted)
+- A nod from someone who's seen you shine, if you've got it
 
-- A 60-minute chat to swap tales: your skills, our vision.
-- A quick check to see if we're a fit for each other.
-- Two milestones: a paid probation review, then a six-month look-back.
+**What happens next**:
 
-No role catching your eye? Stick around on [Discord](https://discord.gg/dfoundation); we'll holler when something opens up.
+- A 60-minute chat to swap tales: your skills, our vision
+- We'll explore where you might fit best in our woodland
+- If there's a match, we'll guide you through the specific role's interview process
 
-Building software is like crafting a fine axe; it takes skill, purpose, and a steady hand. At Dwarves, you'll wield all three alongside a crew that's got your back. Let's forge something great: reach out today.
+No role catching your eye right now? Stick around on [Discord](https://discord.gg/dfoundation), we'll holler when something new opens up.
+
+Building software is like crafting a fine axe, it takes skill, purpose, and a steady hand. At Dwarves, you'll wield all three alongside a crew that's got your back. Let's forge something great: reach out today.
 
 ---
 
