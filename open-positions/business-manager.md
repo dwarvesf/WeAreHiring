@@ -1,102 +1,92 @@
 ---
 title: Business development manager
-description: The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.
-date: 2024-10-31
+description: Drive business development for a research-first consulting firm. Identify market opportunities, build strategic partnerships, and develop client relationships that align with our technical expertise in emerging technologies.
+date: 2025-05-30
 authors:
-  - innnotruong
-  - nikkingtr
-featured: false
+  - tieubao
 tags:
   - career
   - hiring
+  - business-development
+  - consulting
+  - full-time
 redirect:
-  - /sK8fbA
+  - /bizdev-2025
 ---
 
-## We're looking for business development talents to join Dwarves and work remotely
+## We are hiring a business development manager
 
-The ideal candidate will have a deep understanding of the software development industry, experience in developing partnerships & connections, excellent communication skills, and a never-ending passion for technology.
+Drive business development for a research-first consulting firm that spots market inefficiencies and delivers technical solutions. Focus on opportunity identification, strategic partnerships, and building relationships that convert into meaningful consulting engagements.
 
-This role will be responsible for identifying new business opportunities, fostering strong client relationships, attending to projects, and driving growth by promoting our services to potential clients globally.
+> **🤘 [Apply now](mailto:hr@d.foundation)** (We respond within three days)
 
-> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
+## About Dwarves
 
-## Dwarves is research-focused technology firm
+Since 2015, we've been a research-focused technology firm that helps companies build top-notch software and invest in ambitious people pursuing world-changing innovations. We're profitable since day 1 and build our reputation through technical excellence and knowledge sharing.
 
-Since 2015, we have helped companies build & ship top-notch software, operate tech teams and invest in ambitious people who are after world's next big things.
+Our business development approach centers on **inefficiency arbitrage**: spotting gaps in clients' tech and processes, then delivering solutions that create real value.
 
-Technology is our north star metrics, engineering is our culture. We are a profitable company since day 1 and have been growing steadily.
+- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
-On our way moving to the next goals, we're looking for talented members to join in and help us to grow more sustainably in the coming years.
+Want to see our research-first approach in action? Explore our [memo site](https://memo.d.foundation) to understand how we build authority through knowledge sharing.
 
-- [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
-- [The manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
-- [Culture handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+## What you'll do
 
-### What you'll get to do
+- **Identify market opportunities**: Use [inefficiency arbitrage](/consulting/inefficiency-arbitrage) to spot client tech gaps and emerging consulting opportunities in AI, fintech, and healthcare sectors
+- **Build strategic partnerships**: Develop relationships with tech communities, industry leaders, and potential clients that align with our expertise
+- **Form market thesis**: Analyze market trends, client pain points, and emerging technologies to guide our consulting focus and positioning
+- **Apply squad approach**: [Position our team](/consulting/apply-as-a-squad) effectively for opportunities where our small, high-skilled crew can deliver exceptional value
+- **Develop client relationships**: Build long-term partnerships with key decision-makers and technical stakeholders
 
----
+## What we're looking for
 
-- Getting trained into Business Development Executive with focus on **AI/LLM, fintech, healthcare solutions.**
-- Collaborate with the marketing team to create compelling proposals and presentations that effectively communicate our technical expertise in AI and emerging technologies.
-- Identify, prospect, and engage with potential clients to understand their software development needs.
-- Build and maintain strong relationships with key decision-makers, stakeholders, and industry influencers.
-- Work closely with the delivery and project management teams to ensure smooth transition and successful execution of client projects.
-- Generate and develop long-term goals for Business Development team.
-- Closes new business deals by coordinating requirements; developing and negotiating contracts; integrating contract requirements with business operations.
-- Stay updated on AI/LLM, fintech, healthcare trends, market conditions, and competitors to identify new opportunities.
+**Business development experience**
 
-### What it takes to succeed
+- 3+ years in business development, preferably in tech consulting or B2B services
+- Experience identifying strategic partnerships and market opportunities
+- Understanding of software development industry and consulting sales cycles
 
-- Graduates or above from the following majors:
-  - Business Development
-  - Business English Communication
-  - Communication
-  - Marketing
-- Prior experience or strong interest in **AI/LLM, and fintech, healthcare, data engineering sectors.**
-- Demonstrated ability to understand and communicate complex technical concepts to diverse audiences.
-- Prior operation experience at technology firm preferred:
-  - Ability to work under pressure and fast-moving environment
-  - Excellent time management and organization
-  - Excellent English in writing, speaking and reading
-  - Excellent communication, negotiation, and presentation skills
-  - Strong desire to work in IT industry, particularly with emerging technologies
-  - Strong understanding of software development methodologies and technologies is preferred
+**Technical collaboration skills**
 
-### Nice to have
+- Comfortable working with engineers and technical teams
+- Basic understanding of software development, AI, emerging technologies, or AI agents
+- Ability to communicate technical solutions' business value to decision-makers
 
-- Experience working with IT companies.
-- Existing connections or involvement with tech communities.
-- A long time Discord user.
+**Market analysis and relationship building**
 
-### Benefits
+- Strong analytical abilities to [spot market inefficiencies and opportunities](/consulting/inefficiency-arbitrage)
+- Excellent communication and presentation skills
+- Proven track record of building professional relationships and converting them into business opportunities
 
----
+## What you can expect
 
-Our goal is to provide and empower teammates with what they need to get the job done.
+- Work with a profitable, research-first consulting firm with strong technical reputation
+- Collaborate with talented engineers passionate about solving complex problems
+- Build strategic partnerships in cutting-edge technology areas with real market demand
+- Access to learning resources and industry events to stay current with market developments
 
-- Flat-structure & 100% remote
-- Office: We currently have office in HCMC
-- Healthcare: Bao Minh medical & accident insurance for full-time members
-- Full salary during probation
-- Bi-annual performance review
-- Education Allowance for work-related sponsorship
-- ESOP: You can buy a certain amount of company shares at a predetermined price. It's a part of our compensation packages
+## Our interview process
 
-### Our interview process
+![](assets/hiring-process.png)
+
+**Screening** • **Portfolio review** • **Strategy discussion** • **Team interview** • **Offer**
+
+**Portfolio review**\
+Share examples of partnerships developed, deals closed, or market opportunities identified.
+
+**Strategy discussion**\
+Present your approach to identifying opportunities and building partnerships for a research-first consulting firm.
+
+**Team interview**\
+Conversation about collaboration with technical teams, market understanding, and business philosophy.
+
+> **🤘 [Apply now](mailto:hr@d.foundation)** (We respond within three days)
 
 ---
 
-1. **Review & reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
-2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
-3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
-4. **Offer**<br>The best candidate will receive an offer from us right away.
+## Your dream job not listed?
 
-> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
+Not a big deal. We hardly ever say no to talents.
 
-**Or know someone who would be a great fit? Let them know!**\
-Share via [Email](mailto:spawn@d.foundation), [Facebook](https://www.facebook.com/dwarvesf), [LinkedIn](https://www.linkedin.com/company/dwarvesf/), [Twitter](https://twitter.com/dwarvesf.)
-
-**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
-[Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
-[Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers
+- [Shoot us an email](mailto:hr@d.foundation) with your LinkedIn / CV
+- [Join our Discord](https://discord.gg/dfoundation) of +1200 other engineers and designers

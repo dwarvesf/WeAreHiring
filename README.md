@@ -28,11 +28,13 @@ We've got spots open for engineers, designers, marketers, and learners ready to 
 ### Engineering
 
 - [💻 Software engineer - AI consulting](open-positions/software-engineer.md)
+- [🔧 Platform engineer](open-positions/platform-engineer.md)
 
 ### Business
 
-- [Growth lead](open-positions/growth-lead.md)
-- [Sales manager](open-positions/sales-manager.md)
+- [📈 Growth lead](open-positions/growth-lead.md)
+- [🤝 Business manager](open-positions/business-manager.md)
+- [💼 Sales manager](open-positions/sales-manager.md)
 
 ### Apprenticeship program [Opening late 2025]
 

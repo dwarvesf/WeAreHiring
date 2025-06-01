@@ -1,89 +1,94 @@
 ---
 title: Growth lead
-description: You will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
-date: 2022-07-21
+short_title: 📈 Growth lead
+description: Lead growth initiatives for a research-first technology company. Build brand authority through thought leadership, community engagement, and strategic content that showcases our technical expertise and innovations.
+date: 2025-05-30
 authors:
-  - nikkingtr
-  - duynglam
-show_frontmatter: true
+  - tieubao
 tags:
   - career
   - hiring
+  - growth
+  - marketing
+  - research
+  - full-time
 redirect:
-  - /Y2Ni6g
+  - /growth-2025
 ---
 
-We are open to a growth position!
+## We are hiring a growth lead
 
-If you are looking for a tech-savvy company to contribute to and make your career, this may be your opportunity to put in your spirit and ideal setup.
+Drive growth for a research-first technology company that builds brand through knowledge sharing, community engagement, and thought leadership in emerging technologies.
 
-## Purpose
+> **🤘 [Apply now](mailto:hr@d.foundation)** (We respond within three days)
 
-Dwarves are a group of software engineers, designers, and innovation advocates. We are one of the most tech-savvy teams out there. We build this team together six years ago from a corner of Saigon and Toronto.
+## About Dwarves
 
-We serve a single purpose: To empower innovations and co-create the next big things. Software is eating the world. It is a good bet that software will remain an essential part of the future. With that in mind, at Dwarves, we focus on software delivery capability, new tech product, and their impacts.
+Since 2015, we've been a research-focused technology firm that helps companies build top-notch software and invest in ambitious people pursuing world-changing innovations. We're profitable since day 1 and build our reputation through technical excellence and knowledge sharing.
 
-The activities at Dwarves are consisted of
+As a research-first company, we believe in [**building brand**](/build-log/company/brand) through substance: sharing discoveries, contributing to communities, and establishing thought leadership in emerging technologies.
 
-- New technology R&D and how to apply them efficiently.
-- We build modern software, web, app, SaaS, and cloud platforms.
-- We invest & help startup founders to ship new products.
-- We give a hand to the tech communities by assisting them with side projects and online/offline event organizations.
+- [Life at Dwarves](/careers/life) • [The manifesto](/careers/manifesto) • [Culture handbook](/careers/culture)
 
-## Marketing position at Dwarves
+Want to see what research-first looks like in practice? Explore our [memo site](https://memo.d.foundation) to understand our approach to sharing knowledge and building in public.
 
-We do inbound marketing to grow our audience base. We deliver values and establish strong connections with the audience.
+## What you'll do
 
-You will work closely with the operations & engineering team
+- **Build research-driven brand authority**: Develop content strategies that showcase our technical expertise and transform engineering insights into compelling thought leadership
+- **Drive community-first growth**: Grow our technical communities, build strategic partnerships, and create programs that attract top talent through reputation
+- **Execute data-driven campaigns**: Design growth experiments, track meaningful metrics (brand awareness, community engagement, talent attraction), and build scalable distribution systems
+- **Collaborate with technical teams**: Work with engineers to identify shareable insights, translate complex concepts, and support open source and speaking initiatives
 
-- Developing tactics to boost the company's reputation, drive qualified traffic of Dwarves satellite channels.
-- Growing the audience base.
-- Pipeline setup, campaign execution, report, and monitoring.
-- Deploying marketing campaigns from ideation to execution.
-- Preparing quarterly and annual reports to senior management.
+## What we're looking for
 
-## Benefit & perks
+**Growth expertise**
 
-- Environment: Flat, Autonomy & Remote
-- Competitive salary, with full salary during probation
-- Education Allowance for work-related
-- KPI reward & Stock options
+- 3+ years in growth marketing, preferably in tech or B2B environments
+- Experience building brand through thought leadership and content marketing
+- Understanding of community-driven growth and developer marketing
 
-### Our interview process
+**Technical collaboration**
 
-1. **Review & reference check**<br>After we receive applications, we will perform our screening process and double-check on the reference.
-2. **Skills** **assessment test**<br>Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
-3. **Team interview**<br>Successful candidates will have a direct talk with our Ops members and/or relevant team members.
-4. **Offer**<br>The best candidate will receive an offer from us right away.
+- Comfortable working with engineers and researchers in a technical environment
+- Basic understanding of software development, AI, emerging technologies, or AI agents
+- Experience marketing to developers, engineers, or technical decision-makers
+- Ability to extract and package technical insights into engaging content
 
-## How to apply
+**Communication skills**
 
-Send us an email at <team@d.foundation>, with the following info:
+- Excellent writing and storytelling abilities
+- Experience managing multi-channel campaigns and community initiatives
+- Data-driven approach to measuring and optimizing growth efforts
 
-- Detailed info related to your position
-- Portfolios you've been working on
-- References, if you have any
+## What you can expect
 
-Learn more:
+- Shape growth strategy for a profitable, sustainable tech company with strong values
+- Work with talented engineers and researchers passionate about sharing knowledge
+- Build brand authority in cutting-edge technology with real substance behind the messaging
+- Access to learning resources and conferences to stay current with growth and technology trends
 
-- Home: <https://d.foundation>
-- Consulting: <https://d.foundation/work>
-- Products: <https://superbits.co>
-- Community works:
+## Our interview process
 
-  - [Techie Story](https://techiestory.co)
-  - [WeBuild Community](https://webuild.community)
-  - [Golang Vietnam](https://golang.org.vn)
+![](assets/hiring-process.png)
 
-- [Life at Dwarves](https://memo.d.foundation/careers/additional-info/life-at-dwarves/)
-- [The manifesto](https://memo.d.foundation/careers/additional-info/the-manifesto/)
-- [Culture handbook](https://memo.d.foundation/careers/additional-info/culture-handbook/)
+**Screening** • **Portfolio review** • **Strategy discussion** • **Team interview** • **Offer**
 
-> **🤘 <a href="mailto:spawn@d.foundation">Apply now</a>** (We respond within three days)
+**Portfolio review**\
+Share examples of growth campaigns, content initiatives, or community building efforts you've led.
 
-**Or know someone who would be a great fit? Let them know!**\
-Share via [Email](mailto:spawn@d.foundation), [Facebook](https://www.facebook.com/dwarvesf), [LinkedIn](https://www.linkedin.com/company/dwarvesf/), [Twitter](https://twitter.com/dwarvesf.)
+**Strategy discussion**\
+Present your approach to building brand authority for a research-first tech company.
 
-**Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**\
-[Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
-[Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers
+**Team interview**\
+Conversation about collaboration style, cultural fit, and growth philosophy.
+
+> **🤘 [Apply now](mailto:hr@d.foundation)** (We respond within three days)
+
+---
+
+## Your dream job not listed?
+
+Not a big deal. We hardly ever say no to talents.
+
+- [Shoot us an email](mailto:hr@d.foundation) with your LinkedIn / CV
+- [Join our Discord](https://discord.gg/dfoundation) of +1200 other engineers and designers
