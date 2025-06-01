@@ -40,6 +40,10 @@ We've got spots open for engineers, designers, marketers, and learners ready to 
 
 - [🎨 Comic artist & IP developer](open-positions/comic-artist.md)
 
+### Community
+
+- [🔬 Community labs member](open-positions/community-labs-member.md) *Side gig with allowances and research perks*
+
 ### Apprenticeship program [Opening late 2025]
 
 Ready to master AI-driven development? Our six-month AI apprentice program bridges traditional software engineering with intelligent systems. Perfect for engineers with solid fundamentals who want to advance into the AI era. Learn more about the [AI apprentice program](apprentice/README.md).
